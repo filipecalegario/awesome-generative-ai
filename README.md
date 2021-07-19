@@ -42,9 +42,11 @@ References of Generative Deep Learning tools, works, models, etc.
 * https://thispersondoesnotexist.com/ - gerador de rostos humanos 
 * https://thisxdoesnotexist.com/ - site com vários exemplos de outros modelos
 
-## Deployed Models
+## Sites com modelos já funcionando (Deployed Models)
 
 * [Toonify yourself | Justin Pinkney](https://www.justinpinkney.com/toonify-yourself/)
+* https://deepart.io/
+* https://www.artbreeder.com/
 
 ## Pre-trained Models
 
