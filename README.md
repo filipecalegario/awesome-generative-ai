@@ -16,3 +16,18 @@ References of Generative Deep Learning tools, works, models, etc.
 * [Yuheng-Li/MixNMatch](https://github.com/Yuheng-Li/MixNMatch)
 * [lucidrains/lightweight-gan](https://github.com/lucidrains/lightweight-gan): 512x512 flowers after 12 hours of training, 1 gpu 256x256 flowers after 12 hours of training, 1 gpu Implementation of 'lightweight' GAN proposed in ICLR 2021
 * [A collection of pre-trained StyleGAN 2 models to download - Deep Learning | ReposHub](https://reposhub.com/python/deep-learning/justinpinkney-awesome-pretrained-stylegan2.html)
+* [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
+* [Toonify yourself | Justin Pinkney](https://www.justinpinkney.com/toonify-yourself/)
+* [Authentic Digital Art - Unknown Departure | SuperRare](https://superrare.com/artwork-v2/unknown-departure-16212) 
+* [(Non-)Human](https://www.ygzhang.com/non-human.html) 
+* [AICAN](https://aican.io/) 
+* [Frea Buckler ~ Artist](https://www.freabuckler.com/) 
+* [(19) derrick has started yet another project on Twitter: "Just sent @buntworthy a demo StyleGAN model I trained / Twitter](https://twitter.com/dvsch/status/1255885874560225284) 
+* [Ganvas Studio - Neural Network Paintings](https://ganvas.studio/) 
+* [Helena Sarin – Artist Profile (Photos, Videos, Exhibitions) — AIArtists.org](https://aiartists.org/helena-sarin) 
+* [KRЯRL DЯAWINGS: Runway ML -- 3rd "Model" (based on long poses)](http://krrrl.blogspot.com/2020/08/runway-ml-3rd-model-based-on-long-poses.html) 
+* [Learning to See – Memo Akten | Mehmet Selim Akten | The Mega Super Awesome Visuals Company](http://www.memo.tv/works/learning-to-see/) 
+* [StyleGAN: Use machine learning to generate and customize realistic images | by Jamshed Khan | Heartbeat](https://heartbeat.fritz.ai/stylegans-use-machine-learning-to-generate-and-customize-realistic-images-c943388dc672) 
+* [Audio-reactive Latent Interpolations with StyleGAN](https://wavefunk.xyz/audio-reactive-stylegan)
+* [Neural Zoo | Sofia Crespo](https://neuralzoo.com/) 
+* [Syn Feather Sweater / STRELITZIA – HATRA E STORE](https://hatroid.com/collections/synthetic-feather/products/syn-feather-sweater-strelitzia) 
