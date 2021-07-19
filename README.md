@@ -1,6 +1,6 @@
-# Generative Deep Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Generative Deep Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Generative Deep Learning projects, tools, artworks, and models
+> A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
 
