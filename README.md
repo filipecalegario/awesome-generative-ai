@@ -8,10 +8,11 @@
 * [StyleGAN: Use machine learning to generate and customize realistic images | by Jamshed Khan | Heartbeat](https://heartbeat.fritz.ai/stylegans-use-machine-learning-to-generate-and-customize-realistic-images-c943388dc672) 
 * [Audio-reactive Latent Interpolations with StyleGAN](https://wavefunk.xyz/audio-reactive-stylegan)
 
-## Youtube Channels
+## Youtube
 
 * [Artificial Images](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA): Demos and explanations to make art using machine learning
-* [Glenn Marshall Neural Art](https://www.youtube.com/user/glenniszen) 
+* [Glenn Marshall Neural Art](https://www.youtube.com/user/glenniszen)
+* [How to Generate Art - Intro to Deep Learning #8](https://www.youtube.com/watch?v=Oex0eWoU7AQ) 
 
 ## GitHubs
 
