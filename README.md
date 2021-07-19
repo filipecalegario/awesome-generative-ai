@@ -31,3 +31,4 @@ References of Generative Deep Learning tools, works, models, etc.
 * [Audio-reactive Latent Interpolations with StyleGAN](https://wavefunk.xyz/audio-reactive-stylegan)
 * [Neural Zoo | Sofia Crespo](https://neuralzoo.com/) 
 * [Syn Feather Sweater / STRELITZIA – HATRA E STORE](https://hatroid.com/collections/synthetic-feather/products/syn-feather-sweater-strelitzia) 
+* [Modelo pretreinado com obras de arte moderna](https://twitter.com/MichaelFriese10/status/1213697331427545088)
