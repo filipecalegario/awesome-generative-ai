@@ -1,5 +1,6 @@
-# generative-deep-learning
-References of Generative Deep Learning tools, works, models, etc.
+# Generative Deep Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of Generative Deep Learning projects, tools, artworks, and models
 
 ## Inbox
 
@@ -69,3 +70,14 @@ References of Generative Deep Learning tools, works, models, etc.
 
 * https://ieeexplore.ieee.org/abstract/document/9043519: A State-of-the-Art Review on Image Synthesis With Generative Adversarial Networks
 * [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Filipe Calegario has waived all copyright and
+related or neighboring rights to this work.
