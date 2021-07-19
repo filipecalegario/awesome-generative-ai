@@ -51,6 +51,7 @@ References of Generative Deep Learning tools, works, models, etc.
 * [Yuheng-Li/MixNMatch](https://github.com/Yuheng-Li/MixNMatch)
 * [lucidrains/lightweight-gan](https://github.com/lucidrains/lightweight-gan): 512x512 flowers after 12 hours of training, 1 gpu 256x256 flowers after 12 hours of training, 1 gpu Implementation of 'lightweight' GAN proposed in ICLR 2021
 * [VQGAN+CLIP](https://docs.google.com/document/d/1Lu7XPRKlNhBQjcKr8k8qRzUzbBW7kzxb5Vu72GMRn2E/edit): This is a brief tutorial on how to operate VQGAN+CLIP by Katherine Crowson
+* [rinongal/StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada): Zero-Shot non-adversarial domain adaptation of pre-trained generators
 
 ## This X does not exist
 
