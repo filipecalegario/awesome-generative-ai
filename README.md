@@ -9,6 +9,7 @@
 * [Audio-reactive Latent Interpolations with StyleGAN](https://wavefunk.xyz/audio-reactive-stylegan)
 * [DALL·E](https://openai.com/blog/dall-e/): Creating Images from Text
 * [Alien Dreams: An Emerging Art Scene - ML@B Blog](https://ml.berkeley.edu/blog/posts/clip-art/)
+* [VQGAN+CLIP (with pooling)](https://colab.research.google.com/drive/1ZAus_gn2RhTZWzOWUpPERNC0Q8OhZRTZ#scrollTo=JX56bq4rEKIp): Generate images from text prompts with VQGAN and CLIP (z+quantize method)
 
 ## Youtube
 
