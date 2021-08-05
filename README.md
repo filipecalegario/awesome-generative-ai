@@ -2,7 +2,7 @@
 
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
-## Inbox
+## Inbox (things to organize)
 
 * [Let's Talk Energy Usage of Generative Machine Learning](https://www.youtube.com/watch?v=3nViZGCkAhU&t=1276s)
 * [StyleGAN: Use machine learning to generate and customize realistic images | by Jamshed Khan | Heartbeat](https://heartbeat.fritz.ai/stylegans-use-machine-learning-to-generate-and-customize-realistic-images-c943388dc672) 
