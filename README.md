@@ -12,6 +12,7 @@
 * [VQGAN+CLIP (with pooling)](https://colab.research.google.com/drive/1ZAus_gn2RhTZWzOWUpPERNC0Q8OhZRTZ#scrollTo=JX56bq4rEKIp): Generate images from text prompts with VQGAN and CLIP (z+quantize method)
 * [~200 CLIP+VQGAN keywords on 4 subjects, by @kingdomakrillic  - Imgur](https://imgur.com/a/SALxbQm) 
 * [DeepStory](https://www.deepstory.ai/#!/): A tale of co-creation between man & machine
+* [SofGAN](https://www.unite.ai/sofgan-a-gan-face-generator-that-offers-greater-control/): A GAN Face Generator That Offers Greater Control - Unite.AI
 
 ## Youtube
 
