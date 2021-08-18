@@ -14,6 +14,8 @@
 * [DeepStory](https://www.deepstory.ai/#!/): A tale of co-creation between man & machine
 * [SofGAN](https://www.unite.ai/sofgan-a-gan-face-generator-that-offers-greater-control/): A GAN Face Generator That Offers Greater Control - Unite.AI
 * [Appreciating the Poetic Misunderstandings of A.I. Art | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art?s=09)
+* [DALL-E mini](https://huggingface.co/spaces/flax-community/dalle-mini): DALL·E mini is an AI model that generates images from any prompt you give!
+* [DALL-E mini GitHub](https://github.com/borisdayma/dalle-mini)
 
 ## Youtube
 
