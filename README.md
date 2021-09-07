@@ -29,6 +29,7 @@
 * [Introduction to VQGAN+CLIP - 🟧Sourceful](https://sourceful.us/doc/935/introduction-to-vqganclip) 
 * [Image Super-Resolution](https://idealo.github.io/image-super-resolution/) 
 * [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Aug, 2021 | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52) 
+* [Arbitrary Image Stylization | AlternativeTo](https://alternativeto.net/software/arbitrary-image-stylization/about/) 
 
 ## Youtube
 
