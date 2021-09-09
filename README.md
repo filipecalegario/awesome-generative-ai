@@ -31,6 +31,19 @@
 * [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Aug, 2021 | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52) 
 * [neural-dream Alternatives and Similar Photos & Graphics Apps | AlternativeTo](https://alternativeto.net/software/neural-dream/) 
 
+## Inbox Text-related (things to organize)
+
+* [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY&list=LL&index=1&t=17s) by Dr Alan D. Thompson. The following references came from this video description
+* [InferKit](https://app.inferkit.com/demo)
+* [CopyHat](https://copyhat.com/)
+* [Emerson on iOS](https://apps.apple.com/us/app/emerson...)
+* [Jurassic-1](https://studio.ai21.com/)
+* [EleutherAI | GPT-J-6B](https://6b.eleuther.ai/)
+* [AIx](https://apps.aixsolutionsgroup.com/)
+* [Wudao](https://pretrain.aminer.cn/os/qa)
+* [GPT-3 playground (invite/approval only)](https://beta.openai.com/playground)
+* [Emerson on Telegram](https://www.quickchat.ai/emerson)
+
 ## Youtube
 
 * [Artificial Images](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA): Demos and explanations to make art using machine learning
