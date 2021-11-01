@@ -50,6 +50,10 @@
 * [GPT-3 playground (invite/approval only)](https://beta.openai.com/playground)
 * [Emerson on Telegram](https://www.quickchat.ai/emerson)
 
+## Instagrams
+
+* [Deep Music Visualizer](https://www.instagram.com/deep_music_visualizer/)
+
 ## Youtube
 
 * [Artificial Images](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA): Demos and explanations to make art using machine learning
@@ -119,6 +123,11 @@
 ## Other Related Awesome Lists
 
 - [margaretmz/awesome-ai-art-design](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
+
+## Notes
+
+* Video clip: music + lyrics => image + video
+* Book: text => illustration
 
 ## Contribute
 
