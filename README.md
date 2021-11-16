@@ -54,6 +54,7 @@
 ## Instagrams
 
 * [Deep Music Visualizer](https://www.instagram.com/deep_music_visualizer/)
+* [Lucid Sonic Dreams (@lucidsonicdreams)](https://www.instagram.com/lucidsonicdreams/) 
 
 ## Youtube
 
