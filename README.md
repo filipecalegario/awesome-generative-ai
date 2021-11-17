@@ -3,6 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox (things to organize)
+* [Greg Surma - Portfolio](https://gsurma.github.io/) 
 * [crowsonkb (Katherine Crowson)](https://github.com/crowsonkb): who wrote [the tutorial of VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
 * [🔥 ] [dvschultz/stylegan3](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
 * [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/): NVidia official StyleGAN3 release page
