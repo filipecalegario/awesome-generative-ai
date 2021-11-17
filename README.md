@@ -129,6 +129,7 @@
 ## Other Related Awesome Lists
 
 - [margaretmz/awesome-ai-art-design](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
+- [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 
 ## Notes
 
