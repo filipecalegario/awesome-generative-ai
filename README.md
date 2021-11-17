@@ -4,6 +4,7 @@
 
 ## Inbox (things to organize)
 * [🔥 ] [Vadim Epstein’s Aphantasia library](https://github.com/eps696/aphantasia)
+* [aakashjhawar/AvatarGAN](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
 * [Greg Surma - Portfolio](https://gsurma.github.io/) 
 * [crowsonkb (Katherine Crowson)](https://github.com/crowsonkb): who wrote [the tutorial of VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
 * [🔥 ] [dvschultz/stylegan3](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
