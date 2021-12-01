@@ -3,9 +3,6 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
-* [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/): illustrated explanation on how VQGAN works
-* [CLIP: Connecting Text and Images](https://openai.com/blog/clip/): OpenAI's explanation on how CLIP works
-* [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52) 
 * [🔥 ] [Vadim Epstein’s Aphantasia library](https://github.com/eps696/aphantasia)
 * [aakashjhawar/AvatarGAN](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
 * [Greg Surma - Portfolio](https://gsurma.github.io/) 
@@ -57,6 +54,13 @@
 * [Wudao](https://pretrain.aminer.cn/os/qa)
 * [GPT-3 playground (invite/approval only)](https://beta.openai.com/playground)
 * [Emerson on Telegram](https://www.quickchat.ai/emerson)
+
+## Reading and understanding
+
+* [Casual GAN Papers](https://www.casualganpapers.com/): Easy to read summaries of popular AI papers
+* [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/): illustrated explanation on how VQGAN works
+* [CLIP: Connecting Text and Images](https://openai.com/blog/clip/): OpenAI's explanation on how CLIP works
+* [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52) 
 
 ## Interesting Instagram Accounts
 
