@@ -144,6 +144,9 @@
 * Video clip: music + lyrics => image + video
 * Book: text => illustration
 
+## Improving Google Colab experience
+* [7 ways to load external data into Google Colab | by B. Chen | Towards Data Science](https://towardsdatascience.com/7-ways-to-load-external-data-into-google-colab-7ba73e7d5fc7) 
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
