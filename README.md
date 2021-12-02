@@ -147,7 +147,8 @@
 ## Improving Google Colab experience
 * [7 ways to load external data into Google Colab | by B. Chen | Towards Data Science](https://towardsdatascience.com/7-ways-to-load-external-data-into-google-colab-7ba73e7d5fc7) 
 * [10 tricks for a better Google Colab experience | by Cyprien NIELLY | Towards Data Science](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
-* [Quickly share ML WebApps from Google Colab using ngrok for Free | by AbdulMajedRaja RS | Towards Data Science](https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a) 
+* [Quickly share ML WebApps from Google Colab using ngrok for Free | by AbdulMajedRaja RS | Towards Data Science](https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a)
+* [Jupyter Widgets for Interactivity in Google Colab](https://colab.research.google.com/notebooks/forms.ipynb#scrollTo=62YnDE7i9dqP): examples of using Jupyter Widgets in Colab, allowing interactive inputs
 
 ## Contribute
 
