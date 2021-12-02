@@ -3,6 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
+* [🔥 ] [yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" https://arxiv.org/abs/2111.15666
 * [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generative Adversarial Networks in Your Browser!
 * [🔥 ] [Vadim Epstein’s Aphantasia library](https://github.com/eps696/aphantasia)
 * [aakashjhawar/AvatarGAN](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
