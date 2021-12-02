@@ -4,7 +4,6 @@
 
 ## Inbox
 * [🔥 ] [yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" https://arxiv.org/abs/2111.15666
-* [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generative Adversarial Networks in Your Browser!
 * [🔥 ] [Vadim Epstein’s Aphantasia library](https://github.com/eps696/aphantasia)
 * [aakashjhawar/AvatarGAN](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
 * [Greg Surma - Portfolio](https://gsurma.github.io/) 
@@ -57,12 +56,16 @@
 * [GPT-3 playground (invite/approval only)](https://beta.openai.com/playground)
 * [Emerson on Telegram](https://www.quickchat.ai/emerson)
 
-## Reading and understanding
+## Papers and references for reading and understanding
 
 * [Casual GAN Papers](https://www.casualganpapers.com/): Easy to read summaries of popular AI papers
 * [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/): illustrated explanation on how VQGAN works
 * [CLIP: Connecting Text and Images](https://openai.com/blog/clip/): OpenAI's explanation on how CLIP works
-* [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52) 
+* [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52)
+* [The Methods Corpus | Papers With Code](https://paperswithcode.com/methods)
+* https://ieeexplore.ieee.org/abstract/document/9043519: A State-of-the-Art Review on Image Synthesis With Generative Adversarial Networks
+* [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
+* [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generative Adversarial Networks in Your Browser!
 
 ## Interesting Instagram Accounts
 
@@ -128,12 +131,6 @@
 ## Latent Space Explorarion
 
 * [Latent Space Exploration with StyleGAN2](https://amarsaini.github.io/Epoching-Blog/jupyter/2020/08/10/Latent-Space-Exploration-with-StyleGAN2.html)
-
-## Papers e references
-
-* https://ieeexplore.ieee.org/abstract/document/9043519: A State-of-the-Art Review on Image Synthesis With Generative Adversarial Networks
-* [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
-* [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generative Adversarial Networks in Your Browser!
 
 ## Other Related Awesome Lists
 
