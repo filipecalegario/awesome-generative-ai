@@ -151,7 +151,10 @@
 * [10 tricks for a better Google Colab experience | by Cyprien NIELLY | Towards Data Science](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
 * [Quickly share ML WebApps from Google Colab using ngrok for Free | by AbdulMajedRaja RS | Towards Data Science](https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a)
 * [Jupyter Widgets for Interactivity in Google Colab](https://colab.research.google.com/notebooks/forms.ipynb#scrollTo=62YnDE7i9dqP): notebook with examples of using Jupyter Widgets in Colab, allowing interactive inputs
-* [Jupyter Widgets official documentation](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html) 
+* [Jupyter Widgets official documentation](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html)
+
+## Troubleshooting
+![Looking_Glass_v1_1_-_Colaboratory](https://user-images.githubusercontent.com/299057/145653588-42e9b4c0-cb23-45a5-8a18-b7a60f5d8827.png)
 
 ## Contribute
 
