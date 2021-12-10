@@ -3,7 +3,8 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
-* [🔥 ] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4) 
+* [🔥 ] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
+* [🔥🚀 ] [Looking Glass 1.1 (ru-DALLE) | Notebook Google Colab](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
 * [🔍 ] [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40&t=603s) 
 * [🔥 ] [yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" https://arxiv.org/abs/2111.15666
 * [🔥 ] [Vadim Epstein’s Aphantasia library](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
@@ -154,7 +155,7 @@
 * [Jupyter Widgets official documentation](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html)
 
 ## Troubleshooting
-![Looking_Glass_v1_1_-_Colaboratory](https://user-images.githubusercontent.com/299057/145653588-42e9b4c0-cb23-45a5-8a18-b7a60f5d8827.png)
+![Looking_Glass_v1_1_-_Colaboratory](https://user-images.githubusercontent.com/299057/145653588-42e9b4c0-cb23-45a5-8a18-b7a60f5d8827.png) [Ref](https://stackoverflow.com/questions/69822304/google-colab-google-drive-can%c2%b4t-be-mounted-anymore-browser-popup-google-dri)
 
 ## Contribute
 
