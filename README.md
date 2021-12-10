@@ -12,6 +12,7 @@
 * [🔥 ] [dvschultz/stylegan3](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
 * [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/): NVidia official StyleGAN3 release page
 * [🔥 ] [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs): A list of Machine Learning Art Colabs
+* [🚀 ] [StyleGAN-NADA](https://stylegan-nada.github.io/): CLIP-Guided Domain Adaptation of Image Generators
 * [Let's Talk Energy Usage of Generative Machine Learning](https://www.youtube.com/watch?v=3nViZGCkAhU&t=1276s)
 * [StyleGAN: Use machine learning to generate and customize realistic images | by Jamshed Khan | Heartbeat](https://heartbeat.fritz.ai/stylegans-use-machine-learning-to-generate-and-customize-realistic-images-c943388dc672) 
 * [Audio-reactive Latent Interpolations with StyleGAN](https://wavefunk.xyz/audio-reactive-stylegan)
@@ -30,7 +31,6 @@
 * [AI Generated Art Scene Explodes as Hackers Create Groundbreaking New Tools CLIP+VQ-GAN | VICE](https://www.vice.com/en/article/n7bqj7/ai-generated-art-scene-explodes-as-hackers-create-groundbreaking-new-tools) 
 * [Smooth Transitioning Between Position / Rotation / Zoom and Text Inputs by Keyframing Parameters: A Proof of Concept [15,000 Frames] : deepdream](https://www.reddit.com/r/deepdream/comments/pagqjx/smooth_transitioning_between_position_rotation/) 
 * [justinpinkney/awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
-* [StyleGAN-NADA](https://stylegan-nada.github.io/): CLIP-Guided Domain Adaptation of Image Generators
 * [How to use VQGAN+CLIP to generate images from a text prompt —tutorial for beginners | NightCafe Creator](https://medium.com/nightcafe-creator/vqgan-clip-tutorial-a411402cf3ad)
 * [VQGAN + CLIP Keyword Modifier Comparison - NightCafe Creator](https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison)
 * [~200 CLIP+VQGAN keywords tested on 4 subjects : bigsleep](https://www.reddit.com/r/bigsleep/comments/oq2pai/200_clipvqgan_keywords_tested_on_4_subjects/?utm_medium=android_app&utm_source=share) 
