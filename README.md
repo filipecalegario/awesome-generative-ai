@@ -157,6 +157,10 @@
 ## Troubleshooting
 ![Looking_Glass_v1_1_-_Colaboratory](https://user-images.githubusercontent.com/299057/145653588-42e9b4c0-cb23-45a5-8a18-b7a60f5d8827.png) [Ref](https://stackoverflow.com/questions/69822304/google-colab-google-drive-can%c2%b4t-be-mounted-anymore-browser-popup-google-dri)
 
+## Inbox for Adjacent or Related Pero No Mucho
+* [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
+* [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
