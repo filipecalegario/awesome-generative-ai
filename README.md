@@ -5,6 +5,7 @@
 ## Inbox
 * [🔥 ] [yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" https://arxiv.org/abs/2111.15666
 * [🔥 ] [Vadim Epstein’s Aphantasia library](https://github.com/eps696/aphantasia)
+* [mikaelalafriz/lucid-sonic-dreams](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
 * [aakashjhawar/AvatarGAN](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
 * [Greg Surma - Portfolio](https://gsurma.github.io/) 
 * [crowsonkb (Katherine Crowson)](https://github.com/crowsonkb): who wrote [the tutorial of VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
