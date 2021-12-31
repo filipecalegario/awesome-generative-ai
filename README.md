@@ -114,11 +114,13 @@
 * https://thispersondoesnotexist.com/ - gerador de rostos humanos 
 * https://thisxdoesnotexist.com/ - site com vários exemplos de outros modelos
 
-## Deployed Models
+## Deployed Models / Tools
 
 * [Toonify yourself | Justin Pinkney](https://www.justinpinkney.com/toonify-yourself/)
 * https://deepart.io/
 * https://www.artbreeder.com/
+* [cleanup.pictures](https://cleanup.pictures/): remove objects, people, text and defects from any picture for free
+* [remove.bg](https://www.remove.bg/): remove background from images
 
 ## Pre-trained Models
 
