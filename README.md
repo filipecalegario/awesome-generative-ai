@@ -51,7 +51,7 @@
 * [VQGAN+CLIP (with pooling)](https://colab.research.google.com/drive/1ZAus_gn2RhTZWzOWUpPERNC0Q8OhZRTZ#scrollTo=JX56bq4rEKIp): Generate images from text prompts with VQGAN and CLIP (z+quantize method)
 * [~200 CLIP+VQGAN keywords on 4 subjects, by @kingdomakrillic  - Imgur](https://imgur.com/a/SALxbQm) 
 
-## Inbox Text-related (things to organize)
+## Inbox: Text-related
 
 * [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
 * [Charisma](https://charisma.ai/): Charisma is a platform for creating interactive stories with believable virtual characters
@@ -65,8 +65,11 @@
 * [EleutherAI | GPT-J-6B](https://6b.eleuther.ai/)
 * [AIx](https://apps.aixsolutionsgroup.com/)
 * [Wudao](https://pretrain.aminer.cn/os/qa)
-* [GPT-3 playground (invite/approval only)](https://beta.openai.com/playground)
 * [Emerson on Telegram](https://www.quickchat.ai/emerson)
+
+### OpenAI GPT-3
+* [GPT-3 playground](https://beta.openai.com/playground)
+* [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
 
 ## Online Tools and Applications
 
