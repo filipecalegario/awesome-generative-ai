@@ -3,6 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
+* [🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
 * [🔥🚀 ] [S2ML Image Generator](https://colab.research.google.com/github/justin-bennington/S2ML-Generators/blob/main/S2ML_Image_Generator.ipynb): evolution of the first VQGAN+CLIP Google Colab notebook by Katherine Crownson maintained by Justin Bennington
 * [🔥 ] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
 * [🔥🚀 ] [Looking Glass 1.1 (ru-DALLE) | Notebook Google Colab](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
