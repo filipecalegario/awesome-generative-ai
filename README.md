@@ -3,6 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
+* [🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
 * [🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
 * [🔥 ] [hive/notebooks at main · pollinations/hive](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI 
 * [ouhenio/StyleGAN3-CLIP-notebooks](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
