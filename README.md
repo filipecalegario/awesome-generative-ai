@@ -118,6 +118,7 @@
 
 ## Artworks
 
+* [Confluence](https://deviparikh.github.io/confluence/): a generative art project by Devi Parikh on BrainDrops.
 * [Learning to See – Memo Akten | Mehmet Selim Akten | The Mega Super Awesome Visuals Company](http://www.memo.tv/works/learning-to-see/)
 * [Neural Zoo | Sofia Crespo](https://neuralzoo.com/)
 * [KRЯRL DЯAWINGS: Runway ML -- 3rd "Model" (based on long poses)](http://krrrl.blogspot.com/2020/08/runway-ml-3rd-model-based-on-long-poses.html)
