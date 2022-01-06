@@ -44,6 +44,7 @@
 * [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 
 ### VQGAN+CLIP
+
 * [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Aug, 2021 | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52) 
 * [Introduction to VQGAN+CLIP - 🟧Sourceful](https://sourceful.us/doc/935/introduction-to-vqganclip)
 * [How to use VQGAN+CLIP to generate images from a text prompt —tutorial for beginners | NightCafe Creator](https://medium.com/nightcafe-creator/vqgan-clip-tutorial-a411402cf3ad)
@@ -51,7 +52,10 @@
 * [~200 CLIP+VQGAN keywords tested on 4 subjects : bigsleep](https://www.reddit.com/r/bigsleep/comments/oq2pai/200_clipvqgan_keywords_tested_on_4_subjects/?utm_medium=android_app&utm_source=share)
 * [AI Generated Art Scene Explodes as Hackers Create Groundbreaking New Tools CLIP+VQ-GAN | VICE](https://www.vice.com/en/article/n7bqj7/ai-generated-art-scene-explodes-as-hackers-create-groundbreaking-new-tools)
 * [VQGAN+CLIP (with pooling)](https://colab.research.google.com/drive/1ZAus_gn2RhTZWzOWUpPERNC0Q8OhZRTZ#scrollTo=JX56bq4rEKIp): Generate images from text prompts with VQGAN and CLIP (z+quantize method)
-* [~200 CLIP+VQGAN keywords on 4 subjects, by @kingdomakrillic  - Imgur](https://imgur.com/a/SALxbQm) 
+* [~200 CLIP+VQGAN keywords on 4 subjects, by @kingdomakrillic  - Imgur](https://imgur.com/a/SALxbQm)
+
+### How did they do it?
+* [Creep - YouTube](https://www.youtube.com/watch?v=c6LlG4g_9lk) by [Glenn Marshall Neural Art](https://www.youtube.com/channel/UCes-tiSj7VO6nNOsUB76lZw): how did they translated the images using VQGAN+CLIP? How did they seamlessly wander on the latent space?
 
 ## Inbox: Text-related
 
