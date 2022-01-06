@@ -43,6 +43,10 @@
 * [GitHub Repositories of Hugging Face](https://github.com/huggingface)
 * [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 
+### GLIDE
+* [(3) "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models", Nichol et al 2021 (OpenAI's DALL-E successor: 5b-parameter diffusion models + noise-aware CLIP) : MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/comments/rl3mee/glide_towards_photorealistic_image_generation_and/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+* [(3) OpenAI paper: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models". Code and a smaller filtered model (300 million parameters vs 3.5 billion parameters in the paper) are available. : bigsleep](https://www.reddit.com/r/bigsleep/comments/rl5rgw/openai_paper_glide_towards_photorealistic_image/) 
+
 ### VQGAN+CLIP
 
 * [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Aug, 2021 | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52) 
