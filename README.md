@@ -63,6 +63,10 @@
 ### How did they do it?
 * [Creep - YouTube](https://www.youtube.com/watch?v=c6LlG4g_9lk) by [Glenn Marshall Neural Art](https://www.youtube.com/channel/UCes-tiSj7VO6nNOsUB76lZw): how did they translated the images using VQGAN+CLIP? How did they seamlessly wander on the latent space?
 
+### To organize
+* https://cocreator.ai/
+* [Pyttipanna](https://pyttipanna.xyz/): visual interface for Pytti by [@_staus](https://twitter.com/_staus). Pytti is created by [@sportsracer48](https://twitter.com/sportsracer48)
+
 ## Inbox: Text-related
 
 * [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
