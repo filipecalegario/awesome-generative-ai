@@ -5,6 +5,7 @@
 ## Inbox
 * [pixray/pixray](https://github.com/pixray/pixray): Pixray is an image generation system
 * [pixray/pixray_notebooks](https://github.com/pixray/pixray_notebooks): pixray demo notebooks
+* https://pixray.gob.io/text2image/
 * [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle): Generate images from texts. In Russian.
 * [🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
 * [🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
