@@ -184,6 +184,7 @@
 
 * Video clip: music + lyrics => image + video
 * Book: text => illustration
+* Interfaces for editing parameters that can be exported as string. This string is the input for a notebook or model. "Copy string", "Paste string", "Export file", "Import file".
 
 ## Improving Google Colab experience
 * [7 ways to load external data into Google Colab | by B. Chen | Towards Data Science](https://towardsdatascience.com/7-ways-to-load-external-data-into-google-colab-7ba73e7d5fc7) 
