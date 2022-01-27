@@ -3,6 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
+* [disco-diffusion/Local_Disco_Diffusion_v4_1.ipynb at main · Midgraph/disco-diffusion](https://github.com/Midgraph/disco-diffusion/blob/main/Local_Disco_Diffusion_v4_1.ipynb)
 * [Audio to keyframe string](https://audio-keyframe-generator.glitch.me/): this tool is used to generate strings for the keyframes of AI animation notebooks, such as [this VQGAN+CLIP Animations notebook](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb), using the volume of audio tracks.
 * [pixray/pixray](https://github.com/pixray/pixray): Pixray is an image generation system
 * [pixray/pixray_notebooks](https://github.com/pixray/pixray_notebooks): pixray demo notebooks
