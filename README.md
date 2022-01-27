@@ -5,6 +5,7 @@
 ## Inbox
 * [(3) promptism](https://www.reddit.com/r/promptism/): Promptism is an art movement whose creators apply machine learning models trained with contrastive language-image pre-training (CLIP) techniques for image generation
 * [The Promptist Manifesto – deeplearn.art](https://deeplearn.art/the-promptist-manifesto/)
+* [(3) [P] List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/) 
 * [disco-diffusion/Local_Disco_Diffusion_v4_1.ipynb at main · Midgraph/disco-diffusion](https://github.com/Midgraph/disco-diffusion/blob/main/Local_Disco_Diffusion_v4_1.ipynb)
 * [Audio to keyframe string](https://audio-keyframe-generator.glitch.me/): this tool is used to generate strings for the keyframes of AI animation notebooks, such as [this VQGAN+CLIP Animations notebook](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb), using the volume of audio tracks.
 * [pixray/pixray](https://github.com/pixray/pixray): Pixray is an image generation system
