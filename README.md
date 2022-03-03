@@ -3,6 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
+* [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound) 
 * http://runwayml.com/
 * https://hotpot.ai/
 * [Get started with making AI art in 2022 – deeplearn.art](https://deeplearn.art/get-started-with-making-ai-art-in-2022/) 
