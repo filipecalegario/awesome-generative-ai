@@ -82,8 +82,9 @@
 * https://cocreator.ai/
 * [Pyttipanna](https://pyttipanna.xyz/): visual interface for Pytti by [@_staus](https://twitter.com/_staus). Pytti is created by [@sportsracer48](https://twitter.com/sportsracer48)
 
-## Inbox: Text-related
-
+## Inbox: Text and NLP
+* [Riku.AI | The vault for your A.I. creations](https://riku.ai/) 
+* [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8) 
 * [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
 * [Charisma](https://charisma.ai/): Charisma is a platform for creating interactive stories with believable virtual characters
 * [Authors A.I.](https://authors.ai/): AI-powered text analysis
