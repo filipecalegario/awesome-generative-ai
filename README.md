@@ -3,6 +3,8 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
+* [ProsePainter](https://www.prosepainter.com/): an interactive tool to "paint with words." It incorporates guidable text-to-image generation into a traditional digital painting interface
+* [ProsePainter: Image + Sketching Interface + CLIP! - YouTube](https://www.youtube.com/watch?v=mK4F32xNrdw&t=429s) 
 * [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound) 
 * http://runwayml.com/
 * https://hotpot.ai/
