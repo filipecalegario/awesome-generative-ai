@@ -67,6 +67,7 @@
 
 ### VQGAN+CLIP
 
+* [VQ-GAN | Paper Explanation - YouTube](https://www.youtube.com/watch?v=wcqLFDXaDO8): explanation video about VQGAN with didactic visualizations
 * [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Aug, 2021 | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52) 
 * [Introduction to VQGAN+CLIP - 🟧Sourceful](https://sourceful.us/doc/935/introduction-to-vqganclip)
 * [How to use VQGAN+CLIP to generate images from a text prompt —tutorial for beginners | NightCafe Creator](https://medium.com/nightcafe-creator/vqgan-clip-tutorial-a411402cf3ad)
