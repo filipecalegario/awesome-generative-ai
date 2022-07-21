@@ -70,6 +70,7 @@
 ### List of keywords and modifiers
 
 * [(2) MASSIVE 💥 DALL-E 2 ANIME ⚡︎ KEYWORDS + MODIFIERS LIST ★ : haaaaven](https://www.reddit.com/user/haaaaven/comments/w05f56/massive_dalle_2_anime_keywords_modifiers_list/): image prompt modifier collection by haaaaven
+* [DrawBench](https://docs.google.com/spreadsheets/d/1y7nAbmR4FREi6npB1u-Bo3GFdwdOPYJc617rBOxIRHY/edit#gid=0): a list of prompts the Google Imagen is organizing as a benchmark
 
 ### Text-to-image Google Colab Notebooks
 * [VQGAN + CLIP + Gumbel](https://colab.research.google.com/drive/1tim3xTsZXafK-A2rOUsevckdl4OitIiw)
