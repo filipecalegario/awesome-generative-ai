@@ -67,10 +67,13 @@
 
 ## Text-to-image
 
-### List of keywords and modifiers
+### Prompt Engineering
 
 * [(2) MASSIVE 💥 DALL-E 2 ANIME ⚡︎ KEYWORDS + MODIFIERS LIST ★ : haaaaven](https://www.reddit.com/user/haaaaven/comments/w05f56/massive_dalle_2_anime_keywords_modifiers_list/): image prompt modifier collection by haaaaven
 * [DrawBench](https://docs.google.com/spreadsheets/d/1y7nAbmR4FREi6npB1u-Bo3GFdwdOPYJc617rBOxIRHY/edit#gid=0): a list of prompts the Google Imagen is organizing as a benchmark
+* [CLIP Prompt Engineering for Generative Art - matthewmcateer.me](https://matthewmcateer.me/blog/clip-prompt-engineering/): list of styles tested with Quick CLIP Guided Diffusion
+* [Adobe should make a boring app for prompt engineers (Interconnected)](https://interconnected.org/home/2022/06/02/dalle)
+* [[2206.00169] Discovering the Hidden Vocabulary of DALLE-2](https://arxiv.org/abs/2206.00169)
 
 ### Text-to-image Google Colab Notebooks
 * [VQGAN + CLIP + Gumbel](https://colab.research.google.com/drive/1tim3xTsZXafK-A2rOUsevckdl4OitIiw)
