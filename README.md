@@ -3,6 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
+* [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Lucid Lyrics - AI Assisted Art](https://www.lucidlyricsart.com/): AI-Assisted Lyrical Interpretations by Walter Arnold
