@@ -7,17 +7,12 @@
 * [LatentVision_rynmurdock.ipynb - Colaboratory](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/LatentVision_rynmurdock.ipynb) 
 * [Latent_Diffusion_with_LAION_400M.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/latent-diffusion/blob/main/Latent_Diffusion_with_LAION_400M.ipynb)
 * [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
-* [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
-* [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
 * [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Lucid Lyrics - AI Assisted Art](https://www.lucidlyricsart.com/): AI-Assisted Lyrical Interpretations by Walter Arnold
 * [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration
 * [Machine learning for arts](https://ml4a.net/)
-* [Imagen](https://imagen.research.google/): Google's Text-to-Image Diffusion Models
-* [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/): Meta's creative control for AI image generation
-* [DALL·E 2](https://openai.com/dall-e-2/): OpenAI system, evolution of the DALL-E launched in Jan 2021, that can create realistic images and art from a description in natural language.
 * [ProsePainter](https://www.prosepainter.com/): an interactive tool to "paint with words." It incorporates guidable text-to-image generation into a traditional digital painting interface
 * [ProsePainter: Image + Sketching Interface + CLIP! - YouTube](https://www.youtube.com/watch?v=mK4F32xNrdw&t=429s) 
 * [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound) 
@@ -75,6 +70,13 @@
 * [GANshare | Towards Data Science](https://towardsdatascience.com/ganshare-creating-and-curating-art-with-ai-for-fun-and-profit-1b3b4dcd7376): Creating and Curating Art with AI 
 * [GitHub Repositories of Hugging Face](https://github.com/huggingface)
 * [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+
+## Big techs, big models
+* [Imagen](https://imagen.research.google/): Google's Text-to-Image Diffusion Models
+* [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/): Meta's creative control for AI image generation
+* [DALL·E 2](https://openai.com/dall-e-2/): OpenAI system, evolution of the DALL-E launched in Jan 2021, that can create realistic images and art from a description in natural language.
+* [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
+* [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
 
 ## Text-to-image
 
