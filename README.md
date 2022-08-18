@@ -8,7 +8,7 @@
 * [The DALL·E 2 Prompt Book – DALL·Ery GALL·Ery](https://dallery.gallery/the-dalle-2-prompt-book/)
 * [DALL·Ery GALL·Ery](https://dallery.gallery/): A guide to OpenAI's DALL·E – prompts, projects, examples, and tips
 
-## Inbox
+## Inbox 
 * [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
 * [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
 * [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
@@ -111,7 +111,6 @@
 * [(3) OpenAI paper: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models". Code and a smaller filtered model (300 million parameters vs 3.5 billion parameters in the paper) are available. : bigsleep](https://www.reddit.com/r/bigsleep/comments/rl5rgw/openai_paper_glide_towards_photorealistic_image/) 
 
 ### VQGAN+CLIP
-
 * [VQ-GAN | Paper Explanation - YouTube](https://www.youtube.com/watch?v=wcqLFDXaDO8): explanation video about VQGAN with didactic visualizations
 * [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Aug, 2021 | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52) 
 * [Introduction to VQGAN+CLIP - 🟧Sourceful](https://sourceful.us/doc/935/introduction-to-vqganclip)
@@ -268,6 +267,9 @@
 ## Inbox for Adjacent or Related Pero No Mucho
 * [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
 * [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
+
+## Philosophical Discussion
+* [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
 
 ## Contribute
 
