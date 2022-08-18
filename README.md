@@ -3,7 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
-* [Stable Diffusion by Stability.Ai](https://stability.ai/blog/stable-diffusion-announcement): is a text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
+* [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
 * [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
 * [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
