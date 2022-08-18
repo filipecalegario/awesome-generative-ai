@@ -2,12 +2,6 @@
 
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
-## Prompt Engineering | Prompt Design | Prompt Craft
-* [List of Aesthetics | Aesthetics Wiki | Fandom](https://aesthetics.fandom.com/wiki/List_of_Aesthetics) 
-* [Artist Directory (Volcano Comparison) | AI Art Creation Wiki | Fandom](https://aiartcreation.fandom.com/wiki/Artist_Directory_(Volcano_Comparison)) 
-* [The DALL·E 2 Prompt Book – DALL·Ery GALL·Ery](https://dallery.gallery/the-dalle-2-prompt-book/)
-* [DALL·Ery GALL·Ery](https://dallery.gallery/): A guide to OpenAI's DALL·E – prompts, projects, examples, and tips
-
 ## Inbox 
 * [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
 * [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
@@ -81,8 +75,11 @@
 
 ## Text-to-image
 
-### Prompt Engineering
-
+## Prompt Engineering | Prompt Design | Prompt Craft
+* [List of Aesthetics | Aesthetics Wiki | Fandom](https://aesthetics.fandom.com/wiki/List_of_Aesthetics) 
+* [Artist Directory (Volcano Comparison) | AI Art Creation Wiki | Fandom](https://aiartcreation.fandom.com/wiki/Artist_Directory_(Volcano_Comparison)) 
+* [The DALL·E 2 Prompt Book – DALL·Ery GALL·Ery](https://dallery.gallery/the-dalle-2-prompt-book/)
+* [DALL·Ery GALL·Ery](https://dallery.gallery/): A guide to OpenAI's DALL·E – prompts, projects, examples, and tips
 * [(2) MASSIVE 💥 DALL-E 2 ANIME ⚡︎ KEYWORDS + MODIFIERS LIST ★ : haaaaven](https://www.reddit.com/user/haaaaven/comments/w05f56/massive_dalle_2_anime_keywords_modifiers_list/): image prompt modifier collection by haaaaven
 * [DrawBench](https://docs.google.com/spreadsheets/d/1y7nAbmR4FREi6npB1u-Bo3GFdwdOPYJc617rBOxIRHY/edit#gid=0): a list of prompts the Google Imagen is organizing as a benchmark
 * [CLIP Prompt Engineering for Generative Art - matthewmcateer.me](https://matthewmcateer.me/blog/clip-prompt-engineering/): list of styles tested with Quick CLIP Guided Diffusion
