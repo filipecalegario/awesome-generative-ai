@@ -5,7 +5,8 @@
 ## Prompt Engineering | Prompt Design | Prompt Craft
 * [List of Aesthetics | Aesthetics Wiki | Fandom](https://aesthetics.fandom.com/wiki/List_of_Aesthetics) 
 * [Artist Directory (Volcano Comparison) | AI Art Creation Wiki | Fandom](https://aiartcreation.fandom.com/wiki/Artist_Directory_(Volcano_Comparison)) 
-* [The DALL·E 2 Prompt Book – DALL·Ery GALL·Ery](https://dallery.gallery/the-dalle-2-prompt-book/) 
+* [The DALL·E 2 Prompt Book – DALL·Ery GALL·Ery](https://dallery.gallery/the-dalle-2-prompt-book/)
+* [DALL·Ery GALL·Ery](https://dallery.gallery/): A guide to OpenAI's DALL·E – prompts, projects, examples, and tips
 
 ## Inbox
 * [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
