@@ -119,10 +119,10 @@
 * [~200 CLIP+VQGAN keywords on 4 subjects, by @kingdomakrillic  - Imgur](https://imgur.com/a/SALxbQm)
 * [Experimentando o VQGAN+CLIP: gerador de imagens a partir de textos - YouTube Filipe Calegario](https://www.youtube.com/watch?v=Yy5NMTkN-Qc) 
 
-### How did they do it?
+## How did they do it?
 * [Creep - YouTube](https://www.youtube.com/watch?v=c6LlG4g_9lk) by [Glenn Marshall Neural Art](https://www.youtube.com/channel/UCes-tiSj7VO6nNOsUB76lZw): how did they translated the images using VQGAN+CLIP? How did they seamlessly wander on the latent space?
 
-### To organize
+## To organize
 * https://cocreator.ai/
 * [Pyttipanna](https://pyttipanna.xyz/): visual interface for Pytti by [@_staus](https://twitter.com/_staus). Pytti is created by [@sportsracer48](https://twitter.com/sportsracer48)
 
