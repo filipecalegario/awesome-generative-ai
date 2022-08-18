@@ -79,6 +79,7 @@
 ## Text-to-image
 
 ## Prompt Engineering | Prompt Design | Prompt Craft
+* [DALL·Ery GALL·Ery Resources](https://dallery.gallery/prompt-resources-tools-ai-art/): DALL·E 2 and AI art prompt resources & tools to inspire beautiful images
 * [[2204.13988] A Taxonomy of Prompt Modifiers for Text-To-Image Generation](https://arxiv.org/abs/2204.13988) 
 * [List of Aesthetics | Aesthetics Wiki | Fandom](https://aesthetics.fandom.com/wiki/List_of_Aesthetics) 
 * [Artist Directory (Volcano Comparison) | AI Art Creation Wiki | Fandom](https://aiartcreation.fandom.com/wiki/Artist_Directory_(Volcano_Comparison)) 
