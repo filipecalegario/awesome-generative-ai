@@ -3,6 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
+* [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
 * [[2208.01618] An Image is Worth One Word](https://arxiv.org/abs/2208.01618): Personalizing Text-to-Image Generation using Textual Inversion
 * [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" https://arxiv.org/abs/2201.13433
 * [autonomousvision/projected_gan](https://github.com/autonomousvision/projected_gan): [NeurIPS'21] Projected GANs Converge Faster
@@ -283,6 +284,7 @@
 
 ## Philosophical Discussion
 * [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
+* [How Photography Became An Art Form | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/08/29/photography-history.html) 
 
 ## Contribute
 
