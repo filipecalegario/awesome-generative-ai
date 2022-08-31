@@ -3,6 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
+* [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
 * [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
 * [[2208.01618] An Image is Worth One Word](https://arxiv.org/abs/2208.01618): Personalizing Text-to-Image Generation using Textual Inversion
 * [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" https://arxiv.org/abs/2201.13433
