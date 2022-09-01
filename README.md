@@ -3,6 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
+* [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 * [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
 * [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
 * [[2208.01618] An Image is Worth One Word](https://arxiv.org/abs/2208.01618): Personalizing Text-to-Image Generation using Textual Inversion
