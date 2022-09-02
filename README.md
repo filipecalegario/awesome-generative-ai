@@ -3,6 +3,7 @@
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
 ## Inbox
+* [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): 
 * [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 * [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
 * [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
