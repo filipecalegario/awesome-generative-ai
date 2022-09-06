@@ -13,6 +13,9 @@
 * [Enstil: Fast, open, AI-generated images](https://enstil.ai/?source=12)
 
 ## Inbox
+<details>
+<summary>click me</summary>
+  
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): paid AI image upscaler delivering enhanced detail and resolution
 * [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 * [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
@@ -90,6 +93,8 @@
 * [GANshare | Towards Data Science](https://towardsdatascience.com/ganshare-creating-and-curating-art-with-ai-for-fun-and-profit-1b3b4dcd7376): Creating and Curating Art with AI 
 * [GitHub Repositories of Hugging Face](https://github.com/huggingface)
 * [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+  
+</details>
 
 ## Big techs, big models
 * [Imagen](https://imagen.research.google/): Google's Text-to-Image Diffusion Models
