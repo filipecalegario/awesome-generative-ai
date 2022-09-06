@@ -220,7 +220,7 @@
 * [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs)
 
 ## Artworks
-
+* [Computer Vision Art Gallery : CVPR 2021](https://computervisionart.com/): artworks dealing with computer vision technologies
 * [Confluence](https://deviparikh.github.io/confluence/): a generative art project by Devi Parikh on BrainDrops.
 * [Learning to See – Memo Akten | Mehmet Selim Akten | The Mega Super Awesome Visuals Company](http://www.memo.tv/works/learning-to-see/)
 * [Neural Zoo | Sofia Crespo](https://neuralzoo.com/)
