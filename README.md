@@ -2,6 +2,16 @@
 
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
+## Tools based on Stable Diffusion
+* [Stable_Diffusion_WebUi_Simplified.ipynb - Colaboratory](https://colab.research.google.com/github/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb#scrollTo=gk1TyBA0Arxt) 
+* [tencentarc/gfpgan – Run with an API on Replicate](https://replicate.com/tencentarc/gfpgan) 
+* [andreasjansson/stable-diffusion-wip – Run with an API on Replicate](https://replicate.com/andreasjansson/stable-diffusion-wip) 
+* [stability-ai/stable-diffusion – Run with an API on Replicate](https://replicate.com/stability-ai/stable-diffusion) 
+* [Dezgo - Text-to-Image AI generator](https://dezgo.com/) 
+* [Pollinations - pollinations/stable-diffusion-private](https://pollinations.ai/create/stablediffusion) 
+* [Baseten](https://app.baseten.co/apps/VqK2vYP/operator_views/pqvba2q): Stable Diffusion Demo
+* [Enstil: Fast, open, AI-generated images](https://enstil.ai/?source=12)
+
 ## Inbox
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): paid AI image upscaler delivering enhanced detail and resolution
 * [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
