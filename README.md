@@ -91,6 +91,9 @@
 ## Text-to-image
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
+* [Visual Prompt Builder](https://tools.saxifrage.xyz/prompt): simple deck of illustrated card to combine modifiers for prompt building
+* [Prompt Engineering Template - Google Sheets](https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFEAkA/edit#gid=0): spreadsheet with lists of modifiers for prompt building
+* [Prompt Engineering: From Words to Art - Saxifrage Blog](https://www.saxifrage.xyz/post/prompt-engineering)
 * [DALL·Ery GALL·Ery Resources](https://dallery.gallery/prompt-resources-tools-ai-art/): DALL·E 2 and AI art prompt resources & tools to inspire beautiful images
 * [[2204.13988] A Taxonomy of Prompt Modifiers for Text-To-Image Generation](https://arxiv.org/abs/2204.13988) 
 * [List of Aesthetics | Aesthetics Wiki | Fandom](https://aesthetics.fandom.com/wiki/List_of_Aesthetics) 
