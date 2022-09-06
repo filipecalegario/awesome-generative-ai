@@ -103,6 +103,9 @@
 * [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
 * [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
 
+## History
+* [AI-Generated Art: From Text to Images & Beyond [Examples]](https://www.v7labs.com/blog/ai-generated-art) 
+
 ## Text-to-image
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
