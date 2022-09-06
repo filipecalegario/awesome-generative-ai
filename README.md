@@ -104,7 +104,8 @@
 * [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
 
 ## History
-* [AI-Generated Art: From Text to Images & Beyond [Examples]](https://www.v7labs.com/blog/ai-generated-art) 
+* [AI-Generated Art: From Text to Images & Beyond [Examples]](https://www.v7labs.com/blog/ai-generated-art)
+* [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
 
 ## Text-to-image
 
