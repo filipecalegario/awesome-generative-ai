@@ -106,6 +106,7 @@
 ## History
 * [AI-Generated Art: From Text to Images & Beyond [Examples]](https://www.v7labs.com/blog/ai-generated-art)
 * [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
+* [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion) 
 
 ## Text-to-image
 
