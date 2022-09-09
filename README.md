@@ -114,6 +114,7 @@
 ## Text-to-image
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
+* [PromptBase | Prompt Marketplace](https://promptbase.com/): PromptBase is a marketplace for DALL·E, Midjourney & GPT-3 prompts, where people can sell prompts and make money from their prompt crafting skills.
 * [Professional AI whisperers have launched a marketplace for DALL-E prompts - The Verge](https://www.theverge.com/2022/9/2/23326868/dalle-midjourney-ai-promptbase-prompt-market-sales-artist-interview)
 * [Visual Prompt Builder](https://tools.saxifrage.xyz/prompt): simple deck of illustrated card to combine modifiers for prompt building
 * [Prompt Engineering Template - Google Sheets](https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFEAkA/edit#gid=0): spreadsheet with lists of modifiers for prompt building and a lot of interesting links for reference
