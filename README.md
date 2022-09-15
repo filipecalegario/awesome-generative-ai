@@ -17,6 +17,7 @@
 * [Enstil: Fast, open, AI-generated images](https://enstil.ai/?source=12)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
+* [(19) Nikhil Agrawal 📌 on Twitter" / Twitter](https://twitter.com/HeyNikhila/status/1570005481896255490): 11 Excellent AI Images Prompt websites to level up your image quality
 * [Phraser](https://phraser.tech/): a tool that support prompt creation
 * [PromptBase | Prompt Marketplace](https://promptbase.com/): PromptBase is a marketplace for DALL·E, Midjourney & GPT-3 prompts, where people can sell prompts and make money from their prompt crafting skills.
 * [Professional AI whisperers have launched a marketplace for DALL-E prompts - The Verge](https://www.theverge.com/2022/9/2/23326868/dalle-midjourney-ai-promptbase-prompt-market-sales-artist-interview)
