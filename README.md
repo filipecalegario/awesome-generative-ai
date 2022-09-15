@@ -155,6 +155,7 @@
 * [MSE Regulized VQGAN+CLIP](https://colab.research.google.com/drive/1hf1seGOZctOJUznkhJNblLluXHbWLKZh)
 * [CLIPRGB ImStack](https://colab.research.google.com/drive/1CcibxlLDng2yzcjLwwwSADRcisc1qVCs)
 * [CLIP Guided Diffusion v4](https://colab.research.google.com/drive/1V66mUeJbXrTuQITvJunvnWVn96FEbSI3)
+* [Simplified Google Colab Interface for the above models](https://sites.google.com/ear.com.br/aimodelgallery/home?authuser=1): series of interface simplification made by EAR+CIn Research project
 
 ### GLIDE
 * [(3) "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models", Nichol et al 2021 (OpenAI's DALL-E successor: 5b-parameter diffusion models + noise-aware CLIP) : MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/comments/rl3mee/glide_towards_photorealistic_image_generation_and/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
