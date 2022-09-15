@@ -17,6 +17,7 @@
 * [Enstil: Fast, open, AI-generated images](https://enstil.ai/?source=12)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
+* [(4) Useful Prompt Engineering tools and resources : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) 
 * [PromptHero](https://prompthero.com/): Search the best prompts for Stable Diffusion, DALL-E and Midjourney
 * [promptoMANIA](https://promptomania.com/): AI art community with prompt generator
 * [Lexica](https://lexica.art/): search over 10M+ Stable Diffusion images and prompts
