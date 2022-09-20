@@ -37,7 +37,7 @@
 * [Deforum Stable Diffusion](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=63UOJvU3xdPS): generating videos from scripted prompts
 * [ThereforeGames/txt2mask](https://github.com/ThereforeGames/txt2mask): Automatically create masks for Stable Diffusion inpainting using natural language
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion): Optimized Stable Diffusion modified to run on lower GPU VRAM
-* [Stable WarpFusion v0.5 by [@devdef](https://twitter.com/devdef) (restricted to patreons)](https://www.patreon.com/sxela): conditioning video frames with Stable Diffusion
+* [Stable WarpFusion v0.5 (restricted to patreons)](https://www.patreon.com/sxela): conditioning video frames with Stable Diffusion by [@devdef](https://twitter.com/devdef)
 * [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos): Create videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 
 ### Stable Diffusion Deployed Web Tools
@@ -152,23 +152,23 @@
 * [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle): Generate images from texts. In Russian.
 * [🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
 * [🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
-* [🔥 ] [hive/notebooks at main · pollinations/hive](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI 
+* [🔥] [hive/notebooks at main · pollinations/hive](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI 
 * [ouhenio/StyleGAN3-CLIP-notebooks](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
 * [k-l-lambda/stylegan-web](https://github.com/k-l-lambda/stylegan-web): A web porting for NVlabs' StyleGAN. 
-* [🔥🚀 ] [S2ML Image Generator](https://colab.research.google.com/github/justin-bennington/S2ML-Generators/blob/main/S2ML_Image_Generator.ipynb): evolution of the first VQGAN+CLIP Google Colab notebook by Katherine Crownson maintained by Justin Bennington
-* [🔥 ] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
-* [🔥🚀 ] [Looking Glass 1.1 (ru-DALLE)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
-* [🔍 ] [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40&t=603s) 
-* [🔥 ] [yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" https://arxiv.org/abs/2111.15666
-* [🔥 ] [Vadim Epstein’s Aphantasia library](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
+* [🔥🚀] [S2ML Image Generator](https://colab.research.google.com/github/justin-bennington/S2ML-Generators/blob/main/S2ML_Image_Generator.ipynb): evolution of the first VQGAN+CLIP Google Colab notebook by Katherine Crownson maintained by Justin Bennington
+* [🔥] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
+* [🔥🚀] [Looking Glass 1.1 (ru-DALLE)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
+* [🔍] [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40&t=603s) 
+* [🔥] [yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" https://arxiv.org/abs/2111.15666
+* [🔥] [Vadim Epstein’s Aphantasia library](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
 * [mikaelalafriz/lucid-sonic-dreams](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
 * [aakashjhawar/AvatarGAN](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
 * [Greg Surma - Portfolio](https://gsurma.github.io/) 
 * [crowsonkb (Katherine Crowson)](https://github.com/crowsonkb): who wrote [the tutorial of VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
-* [🔥 ] [dvschultz/stylegan3](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
+* [🔥] [dvschultz/stylegan3](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
 * [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/): NVidia official StyleGAN3 release page
-* [🔥 ] [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs): A list of Machine Learning Art Colabs
-* [🚀 ] [StyleGAN-NADA](https://stylegan-nada.github.io/): CLIP-Guided Domain Adaptation of Image Generators
+* [🔥] [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs): A list of Machine Learning Art Colabs
+* [🚀] [StyleGAN-NADA](https://stylegan-nada.github.io/): CLIP-Guided Domain Adaptation of Image Generators
 * [Let's Talk Energy Usage of Generative Machine Learning](https://www.youtube.com/watch?v=3nViZGCkAhU&t=1276s)
 * [StyleGAN: Use machine learning to generate and customize realistic images | by Jamshed Khan | Heartbeat](https://heartbeat.fritz.ai/stylegans-use-machine-learning-to-generate-and-customize-realistic-images-c943388dc672) 
 * [Audio-reactive Latent Interpolations with StyleGAN](https://wavefunk.xyz/audio-reactive-stylegan)
