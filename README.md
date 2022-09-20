@@ -136,8 +136,8 @@
 * [ProsePainter](https://www.prosepainter.com/): an interactive tool to "paint with words." It incorporates guidable text-to-image generation into a traditional digital painting interface
 * [ProsePainter: Image + Sketching Interface + CLIP! - YouTube](https://www.youtube.com/watch?v=mK4F32xNrdw&t=429s) 
 * [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound) 
-* http://runwayml.com/
-* https://hotpot.ai/
+* [Runway ML](http://runwayml.com/): AI video creation suite
+* [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
 * [Get started with making AI art in 2022 – deeplearn.art](https://deeplearn.art/get-started-with-making-ai-art-in-2022/) 
 * [(3) promptism](https://www.reddit.com/r/promptism/): Promptism is an art movement whose creators apply machine learning models trained with contrastive language-image pre-training (CLIP) techniques for image generation
 * [The Promptist Manifesto – deeplearn.art](https://deeplearn.art/the-promptist-manifesto/)
@@ -147,7 +147,7 @@
 * [Audio to keyframe string](https://audio-keyframe-generator.glitch.me/): this tool is used to generate strings for the keyframes of AI animation notebooks, such as [this VQGAN+CLIP Animations notebook](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb), using the volume of audio tracks.
 * [pixray/pixray](https://github.com/pixray/pixray): Pixray is an image generation system
 * [pixray/pixray_notebooks](https://github.com/pixray/pixray_notebooks): pixray demo notebooks
-* https://pixray.gob.io/text2image/
+* [dribnet/pixray-text2image – Run with an API on Replicate](https://replicate.com/dribnet/pixray-text2image) 
 * [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle): Generate images from texts. In Russian.
 * [🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
 * [🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
