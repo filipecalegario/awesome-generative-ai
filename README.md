@@ -2,22 +2,8 @@
 
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
-## Stable Diffusion
-* [Grokking Stable Diffusion: Textual Inversion.ipynb - Colaboratory - Part 2](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing): sequel to Grokking Stable Diffusion by [@johnowhitaker](https://twitter.com/johnowhitaker) that focus on Text Inversion
-* [Grokking Stable Diffusion.ipynb - Colaboratory - Part 1](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing): notebook by [@johnowhitaker](https://twitter.com/johnowhitaker) exploring Stable Diffusion details
-* [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos): Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
-* [sd-concepts-library (Stable Diffusion concepts library)](https://huggingface.co/sd-concepts-library): Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
-* [Stable_Diffusion_WebUi_Simplified.ipynb - Colaboratory](https://colab.research.google.com/github/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb#scrollTo=gk1TyBA0Arxt) 
-* [tencentarc/gfpgan – Run with an API on Replicate](https://replicate.com/tencentarc/gfpgan) 
-* [andreasjansson/stable-diffusion-wip – Run with an API on Replicate](https://replicate.com/andreasjansson/stable-diffusion-wip) 
-* [stability-ai/stable-diffusion – Run with an API on Replicate](https://replicate.com/stability-ai/stable-diffusion) 
-* [Dezgo - Text-to-Image AI generator](https://dezgo.com/) 
-* [Pollinations - pollinations/stable-diffusion-private](https://pollinations.ai/create/stablediffusion) 
-* [Baseten](https://app.baseten.co/apps/VqK2vYP/operator_views/pqvba2q): Stable Diffusion Demo
-* [Enstil: Fast, open, AI-generated images](https://enstil.ai/?source=12)
-
 ## Prompt Engineering | Prompt Design | Prompt Craft
-* [(4) Useful Prompt Engineering tools and resources : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) 
+* [Useful Prompt Engineering tools and resources | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) 
 * [PromptHero](https://prompthero.com/): Search the best prompts for Stable Diffusion, DALL-E and Midjourney
 * [promptoMANIA](https://promptomania.com/): AI art community with prompt generator
 * [Lexica](https://lexica.art/): search over 10M+ Stable Diffusion images and prompts
@@ -41,26 +27,102 @@
 * [CLIP Prompt Engineering for Generative Art - matthewmcateer.me](https://matthewmcateer.me/blog/clip-prompt-engineering/): list of styles tested with Quick CLIP Guided Diffusion
 * [Adobe should make a boring app for prompt engineers (Interconnected)](https://interconnected.org/home/2022/06/02/dalle)
 * [[2206.00169] Discovering the Hidden Vocabulary of DALLE-2](https://arxiv.org/abs/2206.00169)
+* [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/) 
+* [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/) 
 
-## Creative Uses
-* [img2img animation with hands](https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/)
+## Stable Diffusion Inbox
+* [🔥🔥🔥] [ML News Stable Diffusion Takes Over! (Open Source AI Art) by Yannic Kilcher - YouTube](https://www.youtube.com/watch?v=xbxe-x6wvRw): video with examples, updates, and discussion about the impact of Stable Diffusion
+* [arXiv "Diffusion Models in Vision: A Survey" by Florinel-Alin Croitoru et al. | Twitter](https://twitter.com/arxiv_daily/status/1571304936457261056)
+* [Deforum Stable Diffusion](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=63UOJvU3xdPS): generating videos from scripted prompts
+* [ThereforeGames/txt2mask](https://github.com/ThereforeGames/txt2mask): Automatically create masks for Stable Diffusion inpainting using natural language
+* [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion): Optimized Stable Diffusion modified to run on lower GPU VRAM
+* [Stable WarpFusion v0.5 by [@devdef](https://twitter.com/devdef) (restricted to patreons)](https://www.patreon.com/sxela): conditioning video frames with Stable Diffusion
+* [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos): Create videos with Stable Diffusion by exploring the latent space and morphing between text prompts
+
+### Stable Diffusion Deployed Web Tools
+* [getimg.ai](https://getimg.ai/): Generate photo-realistic images from text using Stable Diffusion
+* [Enstil: Fast, open, AI-generated images](https://enstil.ai/?source=12)
+* [Dezgo - Text-to-Image AI generator](https://dezgo.com/)
+* [Baseten](https://app.baseten.co/apps/VqK2vYP/operator_views/pqvba2q): Stable Diffusion Demo
+* [DreamStudio](https://beta.dreamstudio.ai/): Frontend for Stable Diffusion API by Stability.ai
+* [Pollinations - pollinations/stable-diffusion-private](https://pollinations.ai/create/stablediffusion)
+* [tencentarc/gfpgan – Run with an API on Replicate](https://replicate.com/tencentarc/gfpgan) 
+* [andreasjansson/stable-diffusion-wip – Run with an API on Replicate](https://replicate.com/andreasjansson/stable-diffusion-wip) 
+* [stability-ai/stable-diffusion – Run with an API on Replicate](https://replicate.com/stability-ai/stable-diffusion) 
+
+### WebUI via Google Colab for Stable Diffusion
+* [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui): expanded Stable Diffusion web UI
+* [GitHub - sd-webui/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui): Stable Diffusion web UI
+* [Stable_Diffusion_WebUi_Simplified.ipynb - Colaboratory](https://colab.research.google.com/github/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb#scrollTo=gk1TyBA0Arxt) 
+
+### Aggregators of References about Stable Diffusion
+* [GitHub - awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
+* [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/?utm_source=share&utm_medium=web2x&context=3): a general update on all the "most important" news/repos available
+* [List of Stable Diffusion systems | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
+* [Stable Diffusion Akashic Records | Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic): A compendium of information regarding Stable Diffusion (SD)
+* [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
+* [Voldy Guide](https://rentry.co/voldy): detailed beginners guide for Stable Diffusion
+* [Dreamer's Guide to Getting Started w/ Stable Diffusion! | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcq819/dreamers_guide_to_getting_started_w_stable/)
+* [A collection of sites using Stable Diffusion (and other handy links) | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wzj8kk/a_collection_of_sites_using_stable_diffusion_and/) 
+
+## Textual Inversion
+* [sd-concepts-library (Stable Diffusion concepts library)](https://huggingface.co/sd-concepts-library): Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
+* [[2208.01618] An Image is Worth One Word](https://arxiv.org/abs/2208.01618): Personalizing Text-to-Image Generation using Textual Inversion
+
+## Creative Uses of Text-to-Image Tools
+* [De-painting historical photographs | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgbug2/depainting_historical_photographs/) 
+* [img2img animation with hands | Reddit](https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/)
+* [VID 2 VID user script | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgo87s/wip_vid_2_vid_user_script/)
+* [Seamless textures AI generator for Blender by Antonio Freyre | Twitter](https://twitter.com/merlino_games/status/1571205845819559936)
+* ["Shattered" by Ronny Khalil | Twitter](https://twitter.com/ronnykhalil/status/1569956085905203200): using warp fusion to generate a shattered glass effect
+* [Acid Dance by aiplague | Twitter](https://twitter.com/aiplague/status/1564989456318451714) 
+* [Fused video by [@remi_molettee](https://twitter.com/remi_molettee)](https://twitter.com/remi_molettee/status/1568245586494738432)
+* [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
+* [You Describe & AI Photoshops Faces For You [StyleCLIP] - YouTube](https://youtu.be/d1OET63Ulwc)
+* [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
+* [GitHub - Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+
+## Courses and Educational Materials
+* [Grokking Stable Diffusion.ipynb - Colaboratory - Part 1](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing): notebook by [@johnowhitaker](https://twitter.com/johnowhitaker) exploring Stable Diffusion details
+* [Grokking Stable Diffusion: Textual Inversion.ipynb - Colaboratory - Part 2](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing): sequel to Grokking Stable Diffusion by [@johnowhitaker](https://twitter.com/johnowhitaker) that focus on Text Inversion
+* [GitHub - johnowhitaker/aiaiart](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
+* [Implementation/tutorial of stable diffusion with side-by-side notes by labml.ai | Twitter](https://twitter.com/labmlai/status/1571080112459878401)
+
+## Image Upscaling
+* [Model Database - Upscale Wiki](https://upscale.wiki/wiki/Model_Database): list of models for upscaling images
+* [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): paid AI image upscaler delivering enhanced detail and resolution
+
+## Exploring Images Databases
+* [Have I Been Trained?](https://haveibeentrained.com/): tool for searching 5.8 billion images used to train popular AI art models
+* [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images): exploring 12 million of the 2.3 billion images used to train Stable Diffusion's image generator
+
+## History
+* [🔥🔥🔥] [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
+* [AI-Generated Art](https://www.v7labs.com/blog/ai-generated-art): From Text to Images & Beyond Examples
+* [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion) 
+
+## Discussions and Philosophy
+* [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
+* [How Photography Became An Art Form | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/08/29/photography-history.html)
+* [Text Is the Universal Interface - Scale](https://scale.com/blog/text-universal-interface?utm_source=tldrnewsletter) 
+* [This artist is dominating AI-generated art. And he’s not happy about it. | MIT Technology Review](https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/)
+* [The REAL fight over AI art: StableDiffusion | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgu2uo/the_real_fight_over_ai_art/)
+* [Rutkowski battling AI art overlord | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgv0dw/rutkowski_battling_ai_art_overlord/)
+* [Instead of mining cryptocoins with GPUs, are we now mining art? | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xg8s8e/instead_of_mining_cryptocoins_with_gpus_are_we/) 
+* [(4) Using AI to create art is NOT art! | Reddit : ArtistLounge](https://www.reddit.com/r/ArtistLounge/comments/xczk89/using_ai_to_create_art_is_not_art/) 
 
 ## Inbox
-* [Have I Been Trained?](https://haveibeentrained.com/): tool for searching 5.8 billion images used to train popular AI art models
-* [clip-interrogator.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo)
+* [clip-interrogator.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo): a tools for image-to-prompt
 * [🔥] [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * [🔥🔥🔥] [Ai generative art tools](https://pharmapsychotic.com/tools.html): a massive list of shared Google Colab notebooks and tools organized by [@pharampsychotic](https://twitter.com/pharmapsychotic)
 * [DALL-E 2’s Failures Are the Most Interesting Thing About It - IEEE Spectrum](https://spectrum.ieee.org/openai-dall-e-2): paper by Eliza Strickland
-* [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): paid AI image upscaler delivering enhanced detail and resolution
 * [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 * [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
 * [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
-* [[2208.01618] An Image is Worth One Word](https://arxiv.org/abs/2208.01618): Personalizing Text-to-Image Generation using Textual Inversion
 * [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" https://arxiv.org/abs/2201.13433
 * [autonomousvision/projected_gan](https://github.com/autonomousvision/projected_gan): [NeurIPS'21] Projected GANs Converge Faster
+* [These Bored Apes Do Not Exist: GAN to NFT Pipeline | Medium](https://medium.com/@nathancooperjones/these-bored-apes-do-not-exist-6bed2c73f02c)
 * [apple/ml-no-token-left-behind](https://github.com/apple/ml-no-token-left-behind): PyTorch Implementation of No Token Left Behind: Explainability-Aided Image Classification and Generation
-* [hlky/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui): Stable Diffusion web UI
-* [DreamStudio](https://beta.dreamstudio.ai/): Frontend for Stable Diffusion API by Stability.ai
 * [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 * [LatentVision_rynmurdock.ipynb - Colaboratory](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/LatentVision_rynmurdock.ipynb) 
 * [Latent_Diffusion_with_LAION_400M.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/latent-diffusion/blob/main/Latent_Diffusion_with_LAION_400M.ipynb)
@@ -136,11 +198,6 @@
 * [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
 * [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
 
-## History
-* [AI-Generated Art: From Text to Images & Beyond [Examples]](https://www.v7labs.com/blog/ai-generated-art)
-* [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
-* [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion) 
-
 ### Text-to-image Google Colab Notebooks
 * [VQGAN + CLIP + Gumbel](https://colab.research.google.com/drive/1tim3xTsZXafK-A2rOUsevckdl4OitIiw)
 * [OpenAI DVAE+CLIP](https://colab.research.google.com/drive/10DzGECHlEnL4oeqsN-FWCkIe_sq3wVqt)
@@ -186,6 +243,7 @@
 * [Pyttipanna](https://pyttipanna.xyz/): visual interface for Pytti by [@_staus](https://twitter.com/_staus). Pytti is created by [@sportsracer48](https://twitter.com/sportsracer48)
 
 ## Inbox: Text and NLP
+* [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
 * [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom): getting started with BLOOM
 * [BLOOM](https://thenextweb.com/news/bloom-new-open-source-ai-model-bigger-than-gpt-3-large-language-model-llm): open-source 176-billion-parameter model aims to democratize large-language models
 * [Top 10 GPT-3 Powered Applications to Know in 2022](https://www.analyticsinsight.net/top-10-gpt-3-powered-applications-to-know-in-2022/) 
@@ -323,11 +381,6 @@
 ## Inbox for Adjacent or Related Pero No Mucho
 * [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
 * [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
-
-## Philosophy and Discussions
-* [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
-* [How Photography Became An Art Form | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/08/29/photography-history.html)
-* [Text Is the Universal Interface - Scale](https://scale.com/blog/text-universal-interface?utm_source=tldrnewsletter) 
 
 ## Contribute
 
