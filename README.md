@@ -50,7 +50,8 @@
 * [Pollinations - pollinations/stable-diffusion-private](https://pollinations.ai/create/stablediffusion)
 * [tencentarc/gfpgan – Run with an API on Replicate](https://replicate.com/tencentarc/gfpgan) 
 * [andreasjansson/stable-diffusion-wip – Run with an API on Replicate](https://replicate.com/andreasjansson/stable-diffusion-wip) 
-* [stability-ai/stable-diffusion – Run with an API on Replicate](https://replicate.com/stability-ai/stable-diffusion) 
+* [stability-ai/stable-diffusion – Run with an API on Replicate](https://replicate.com/stability-ai/stable-diffusion)
+* [Osmosis.Studio](http://osmosis.studio/) : web-based content-aware collaborative design tool for generating AI ads that sell real products
 
 ### WebUI via Google Colab for Stable Diffusion
 * [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui): expanded Stable Diffusion web UI
@@ -115,6 +116,8 @@
 * [(4) Using AI to create art is NOT art! | Reddit : ArtistLounge](https://www.reddit.com/r/ArtistLounge/comments/xczk89/using_ai_to_create_art_is_not_art/) 
 
 ## Inbox
+* [Parrot Zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205): a database of image synthesis references
+* [Image Synth Link List](https://proximacentaurib.notion.site/39805c50735849cfa54b5d688587e12e?v=b9ea748623e342fdae02d07c86c668bf): a collection of links organized by the collective parrot zone
 * [clip-interrogator.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo): a tool for image-to-prompt
 * [🔥] [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * [🔥🔥🔥] [Ai generative art tools](https://pharmapsychotic.com/tools.html): a massive list of shared Google Colab notebooks and tools organized by [@pharampsychotic](https://twitter.com/pharmapsychotic)
