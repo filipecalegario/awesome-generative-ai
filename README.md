@@ -2,7 +2,59 @@
 
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
+- [Generative Deep Art ![Awesome](https://awesome.re)](#generative-deep-art-)
+  - [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
+  - [Stable Diffusion Inbox](#stable-diffusion-inbox)
+    - [Stable Diffusion Deployed Web Tools](#stable-diffusion-deployed-web-tools)
+    - [Web UI for Stable Diffusion via Google Colab](#web-ui-for-stable-diffusion-via-google-colab)
+    - [References Collection about Stable Diffusion](#references-collection-about-stable-diffusion)
+  - [Textual Inversion](#textual-inversion)
+  - [Creative Uses of Text-to-Image Tools](#creative-uses-of-text-to-image-tools)
+  - [Courses and Educational Materials](#courses-and-educational-materials)
+  - [Exploring Images Databases](#exploring-images-databases)
+  - [History](#history)
+  - [Discussions and Philosophy](#discussions-and-philosophy)
+    - [Promptism](#promptism)
+  - [Image Synthesis](#image-synthesis)
+    - [Collections](#collections)
+    - [DALL-E 2](#dall-e-2)
+    - [Latent Diffusion](#latent-diffusion)
+    - [GLIDE](#glide)
+    - [VQGAN+CLIP](#vqganclip)
+    - [Famous models by big players](#famous-models-by-big-players)
+    - [Text-to-image Google Colab Notebooks (Multiple Models)](#text-to-image-google-colab-notebooks-multiple-models)
+  - [Image Upscaling](#image-upscaling)
+  - [Image Restoration](#image-restoration)
+  - [Online Tools and Applications](#online-tools-and-applications)
+  - [Inbox](#inbox)
+  - [Text-to-video](#text-to-video)
+  - [How did they do it?](#how-did-they-do-it)
+  - [Inbox: Text and Natural Language Processing](#inbox-text-and-natural-language-processing)
+    - [OpenAI GPT-3](#openai-gpt-3)
+  - [Papers and references for reading and understanding](#papers-and-references-for-reading-and-understanding)
+  - [Interesting Instagram Accounts](#interesting-instagram-accounts)
+  - [Interesting Youtube Channels](#interesting-youtube-channels)
+  - [Interesting GitHub Repositories](#interesting-github-repositories)
+  - [Artworks](#artworks)
+  - [Galleries](#galleries)
+  - [Selected examples of This X Does Not Exist](#selected-examples-of-this-x-does-not-exist)
+  - [Pre-trained Models](#pre-trained-models)
+  - [Neural Net Models](#neural-net-models)
+  - [Latent Space Explorarion](#latent-space-explorarion)
+  - [Other Related Awesome Lists](#other-related-awesome-lists)
+  - [Notes, ideas for projects](#notes-ideas-for-projects)
+  - [Improving Google Colab experience](#improving-google-colab-experience)
+  - [Troubleshooting](#troubleshooting)
+  - [Inbox for Adjacent or Related Pero No Mucho](#inbox-for-adjacent-or-related-pero-no-mucho)
+  - [Contribute](#contribute)
+  - [License](#license)
+
 ## Prompt Engineering | Prompt Design | Prompt Craft
+* [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
+* [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
+* [PromptDesign | Reddit](https://www.reddit.com/r/PromptDesign/): Reddit community for "the art of communicating with natural language models"
+* [Prompt Engineering and Zero-Shot/Few-Shot Learning [Guide] - inovex GmbH](https://www.inovex.de/de/blog/prompt-engineering-guide/): prompt engineering for text generation
+* [clip-interrogator.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo): a tool for image-to-prompt
 * [Useful Prompt Engineering tools and resources | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) 
 * [PromptHero](https://prompthero.com/): Search the best prompts for Stable Diffusion, DALL-E and Midjourney
 * [promptoMANIA](https://promptomania.com/): AI art community with prompt generator
@@ -121,7 +173,6 @@
 * [CHARL-E](https://www.charl-e.com/): Run Stable Diffusion on your M1 Mac
 * [Parrot Zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205): a database of image synthesis references
 * [Image Synth Link List](https://proximacentaurib.notion.site/39805c50735849cfa54b5d688587e12e?v=b9ea748623e342fdae02d07c86c668bf): a collection of links organized by the collective parrot zone
-* [clip-interrogator.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo): a tool for image-to-prompt
 * [🔥] [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * [🔥🔥🔥] [Ai generative art tools](https://pharmapsychotic.com/tools.html): a massive list of shared Google Colab notebooks and tools organized by [@pharampsychotic](https://twitter.com/pharmapsychotic)
 * [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
@@ -205,6 +256,8 @@
 * [ProsePainter](https://www.prosepainter.com/): an interactive tool to "paint with words." It incorporates guidable text-to-image generation into a traditional digital painting interface
 * [ProsePainter: Image + Sketching Interface + CLIP! - YouTube](https://www.youtube.com/watch?v=mK4F32xNrdw&t=429s)
 * [Cocreator AI](https://cocreator.ai/): creative computer agent (in wait list)
+* [Runway ML](http://runwayml.com/): AI video creation suite
+* [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
 * [Toonify yourself by Justin Pinkney](https://www.justinpinkney.com/toonify-yourself/): turn a human face into a cartoon
 * [deepart.io](https://deepart.io/): a online tool for applying style transfer
 * [Artbreeder](https://www.artbreeder.com/): web-based tool to generate images by breeding existing images
@@ -226,8 +279,6 @@
 * [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Lucid Lyrics - AI Assisted Art](https://www.lucidlyricsart.com/): AI-Assisted Lyrical Interpretations by Walter Arnold
 * [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound) 
-* [Runway ML](http://runwayml.com/): AI video creation suite
-* [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
 * [disco-diffusion/Local_Disco_Diffusion_v4_1.ipynb at main · Midgraph/disco-diffusion](https://github.com/Midgraph/disco-diffusion/blob/main/Local_Disco_Diffusion_v4_1.ipynb)
 * [Audio to keyframe string](https://audio-keyframe-generator.glitch.me/): this tool is used to generate strings for the keyframes of AI animation notebooks, such as [this VQGAN+CLIP Animations notebook](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb), using the volume of audio tracks.
 * [🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
