@@ -214,7 +214,8 @@
 * [AIVA](https://www.aiva.ai/): The AI composing emotional soundtrack music
 
 ## Inbox
-* [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool
+* [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
+* [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
 * [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 * [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" https://arxiv.org/abs/2201.13433
 * [autonomousvision/projected_gan](https://github.com/autonomousvision/projected_gan): [NeurIPS'21] Projected GANs Converge Faster
