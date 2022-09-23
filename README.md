@@ -451,6 +451,7 @@
 ## Inbox for Adjacent or Related Pero No Mucho
 * [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
 * [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
+* [archinetai/audio-diffusion-pytorch: Audio generation using diffusion models, in PyTorch.](https://github.com/archinetai/audio-diffusion-pytorch) 
 
 ## Contribute
 
