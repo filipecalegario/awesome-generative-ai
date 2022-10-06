@@ -173,7 +173,6 @@
 * [The Promptist Manifesto – deeplearn.art](https://deeplearn.art/the-promptist-manifesto/)
 
 ## Image Synthesis
-* [CLIPasso](https://clipasso.github.io/clipasso/): Semantically-Aware Object Sketching
 * [CHARL-E](https://www.charl-e.com/): Run Stable Diffusion on your M1 Mac
 * [Parrot Zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205): a database of image synthesis references
 * [Image Synth Link List](https://proximacentaurib.notion.site/39805c50735849cfa54b5d688587e12e?v=b9ea748623e342fdae02d07c86c668bf): a collection of links organized by the collective parrot zone
@@ -273,6 +272,8 @@
 * [AIVA](https://www.aiva.ai/): The AI composing emotional soundtrack music
 
 ## Inbox
+* [CLIPasso](https://clipasso.github.io/clipasso/): Semantically-Aware Object Sketching
+* [(9) AK on Twitter: "DreamFusion: Text-to-3D using 2D Diffusion paper: https://t.co/euVCkNPzB0 abs: https://t.co/FO7nqjLrQA project page: https://t.co/BTvt1WQqIi DeepDream on a pretrained 2D diffusion model enables text-to-3D synthesis https://t.co/20zIElXJDN" / Twitter](https://twitter.com/_akhaliq/status/1575541930905243652?t=m17X6zyC0c8-VvIWjICc1w&s=33) 
 * [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 * [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" https://arxiv.org/abs/2201.13433
 * [autonomousvision/projected_gan](https://github.com/autonomousvision/projected_gan): [NeurIPS'21] Projected GANs Converge Faster
