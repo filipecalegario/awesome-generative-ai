@@ -2,8 +2,7 @@
 
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
-- [Generative Deep Art ![Awesome](https://awesome.re)](#generative-deep-art-)
-  - [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
+ - [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
   - [Stable Diffusion Inbox](#stable-diffusion-inbox)
     - [Stable Diffusion Deployed Web Tools](#stable-diffusion-deployed-web-tools)
     - [Web UI for Stable Diffusion via Google Colab](#web-ui-for-stable-diffusion-via-google-colab)
