@@ -32,7 +32,7 @@
   - [Inbox: Text and Natural Language Processing](#inbox-text-and-natural-language-processing)
     - [OpenAI GPT-3](#openai-gpt-3)
   - [Papers and references for reading and understanding](#papers-and-references-for-reading-and-understanding)
-  - [Interesting Instagram Accounts](#interesting-instagram-accounts)
+  - [Interesting Instagram Accounts, Posts and Reels](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md#interesting-instagram-accounts-posts-and-reels)
   - [Interesting Youtube Channels](#interesting-youtube-channels)
   - [Interesting GitHub Repositories](#interesting-github-repositories)
   - [Artworks](#artworks)
