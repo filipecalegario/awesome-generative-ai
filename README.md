@@ -34,7 +34,7 @@
   - [Interesting Instagram Accounts, Posts and Reels](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md#interesting-instagram-accounts-posts-and-reels)
   - [Interesting Youtube Channels](#interesting-youtube-channels)
   - [Interesting GitHub Repositories](#interesting-github-repositories)
-  - [Artworks](#artworks)
+  - [Artists and Artworks](#artists-and-artworks)
   - [Galleries](#galleries)
   - [Selected examples of This X Does Not Exist](#selected-examples-of-this-x-does-not-exist)
   - [Pre-trained Models](#pre-trained-models)
@@ -393,7 +393,8 @@
 * [dvschultz](https://github.com/dvschultz): Derrick Schultz's GitHub
 * [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs): collection of Google Colab Notebooks for ML Arts
 
-## Artworks
+## Artists and Artworks
+* [(19) INFINITEYAY✨ on Twitter: "✨35 Artists Using AI With Under 1000 Followers That You Need To Follow Today✨ -- All these artists are fantastic and deserve way more followers. In no particular order here's my first list. More to come. Enjoy! 👇 #AIart #art #stablediffusion #midjourney #dalle2 #AI https://t.co/CTyq1dfsTs" / Twitter](https://twitter.com/infiniteyay/status/1583465675166609408?s=43&t=XvooFiMyC-YPv0i98HmjVQ) 
 * [Computer Vision Art Gallery : CVPR 2021](https://computervisionart.com/): artworks dealing with computer vision technologies
 * [Confluence](https://deviparikh.github.io/confluence/): a generative art project by Devi Parikh on BrainDrops.
 * [Learning to See – Memo Akten | Mehmet Selim Akten | The Mega Super Awesome Visuals Company](http://www.memo.tv/works/learning-to-see/)
