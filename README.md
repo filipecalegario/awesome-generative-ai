@@ -102,6 +102,7 @@
 * [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos): Create videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 
 ### Stable Diffusion Deployed Web Tools
+* [DiffusionBee](https://diffusionbee.com/): stable diffusion GUI App
 * [getimg.ai](https://getimg.ai/): Generate photo-realistic images from text using Stable Diffusion
 * [Enstil: Fast, open, AI-generated images](https://enstil.ai/?source=12)
 * [Dezgo - Text-to-Image AI generator](https://dezgo.com/)
