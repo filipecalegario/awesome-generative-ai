@@ -1,4 +1,5 @@
-# Generative Deep Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Generative Deep Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
+
 
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
