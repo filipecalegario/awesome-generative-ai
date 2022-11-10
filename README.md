@@ -86,6 +86,7 @@
 * [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/) 
 
 ## Stable Diffusion Inbox
+* [prompthero/midjourney-v4-diffusion · Hugging Face](https://huggingface.co/prompthero/midjourney-v4-diffusion): Stable Diffusion fine tuned on Midjourney v4 images, by [PromptHero](https://prompthero.com/)
 * [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/): explained by Jay Alammar (Visualizing machine learning one concept at a time)
 * [Img To Music](https://huggingface.co/spaces/fffiloni/img-to-music) a Hugging Face Space by fffiloni
 * [Atlas KREA Stable Diffusion](https://atlas.nomic.ai/map/809ef16a-5b2d-4291-b772-a913f4c8ee61/9ed7d171-650b-4526-85bf-3592ee51ea31): An explorable map of KREA AI's Stable Diffusion Search Engine
