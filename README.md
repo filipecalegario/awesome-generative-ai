@@ -487,3 +487,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Filipe Calegario has waived all copyright and
 related or neighboring rights to this work.
+
+## Star History
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=filipecalegario/awesome-generative-deep-art&type=Date)](https://star-history.com/#filipecalegario/awesome-generative-deep-art&Date)
+
