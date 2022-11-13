@@ -86,7 +86,8 @@
 * [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
 
 ## DreamBooth
-* [fast-DreamBooth.ipynb - Colaboratory](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb): train custom concepts from input images with this simplified DreamBooth colab.
+* [fast-DreamBooth.ipynb - Colaboratory](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb): train custom concepts from input images with this simplified DreamBooth colab
+* [(1166) Como Criar Artes Incríveis com o seu Próprio Rosto Usando o Dreambooth! DE FORMA FÁCIL E DE GRAÇA! - YouTube](https://www.youtube.com/watch?v=3e4jwgqy-0A): tutorial in Portuguese on how to train DreamBooth with your own face
 
 ## Stable Diffusion Inbox
 * [NEWS][Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel](https://petapixel.com/2022/11/10/canva-adds-a-free-and-unlimited-ai-text-to-image-generator/)
