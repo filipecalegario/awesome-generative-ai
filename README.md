@@ -207,7 +207,7 @@
 * [Pyttipanna](https://pyttipanna.xyz/): visual interface for Pytti by [@_staus](https://twitter.com/_staus). Pytti is created by [@sportsracer48](https://twitter.com/sportsracer48)
 
 ### Collections
-
+* [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
 * [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
 * [Post Reddit - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/): List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description 
 * [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
