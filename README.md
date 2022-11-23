@@ -118,6 +118,7 @@
 
 ### Stable Diffusion Deployed Web Tools
 
+* [Astria](https://www.astria.ai/): Tailor-made AI image generation
 * [drawanyone](https://drawanyone.com/): generate drawings based on five input images
 * [DiffusionBee](https://diffusionbee.com/): stable diffusion GUI App
 * [getimg.ai](https://getimg.ai/): Generate photo-realistic images from text using Stable Diffusion
