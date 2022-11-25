@@ -123,7 +123,7 @@
 
 ### Stable Diffusion Deployed Web Tools
 
-* [aiimagegenerator.org](https://www.aiimagegenerator.org/): Free AI art generator that supports Stable Diffusion txt2img and img2img generation with inpainting
+* [aiimagegenerator.org](https://www.aiimagegenerator.org/): Free AI art generator that supports Stable Diffusion txt2img and img2img generation, and inpainting
 * [Astria](https://www.astria.ai/): Tailor-made AI image generation
 * [drawanyone](https://drawanyone.com/): generate drawings based on five input images
 * [DiffusionBee](https://diffusionbee.com/): stable diffusion GUI App
