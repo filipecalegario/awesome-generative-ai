@@ -101,6 +101,7 @@
 
 ## Stable Diffusion Inbox
 
+* [InvokeAI](https://invoke-ai.github.io/InvokeAI/): Stable Diffusion Toolkit and application that runs Windows, Mac and Linux machines, and on GPU cards with as little as 4 GB or RAM
 * [Stability.ai REST API Documentation](https://api.stability.ai/docs): service provided by Stability.ai. DreamStudio authentication required to access this REST API
 * [🔥🔥🔥] [SD GUIDE FOR ARTISTS AND NON-ARTISTS - Google Docs](https://docs.google.com/document/d/1R2UZi5G-DXiz2HcCrfAFLYJoer_JPDEoZmV7wy1tEz0/edit#): a Google Docs with in-depth tips, tricks, tutorials and more related to Stable Diffusion
 * [NEWS][Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel](https://petapixel.com/2022/11/10/canva-adds-a-free-and-unlimited-ai-text-to-image-generator/)
