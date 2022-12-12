@@ -184,6 +184,7 @@
 
 ## Courses and Educational Materials
 
+* [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
 * [Crash course in AI art generation by PromptHero](https://prompthero.com/academy): paid ($99) course focused on prompt engineering
 * [Visual intuition for diffusion models and AI art. #stablediffusionart #aiart #aiartwork #aiartcommunity](https://www.tiktok.com/@ham_made_art/video/7154863972729113899) 
 * [The Illustrated Stable Diffusion by Jay Alammar](https://jalammar.github.io/illustrated-stable-diffusion/): "gentle introduction [on] how Stable Diffusion works"
