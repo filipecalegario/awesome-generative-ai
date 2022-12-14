@@ -407,6 +407,7 @@
 
 ## Inbox: Text and Natural Language Processing
 
+* [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
 * [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
 * [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom): getting started with BLOOM
 * [BLOOM](https://thenextweb.com/news/bloom-new-open-source-ai-model-bigger-than-gpt-3-large-language-model-llm): open-source 176-billion-parameter model aims to democratize large-language models
@@ -429,6 +430,7 @@
 * [Emerson on Telegram](https://www.quickchat.ai/emerson)
 
 ### OpenAI GPT-3
+
 * [GPT-3 playground](https://beta.openai.com/playground)
 * [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
 
