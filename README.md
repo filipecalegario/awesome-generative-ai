@@ -339,10 +339,9 @@
 * [AIVA](https://www.aiva.ai/): The AI composing emotional soundtrack music
 
 ## Inbox
-[Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
+
 * [chaosreactor/awesome-generative-ai](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 * [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
-* [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music): A simple notebook demonstrating prompt-based music generation via Mubert API
 * [(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/) 
 * [CLIPasso](https://clipasso.github.io/clipasso/): Semantically-Aware Object Sketching
 * [(9) AK on Twitter: "DreamFusion: Text-to-3D using 2D Diffusion paper: https://t.co/euVCkNPzB0 abs: https://t.co/FO7nqjLrQA project page: https://t.co/BTvt1WQqIi DeepDream on a pretrained 2D diffusion model enables text-to-3D synthesis https://t.co/20zIElXJDN" / Twitter](https://twitter.com/_akhaliq/status/1575541930905243652?t=m17X6zyC0c8-VvIWjICc1w&s=33) 
@@ -355,7 +354,6 @@
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Lucid Lyrics - AI Assisted Art](https://www.lucidlyricsart.com/): AI-Assisted Lyrical Interpretations by Walter Arnold
-* [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound) 
 * [disco-diffusion/Local_Disco_Diffusion_v4_1.ipynb at main · Midgraph/disco-diffusion](https://github.com/Midgraph/disco-diffusion/blob/main/Local_Disco_Diffusion_v4_1.ipynb)
 * [Audio to keyframe string](https://audio-keyframe-generator.glitch.me/): this tool is used to generate strings for the keyframes of AI animation notebooks, such as [this VQGAN+CLIP Animations notebook](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb), using the volume of audio tracks.
 * [🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
@@ -399,7 +397,14 @@
 
 ## Text-to-video
 
-[THUDM/CogVideo](https://github.com/THUDM/CogVideo): Text-to-video generation
+* [THUDM/CogVideo](https://github.com/THUDM/CogVideo): Text-to-video generation
+
+## Inbox: Music-related projects
+
+* [Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
+* [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music): a simple notebook demonstrating prompt-based music generation via Mubert API
+* [Jukebox](https://openai.com/blog/jukebox/): "a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles"
+* [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound)
 
 ## How did they do it?
 
