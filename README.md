@@ -214,6 +214,7 @@
 * [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion) 
 
 ## Discussions and Philosophy
+
 * [AI Data Laundering - Waxy.org](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/): How Academic and Nonprofit Researchers Shield Tech Companies from Accountability
 * [🔥🔥🔥] [(1232) The End of Art: An Argument Against Image AIs - YouTube](https://www.youtube.com/watch?v=tjSxFAGP9Ss&t=193s): video essay by Steven Zapata
 * [🔥🔥🔥] [The End of Art: An Argument Against Image AIs (Public) - Google Docs](https://docs.google.com/document/d/128yey0VfYhM9eUdvkvCpk5zvvoIkqXfI4hEPAYeJCHU/edit): transcript of the video essay by Steven Zapata
@@ -243,6 +244,7 @@
 * [🔥] [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * [🔥🔥🔥] [Ai generative art tools](https://pharmapsychotic.com/tools.html): a massive list of shared Google Colab notebooks and tools organized by [@pharampsychotic](https://twitter.com/pharmapsychotic)
 * [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
+* [pyttitools-PYTTI.ipynb - Colaboratory](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb) 
 * [pixray/pixray](https://github.com/pixray/pixray): Pixray is an image generation system
 * [pixray/pixray_notebooks](https://github.com/pixray/pixray_notebooks): pixray demo notebooks
 * [dribnet/pixray-text2image – Run with an API on Replicate](https://replicate.com/dribnet/pixray-text2image) 
