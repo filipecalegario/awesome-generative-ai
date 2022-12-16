@@ -290,9 +290,8 @@
 * [~200 CLIP+VQGAN keywords on 4 subjects, by @kingdomakrillic  - Imgur](https://imgur.com/a/SALxbQm)
 * [Experimentando o VQGAN+CLIP: gerador de imagens a partir de textos - YouTube Filipe Calegario](https://www.youtube.com/watch?v=Yy5NMTkN-Qc) 
 
-
-
 ### Text-to-image Google Colab Notebooks (Multiple Models)
+
 * [VQGAN + CLIP + Gumbel](https://colab.research.google.com/drive/1tim3xTsZXafK-A2rOUsevckdl4OitIiw)
 * [OpenAI DVAE+CLIP](https://colab.research.google.com/drive/10DzGECHlEnL4oeqsN-FWCkIe_sq3wVqt)
 * [Text2Image VQGAN](https://colab.research.google.com/github/eps696/aphantasia/blob/master/CLIP_VQGAN.ipynb)
@@ -311,10 +310,12 @@
 * [Simplified Google Colab Interface for the above models](https://sites.google.com/ear.com.br/aimodelgallery/home?authuser=1): series of interface simplification made by EAR+CIn Research project
 
 ## Image Upscaling
+
 * [Model Database - Upscale Wiki](https://upscale.wiki/wiki/Model_Database): list of models for upscaling images
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): paid AI image upscaler delivering enhanced detail and resolution
 
 ## Image Restoration
+
 * [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration
 
 ## Online Tools and Applications
@@ -337,6 +338,7 @@
 
 ## Inbox
 
+* [Scenario AI](https://www.scenario.gg/): AI-generated game assets
 * [Imagen](https://imagen.research.google/): Google's Text-to-Image Diffusion Models
 * [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/): Meta's creative control for AI image generation
 * [DALL·E 2](https://openai.com/dall-e-2/): OpenAI system, evolution of the DALL-E launched in Jan 2021, that can create realistic images and art from a description in natural language.
