@@ -237,6 +237,7 @@
 * [The Promptist Manifesto – deeplearn.art](https://deeplearn.art/the-promptist-manifesto/)
 
 ## Image Synthesis
+
 * [[arxiv/2211.11319] VectorFusion](https://arxiv.org/abs/2211.11319): Text-to-SVG by Abstracting Pixel-Based Diffusion Models
 * [CHARL-E](https://www.charl-e.com/): Run Stable Diffusion on your M1 Mac
 * [Parrot Zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205): a database of image synthesis references
@@ -321,7 +322,7 @@
 * [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration
 
 ## Online Tools and Applications
-
+* [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
 * [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
 * [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
 * [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
