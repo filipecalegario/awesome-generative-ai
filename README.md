@@ -430,6 +430,7 @@
 
 ## Inbox: Text and Natural Language Processing
 
+* [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
 * [🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
 * [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT 
 * [Awesome ChatGPT Prompts](https://prompts.chat/): a repo that includes curated ChatGPT prompts 
