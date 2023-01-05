@@ -211,7 +211,7 @@
 * [Have I Been Trained?](https://haveibeentrained.com/): tool for searching 5.8 billion images used to train popular AI art models
 * [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images): exploring 12 million of the 2.3 billion images used to train Stable Diffusion's image generator
 
-## History and Mapping the Area
+## History and Mapping the Generative AI Area
 
 * [🔥🔥🔥] [Mapping the Generative AI landscape | Antler](https://www.antler.co/blog/generative-ai) 
 * [🔥🔥🔥] [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
@@ -547,9 +547,9 @@
 * [Latent Space Exploration with StyleGAN2](https://amarsaini.github.io/Epoching-Blog/jupyter/2020/08/10/Latent-Space-Exploration-with-StyleGAN2.html)
 
 ## Other Related Awesome Lists
-
-- [margaretmz/awesome-ai-art-design](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
-- [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
+* [🔥🔥🔥] [jonathandinu/awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
+* [margaretmz/awesome-ai-art-design](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
+* [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 
 ## Notes, ideas for projects
 
@@ -558,6 +558,7 @@
 * Interfaces for editing parameters that can be exported as string. This string is the input for a notebook or model. "Copy string", "Paste string", "Export file", "Import file".
 
 ## Improving Google Colab experience
+
 * [7 ways to load external data into Google Colab | by B. Chen | Towards Data Science](https://towardsdatascience.com/7-ways-to-load-external-data-into-google-colab-7ba73e7d5fc7) 
 * [10 tricks for a better Google Colab experience | by Cyprien NIELLY | Towards Data Science](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
 * [Quickly share ML WebApps from Google Colab using ngrok for Free | by AbdulMajedRaja RS | Towards Data Science](https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a)
