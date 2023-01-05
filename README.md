@@ -137,6 +137,7 @@
 
 ### Stable Diffusion Deployed Web Tools
 
+* [dreamlike.art](https://dreamlike.art/): image generator based on Stable Diffusion with fine-tuned models such as Dreamlike Photoreal 2.0. Users receive 1 credit per hour up to 50 credits
 * [AITWO.CO](https://aitwo.co/): a AI-powered design platform with multiple features
 * [aiimagegenerator.org](https://www.aiimagegenerator.org/): free AI art generator that supports Stable Diffusion txt2img and img2img generation, drawing and inpainting
 * [Playground AI](https://playgroundai.com/): frontend for Stable Diffusion with 1000 image generations per day
