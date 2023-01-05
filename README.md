@@ -434,6 +434,7 @@
 
 ## Inbox: Text and Natural Language Processing
 
+* [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
 * [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
 * [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
 * [🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
