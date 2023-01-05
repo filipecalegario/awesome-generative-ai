@@ -54,6 +54,7 @@
 
 ## Prompt Engineering | Prompt Design | Prompt Craft
 
+* [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
 * [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480) 
 * [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
 * [The Ultimate Stable Diffusion Prompt Guide by PromptHero](https://prompthero.com/stable-diffusion-prompt-guide) 
