@@ -435,6 +435,7 @@
 
 ## Inbox: Text and Natural Language Processing
 
+* [🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
 * [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
 * [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
 * [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
