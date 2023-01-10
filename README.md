@@ -62,6 +62,12 @@
 
 ## Prompt Engineering | Prompt Design | Prompt Craft
 
+### For text-to-text
+
+* [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting): e-book by Fatih Kadir Akın ([@fkadev](http://twitter.com/fkadev))
+
+### For text-to-image
+
 * [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
 * [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480) 
 * [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
