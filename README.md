@@ -245,6 +245,20 @@
 * [Using AI to create art is NOT art! | Reddit : ArtistLounge](https://www.reddit.com/r/ArtistLounge/comments/xczk89/using_ai_to_create_art_is_not_art/) 
 * [Appreciating the Poetic Misunderstandings of A.I. Art | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art?s=09)
 
+### Critical Views about Generative AI
+
+* [The Dark Side of AI Art: 4 Potential Issues With the Growing Trend](https://www.makeuseof.com/dark-side-of-ai-art-potential-issues/) 
+* [Armed With ChatGPT, Cybercriminals Build Malware And Plot Fake Girl Bots](https://www.forbes.com/sites/thomasbrewster/2023/01/06/chatgpt-cybercriminal-malware-female-chatbots/?sh=6019f4315534)
+* [ChatGPT And The Mass Production Of Office Work - Farsight](https://farsight.cifs.dk/chatgpt-and-the-mass-production-of-office-work/)
+* [The Danger Of ChatGPT Nobody Talks About | by Jacob Ferus | Dec, 2022 | Medium](https://medium.com/@dreamferus/the-danger-of-chatgpt-nobody-talks-about-9aff94e5dea6)
+* [Mind Control in the Metaverse. If we’ve learned anything about… | by Louis Rosenberg | Predict | Dec, 2022 | Medium](https://medium.com/predict/mind-control-in-the-metaverse-48dfbd88c2ae)
+* [The Brilliance and Weirdness of ChatGPT - The New York Times](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
+* [Como o texto gerado por Inteligência Artificial está envenenando a Internet - MIT Technology Review](https://mittechreview.com.br/como-o-texto-gerado-por-inteligencia-artificial-esta-envenenando-a-internet/)
+* [O ChatGPT é o momento “Jurassic Park” da inteligência artificial - NeoFeed](https://neofeed.com.br/blog/home/o-chatgpt-e-o-momento-jurassic-park-da-inteligencia-artificial/)
+* [Por favor, mais racionalidade e menos frenesi em relação ao chatGPT (Parte 1 de 2)[ | by Cezar Taurion | Dec, 2022 | Medium](https://c-taurion.medium.com/por-favor-mais-racionalidade-e-menos-frenesi-em-rela%C3%A7%C3%A3o-ao-chatgpt-parte-1-de-2-1d7637e2a854)
+* [E se estivermos usando uma IA pseudocientífica? - Diogo Cortiz](https://diogocortiz.com.br/computacao-afetiva-e-os-desafios-das-ias-pseudocientificas/)
+* [As limitações da sensação tecnológica de 2023: o ChatGPT | IAgora? | Época NEGÓCIOS](https://epocanegocios.globo.com/colunas/iagora/coluna/2023/01/as-limitacoes-da-sensacao-tecnologica-de-2023-o-chatgpt.ghtml)
+
 ### Promptism
 
 * [promptism | Reddit](https://www.reddit.com/r/promptism/): Promptism is an art movement whose creators apply machine learning models trained with contrastive language-image pre-training (CLIP) techniques for image generation
