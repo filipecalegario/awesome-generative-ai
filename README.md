@@ -247,6 +247,7 @@
 
 ### Critical Views about Generative AI
 
+* [Forecasting Potential Misuses of Language Models for Disinformation Campaigns—and How to Reduce Risk](https://openai.com/blog/forecasting-misuse/) 
 * [The Dark Side of AI Art: 4 Potential Issues With the Growing Trend](https://www.makeuseof.com/dark-side-of-ai-art-potential-issues/) 
 * [Armed With ChatGPT, Cybercriminals Build Malware And Plot Fake Girl Bots](https://www.forbes.com/sites/thomasbrewster/2023/01/06/chatgpt-cybercriminal-malware-female-chatbots/?sh=6019f4315534)
 * [ChatGPT And The Mass Production Of Office Work - Farsight](https://farsight.cifs.dk/chatgpt-and-the-mass-production-of-office-work/)
