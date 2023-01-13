@@ -54,6 +54,7 @@
 
 ## The Generative AI Area: history and maps
 
+* [sridhar on Twitter: "AI exploded on the scene at the end of 2022, with applications like @OpenAI's ChatGPT taking the world by storm. 2023 is poised to be the most exciting year of AI yet! 🎉 Here's mine and @vivek7ue's look at the lay of the land + what might happen next... 👀🧵 https://t.co/3Q8B1Ay2QN" / Twitter](https://twitter.com/RamaswmySridhar/status/1613271413020037120)
 * [🔥🔥🔥] [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
 * [🔥🔥🔥] [Mapping the Generative AI landscape | Antler](https://www.antler.co/blog/generative-ai) 
 * [🔥🔥🔥] [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
