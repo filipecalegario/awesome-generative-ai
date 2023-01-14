@@ -33,7 +33,8 @@
   - [Online Tools and Applications](#online-tools-and-applications)
   - [Inbox](#inbox)
   - [Text-to-video](#text-to-video)
-  - [Inbox: Music, Audio, and Text-to-speech (TTS) projects](#inbox-music-audio-and-text-to-speech-tts-projects)
+  - [Inbox: Text-to-speech (TTS) tools](#inbox-text-to-speech-tts-tools)
+  - [Inbox: Music and Audio projects](#inbox-music-and-audio-projects)
   - [Inbox: Text and Natural Language Processing](#inbox-text-and-natural-language-processing)
     - [OpenAI GPT-3](#openai-gpt-3)
   - [Papers and references for reading and understanding](#papers-and-references-for-reading-and-understanding)
@@ -356,8 +357,6 @@
 ## Online Tools and Applications
 
 * [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
-* [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
-* [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
 * [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
 * [ProsePainter](https://www.prosepainter.com/): an interactive tool to "paint with words." It incorporates guidable text-to-image generation into a traditional digital painting interface
 * [ProsePainter: Image + Sketching Interface + CLIP! - YouTube](https://www.youtube.com/watch?v=mK4F32xNrdw&t=429s)
@@ -380,8 +379,6 @@
 * [DALL·E 2](https://openai.com/dall-e-2/): OpenAI system, evolution of the DALL-E launched in Jan 2021, that can create realistic images and art from a description in natural language.
 * [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
 * [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
-* [chaosreactor/awesome-generative-ai](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
-* [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 * [(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/) 
 * [CLIPasso](https://clipasso.github.io/clipasso/): Semantically-Aware Object Sketching
 * [(9) AK on Twitter: "DreamFusion: Text-to-3D using 2D Diffusion paper: https://t.co/euVCkNPzB0 abs: https://t.co/FO7nqjLrQA project page: https://t.co/BTvt1WQqIi DeepDream on a pretrained 2D diffusion model enables text-to-3D synthesis https://t.co/20zIElXJDN" / Twitter](https://twitter.com/_akhaliq/status/1575541930905243652?t=m17X6zyC0c8-VvIWjICc1w&s=33) 
@@ -439,10 +436,17 @@
 
 * [THUDM/CogVideo](https://github.com/THUDM/CogVideo): Text-to-video generation
 
-## Inbox: Music, Audio, and Text-to-speech (TTS) projects
+## Inbox: Text-to-speech (TTS) tools
 
+* [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
+* [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
 * [🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
 * [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
+* [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
+* [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
+
+## Inbox: Music and Audio projects
+
 * [🔥🔥🔥] [Riffusion](https://www.riffusion.com/): an app for real-time music generation with stable diffusion
 * [Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
 * [Dance Diffusion](https://huggingface.co/spaces/harmonai/dance-diffusion): the Hugging Face Space by harmonai
@@ -562,6 +566,8 @@
 * [🔥🔥🔥] [jonathandinu/awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 * [margaretmz/awesome-ai-art-design](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 * [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
+* [chaosreactor/awesome-generative-ai](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
+* [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 
 ## Improving Google Colab experience
 
