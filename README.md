@@ -1,56 +1,53 @@
-# Generative Deep Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
+Generative Deep Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
 
 
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
-- [Generative Deep Art ](#generative-deep-art-)
-  - [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
-  - [DreamBooth](#dreambooth)
-  - [Deforum](#deforum)
-  - [Stable Diffusion Inbox](#stable-diffusion-inbox)
-    - [Stable Diffusion Deployed Web Tools](#stable-diffusion-deployed-web-tools)
-    - [Web UI for Stable Diffusion via Google Colab](#web-ui-for-stable-diffusion-via-google-colab)
-    - [References Collection about Stable Diffusion](#references-collection-about-stable-diffusion)
-  - [Textual Inversion](#textual-inversion)
-  - [Creative Uses of Text-to-Image Tools](#creative-uses-of-text-to-image-tools)
-  - [Courses and Educational Materials](#courses-and-educational-materials)
-  - [Exploring Images Databases](#exploring-images-databases)
-  - [History](#history)
-  - [Discussions and Philosophy](#discussions-and-philosophy)
-    - [Promptism](#promptism)
-  - [Image Synthesis](#image-synthesis)
-    - [Collections](#collections)
-    - [DALL-E 2](#dall-e-2)
-    - [Latent Diffusion](#latent-diffusion)
-    - [GLIDE](#glide)
-    - [VQGAN+CLIP](#vqganclip)
-    - [Text-to-image Google Colab Notebooks (Multiple Models)](#text-to-image-google-colab-notebooks-multiple-models)
-  - [Image Upscaling](#image-upscaling)
-  - [Image Restoration](#image-restoration)
-  - [Online Tools and Applications](#online-tools-and-applications)
-  - [Inbox](#inbox)
-  - [Text-to-video](#text-to-video)
-  - [Inbox: Music-related projects](#inbox-music-related-projects)
-  - [Inbox: Text and Natural Language Processing](#inbox-text-and-natural-language-processing)
-    - [OpenAI GPT-3](#openai-gpt-3)
-  - [Papers and references for reading and understanding](#papers-and-references-for-reading-and-understanding)
-  - [Interesting Instagram Accounts, Posts and Reels](#interesting-instagram-accounts-posts-and-reels)
-  - [Interesting Youtube Channels](#interesting-youtube-channels)
-  - [Interesting GitHub Repositories](#interesting-github-repositories)
-  - [Artists and Artworks](#artists-and-artworks)
-  - [Galleries](#galleries)
-  - [Selected examples of This X Does Not Exist](#selected-examples-of-this-x-does-not-exist)
-  - [Pre-trained Models](#pre-trained-models)
-  - [Neural Net Models](#neural-net-models)
-  - [Latent Space Explorarion](#latent-space-explorarion)
-  - [Other Related Awesome Lists](#other-related-awesome-lists)
-  - [Notes, ideas for projects](#notes-ideas-for-projects)
-  - [Improving Google Colab experience](#improving-google-colab-experience)
-  - [Troubleshooting](#troubleshooting)
-  - [Inbox for Related References](#inbox-for-related-references)
-  - [Tools for Batch Image Processing](#tools-for-batch-image-processing)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [The Generative AI Area: history and maps](#the-generative-ai-area-history-and-maps)
+- [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
+  - [For text-to-text](#for-text-to-text)
+  - [For text-to-image](#for-text-to-image)
+- [Stable Diffusion Inbox](#stable-diffusion-inbox)
+  - [Stable Diffusion Deployed Web Tools](#stable-diffusion-deployed-web-tools)
+  - [Web UI for Stable Diffusion via Google Colab](#web-ui-for-stable-diffusion-via-google-colab)
+  - [References Collection about Stable Diffusion](#references-collection-about-stable-diffusion)
+- [Textual Inversion](#textual-inversion)
+- [DreamBooth](#dreambooth)
+- [Deforum](#deforum)
+- [Creative Uses of Generative AI Tools](#creative-uses-of-generative-ai-tools)
+- [Courses and Educational Materials](#courses-and-educational-materials)
+- [Exploring Images Databases](#exploring-images-databases)
+- [Discussions and Philosophy](#discussions-and-philosophy)
+  - [Critical Views about Generative AI](#critical-views-about-generative-ai)
+  - [Promptism](#promptism)
+- [Image Synthesis](#image-synthesis)
+  - [Collections](#collections)
+  - [DALL-E 2](#dall-e-2)
+  - [Latent Diffusion](#latent-diffusion)
+  - [GLIDE](#glide)
+  - [VQGAN+CLIP](#vqganclip)
+  - [Text-to-image Google Colab Notebooks (Multiple Models)](#text-to-image-google-colab-notebooks-multiple-models)
+- [Image Upscaling](#image-upscaling)
+- [Image Restoration](#image-restoration)
+- [Online Tools and Applications](#online-tools-and-applications)
+- [Inbox](#inbox)
+- [Text-to-video](#text-to-video)
+- [Inbox: Music, Audio, and Text-to-speech (TTS) projects](#inbox-music-audio-and-text-to-speech-tts-projects)
+- [Inbox: Text and Natural Language Processing](#inbox-text-and-natural-language-processing)
+  - [OpenAI GPT-3](#openai-gpt-3)
+- [Papers and references for reading and understanding](#papers-and-references-for-reading-and-understanding)
+- [Interesting Instagram Accounts, Posts and Reels](#interesting-instagram-accounts-posts-and-reels)
+- [Interesting Youtube Channels](#interesting-youtube-channels)
+- [Interesting GitHub Repositories](#interesting-github-repositories)
+- [Artists and Artworks](#artists-and-artworks)
+- [Galleries](#galleries)
+- [Latent Space Explorarion](#latent-space-explorarion)
+- [Related Awesome Lists](#related-awesome-lists)
+- [Improving Google Colab experience](#improving-google-colab-experience)
+- [Inbox for Related References](#inbox-for-related-references)
+- [Tools for Batch Image Processing](#tools-for-batch-image-processing)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## The Generative AI Area: history and maps
 
@@ -110,18 +107,6 @@
 * [[2206.00169] Discovering the Hidden Vocabulary of DALLE-2](https://arxiv.org/abs/2206.00169)
 * [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/) 
 * [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
-
-## DreamBooth
-
-* [AI Profile Pictures](https://www.aiprofilepictures.com/): paid service for generating profile pictures using AI
-* [Training Stable Diffusion with Dreambooth using Diffusers](https://huggingface.co/blog/dreambooth): experiments to analyze the effect of different settings in Dreambooth
-* [fast-DreamBooth.ipynb - Colaboratory](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb): train custom concepts from input images with this simplified DreamBooth colab
-* [(1166) Como Criar Artes Incríveis com o seu Próprio Rosto Usando o Dreambooth! DE FORMA FÁCIL E DE GRAÇA! - YouTube](https://www.youtube.com/watch?v=3e4jwgqy-0A): tutorial in Portuguese on how to train DreamBooth with your own face
-
-## Deforum
-
-* [Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube](https://www.youtube.com/watch?v=6snk7gw898g)
-* [Deforum Stable Diffusion](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=63UOJvU3xdPS): generating videos from scripted prompts
 
 ## Stable Diffusion Inbox
 
@@ -197,7 +182,19 @@
 * [2208.01618 An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618): paper that describes the Textual Inversion technique
 * [sd-concepts-library (Stable Diffusion concepts library)](https://huggingface.co/sd-concepts-library): Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
 
-## Creative Uses of Text-to-Image Tools
+## DreamBooth
+
+* [AI Profile Pictures](https://www.aiprofilepictures.com/): paid service for generating profile pictures using AI
+* [Training Stable Diffusion with Dreambooth using Diffusers](https://huggingface.co/blog/dreambooth): experiments to analyze the effect of different settings in Dreambooth
+* [fast-DreamBooth.ipynb - Colaboratory](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb): train custom concepts from input images with this simplified DreamBooth colab
+* [(1166) Como Criar Artes Incríveis com o seu Próprio Rosto Usando o Dreambooth! DE FORMA FÁCIL E DE GRAÇA! - YouTube](https://www.youtube.com/watch?v=3e4jwgqy-0A): tutorial in Portuguese on how to train DreamBooth with your own face
+
+## Deforum
+
+* [Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube](https://www.youtube.com/watch?v=6snk7gw898g)
+* [Deforum Stable Diffusion](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=63UOJvU3xdPS): generating videos from scripted prompts
+
+## Creative Uses of Generative AI Tools
 
 * [De-painting historical photographs | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgbug2/depainting_historical_photographs/) 
 * [img2img animation with hands | Reddit](https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/)
@@ -554,39 +551,15 @@
 * [Ganvas Studio - Neural Network Paintings](https://ganvas.studio/)
 * [Syn Feather Sweater / STRELITZIA – HATRA E STORE](https://hatroid.com/collections/synthetic-feather/products/syn-feather-sweater-strelitzia)
 
-## Selected examples of This X Does Not Exist
-
-* [This vessel does not exist.](https://thisvesseldoesnotexist.com/#/): A gallery of both authentic and fake vessels generated by machine learning software (StyleGAN)
-* https://thispersondoesnotexist.com/ - gerador de rostos humanos 
-* https://thisxdoesnotexist.com/ - site com vários exemplos de outros modelos
-
-## Pre-trained Models
-
-* [justinpinkney/awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN2 models trained on different datasets at different resolution
-* [A collection of pre-trained StyleGAN 2 models to download - Deep Learning | ReposHub](https://reposhub.com/python/deep-learning/justinpinkney-awesome-pretrained-stylegan2.html)
-* [Modelo pretreinado com obras de arte moderna](https://twitter.com/MichaelFriese10/status/1213697331427545088)
-
-## Neural Net Models
-
-* [Yuheng-Li/MixNMatch](https://github.com/Yuheng-Li/MixNMatch)
-* [lucidrains/lightweight-gan](https://github.com/lucidrains/lightweight-gan): 512x512 flowers after 12 hours of training, 1 gpu 256x256 flowers after 12 hours of training, 1 gpu Implementation of 'lightweight' GAN proposed in ICLR 2021
-* [VQGAN+CLIP](https://docs.google.com/document/d/1Lu7XPRKlNhBQjcKr8k8qRzUzbBW7kzxb5Vu72GMRn2E/edit): This is a brief tutorial on how to operate VQGAN+CLIP by Katherine Crowson
-* [rinongal/StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada): Zero-Shot non-adversarial domain adaptation of pre-trained generators
-
 ## Latent Space Explorarion
 
 * [Latent Space Exploration with StyleGAN2](https://amarsaini.github.io/Epoching-Blog/jupyter/2020/08/10/Latent-Space-Exploration-with-StyleGAN2.html)
 
-## Other Related Awesome Lists
+## Related Awesome Lists
+
 * [🔥🔥🔥] [jonathandinu/awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 * [margaretmz/awesome-ai-art-design](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 * [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
-
-## Notes, ideas for projects
-
-* Video clip: music + lyrics => image + video
-* Book: text => illustration
-* Interfaces for editing parameters that can be exported as string. This string is the input for a notebook or model. "Copy string", "Paste string", "Export file", "Import file".
 
 ## Improving Google Colab experience
 
@@ -595,9 +568,6 @@
 * [Quickly share ML WebApps from Google Colab using ngrok for Free | by AbdulMajedRaja RS | Towards Data Science](https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a)
 * [Jupyter Widgets for Interactivity in Google Colab](https://colab.research.google.com/notebooks/forms.ipynb#scrollTo=62YnDE7i9dqP): notebook with examples of using Jupyter Widgets in Colab, allowing interactive inputs
 * [Jupyter Widgets official documentation](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html)
-
-## Troubleshooting
-![Looking_Glass_v1_1_-_Colaboratory](https://user-images.githubusercontent.com/299057/145653588-42e9b4c0-cb23-45a5-8a18-b7a60f5d8827.png) [Ref](https://stackoverflow.com/questions/69822304/google-colab-google-drive-can%c2%b4t-be-mounted-anymore-browser-popup-google-dri)
 
 ## Inbox for Related References
 * [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
