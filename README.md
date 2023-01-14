@@ -445,6 +445,7 @@
 * [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 * [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
 * [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
+* [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
 
 ## Inbox: Music and Audio projects
 
