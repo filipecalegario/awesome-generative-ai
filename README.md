@@ -574,6 +574,7 @@
 
 ### Artists and Artworks
 
+* [Artificial Realities: Coral](https://twitter.com/refikanadol/status/1613927561939099650): artwork by [@refikanadol](https://twitter.com/refikanadol) commissioned by World Economic Forum
 * [🔥] [Creep - YouTube](https://www.youtube.com/watch?v=c6LlG4g_9lk) by [Glenn Marshall Neural Art](https://www.youtube.com/channel/UCes-tiSj7VO6nNOsUB76lZw): how did they translated the images using VQGAN+CLIP? How did they seamlessly wander on the latent space?
 * [(19) INFINITEYAY✨ on Twitter: "✨35 Artists Using AI With Under 1000 Followers That You Need To Follow Today✨ -- All these artists are fantastic and deserve way more followers. In no particular order here's my first list. More to come. Enjoy! 👇 #AIart #art #stablediffusion #midjourney #dalle2 #AI https://t.co/CTyq1dfsTs" / Twitter](https://twitter.com/infiniteyay/status/1583465675166609408?s=43&t=XvooFiMyC-YPv0i98HmjVQ) 
 * [Computer Vision Art Gallery : CVPR 2021](https://computervisionart.com/): artworks dealing with computer vision technologies
