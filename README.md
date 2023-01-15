@@ -526,7 +526,8 @@
 
 ## Inbox: Video tools
 
-* [THUDM/CogVideo](https://github.com/THUDM/CogVideo): Text-to-video generation
+* [🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
+* [THUDM/CogVideo](https://github.com/THUDM/CogVideo): text-to-video generation
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 
