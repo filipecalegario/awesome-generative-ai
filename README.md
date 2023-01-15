@@ -19,6 +19,8 @@
   - [Creative Uses of Generative AI Tools](#creative-uses-of-generative-ai-tools)
   - [Courses and Educational Materials](#courses-and-educational-materials)
   - [Papers and References](#papers-and-references)
+    - [Tools for Paper Reading](#tools-for-paper-reading)
+    - [Papers Collections](#papers-collections)
   - [Discussions and Philosophy](#discussions-and-philosophy)
     - [Critical Views about Generative AI](#critical-views-about-generative-ai)
     - [Promptism](#promptism)
@@ -57,6 +59,7 @@
 
 ## The Generative AI Area: history, maps, and definitions
 
+* [Engines of Wow: AI Art Comes of Age – Steve Murch](https://www.stevemurch.com/engines-of-wow-ai-art-comes-of-age/2022/12)
 * [🔥🔥🔥] [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 * [AI exploded on the scene at the end of 2022 / Twitter](https://twitter.com/RamaswmySridhar/status/1613271413020037120): categories for analyzing tools of Generative AI
 * [🔥🔥🔥] [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
@@ -233,6 +236,14 @@
 * [Implementation/tutorial of stable diffusion with side-by-side notes by labml.ai | Twitter](https://twitter.com/labmlai/status/1571080112459878401)
 
 ## Papers and References
+
+### Tools for Paper Reading
+
+* [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
+* [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+* [hwaseem04/Research-digest](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
+
+### Papers Collections
 
 * [AI Reading List - Google Docs](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit): reading list organized by [Jack Soslow (@JackSoslow)](https://twitter.com/JackSoslow) 
 * [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
