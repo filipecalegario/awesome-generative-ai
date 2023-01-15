@@ -48,7 +48,7 @@
     - [Interesting GitHub Repositories](#interesting-github-repositories)
     - [Artists and Artworks](#artists-and-artworks)
     - [Galleries](#galleries)
-  - [Other Related Awesome Lists](#other-related-awesome-lists)
+  - [Related Awesome Lists](#related-awesome-lists)
   - [Miscellaneous](#miscellaneous)
     - [Improving Google Colab experience](#improving-google-colab-experience)
     - [Auxiliary tools and concepts](#auxiliary-tools-and-concepts)
@@ -574,14 +574,14 @@
 * [Ganvas Studio - Neural Network Paintings](https://ganvas.studio/)
 * [Syn Feather Sweater / STRELITZIA – HATRA E STORE](https://hatroid.com/collections/synthetic-feather/products/syn-feather-sweater-strelitzia)
 
-## Other Related Awesome Lists
+## Related Awesome Lists
 
+* [🔥🔥🔥] [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 * [🔥🔥🔥] [jonathandinu/awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 * [margaretmz/awesome-ai-art-design](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 * [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 * [chaosreactor/awesome-generative-ai](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 * [🔥] [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
-* [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 * [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 * [justinpinkney/awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
 
