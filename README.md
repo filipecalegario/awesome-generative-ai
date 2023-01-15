@@ -19,7 +19,8 @@
   - [Creative Uses of Generative AI Tools](#creative-uses-of-generative-ai-tools)
   - [Courses and Educational Materials](#courses-and-educational-materials)
   - [Papers and References](#papers-and-references)
-    - [Tools for Paper Reading](#tools-for-paper-reading)
+    - [AI Tools for Paper Reading](#ai-tools-for-paper-reading)
+    - [AI Tools for Searching](#ai-tools-for-searching)
     - [Papers Collections](#papers-collections)
   - [Discussions and Philosophy](#discussions-and-philosophy)
     - [Critical Views about Generative AI](#critical-views-about-generative-ai)
@@ -237,11 +238,16 @@
 
 ## Papers and References
 
-### Tools for Paper Reading
+### AI Tools for Paper Reading
 
+* [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 * [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
 * [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 * [hwaseem04/Research-digest](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
+
+### AI Tools for Searching
+
+[Metaphor](https://metaphor.systems/): search engine that "understands language — in the form of prompts — so you can say what you're looking for in all the expressive and creative ways"
 
 ### Papers Collections
 
