@@ -34,20 +34,24 @@
   - [Image Restoration](#image-restoration)
   - [Online Tools and Applications](#online-tools-and-applications)
   - [Datasets](#datasets)
-  - [Inbox: Video tools](#inbox-video-tools)
-  - [Inbox: Text-to-speech (TTS) tools](#inbox-text-to-speech-tts-tools)
-  - [Inbox: Music and Audio projects](#inbox-music-and-audio-projects)
   - [Inbox: Text and Natural Language Processing](#inbox-text-and-natural-language-processing)
+    - [ChatGPT](#chatgpt)
+    - [GPT-3](#gpt-3)
+    - [BLOOM](#bloom)
+    - [Text-related Generative Tools](#text-related-generative-tools)
+  - [Inbox: Music and Audio projects](#inbox-music-and-audio-projects)
+  - [Inbox: Text-to-speech (TTS) tools](#inbox-text-to-speech-tts-tools)
+  - [Inbox: Video tools](#inbox-video-tools)
   - [People and works](#people-and-works)
     - [Interesting Instagram Accounts, Posts and Reels](#interesting-instagram-accounts-posts-and-reels)
     - [Interesting Youtube Channels](#interesting-youtube-channels)
     - [Interesting GitHub Repositories](#interesting-github-repositories)
     - [Artists and Artworks](#artists-and-artworks)
     - [Galleries](#galleries)
-  - [Related Awesome Lists](#related-awesome-lists)
-  - [Improving Google Colab experience](#improving-google-colab-experience)
-  - [Inbox for Related References](#inbox-for-related-references)
-  - [Tools for Batch Image Processing](#tools-for-batch-image-processing)
+  - [Other Related Awesome Lists](#other-related-awesome-lists)
+  - [Miscellaneous](#miscellaneous)
+    - [Improving Google Colab experience](#improving-google-colab-experience)
+    - [Auxiliary tools and concepts](#auxiliary-tools-and-concepts)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -447,21 +451,53 @@
 * [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
 * [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
 
-## Inbox: Video tools
+## Inbox: Text and Natural Language Processing
 
-* [THUDM/CogVideo](https://github.com/THUDM/CogVideo): Text-to-video generation
-* [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
-* [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
+* [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
+* [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 
+* [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/) 
+* [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY&list=LL&index=1&t=17s) by Dr Alan D. Thompson. The following references came from this video description
+* [Emerson on iOS](https://apps.apple.com/us/app/emerson...)
+* [Jurassic-1](https://studio.ai21.com/)
+* [EleutherAI | GPT-J-6B](https://6b.eleuther.ai/)
+* [AIx](https://apps.aixsolutionsgroup.com/)
+* [Wudao](https://pretrain.aminer.cn/os/qa)
+* [Emerson on Telegram](https://www.quickchat.ai/emerson)
 
-## Inbox: Text-to-speech (TTS) tools
+### ChatGPT
 
-* [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
-* [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
-* [🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
-* [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
-* [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
-* [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
-* [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
+* [🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
+* [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
+* [🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
+* [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT 
+
+### GPT-3
+
+* [GPT-3 playground](https://beta.openai.com/playground)
+* [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
+* [Top 10 GPT-3 Powered Applications to Know in 2022](https://www.analyticsinsight.net/top-10-gpt-3-powered-applications-to-know-in-2022/)
+
+### BLOOM
+
+* [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom): getting started with BLOOM
+* [BLOOM](https://thenextweb.com/news/bloom-new-open-source-ai-model-bigger-than-gpt-3-large-language-model-llm): open-source 176-billion-parameter model aims to democratize large-language models
+
+### Text-related Generative Tools
+
+* [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
+* [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
+* [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
+* [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
+* [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
+* [DeepStory](https://www.deepstory.ai/#!/): A tale of co-creation between man & machine
+* [InferKit](https://app.inferkit.com/demo)
+* [CopyHat](https://copyhat.com/)
+* [Lucid Lyrics - AI Assisted Art](https://www.lucidlyricsart.com/): AI-Assisted Lyrical Interpretations by Walter Arnold
+* [Authors A.I.](https://authors.ai/): AI-powered text analysis
+* [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
+* [Charisma](https://charisma.ai/): Charisma is a platform for creating interactive stories with believable virtual characters
+* [Riku.AI | The vault for your A.I. creations](https://riku.ai/) 
+* [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8) 
 
 ## Inbox: Music and Audio projects
 
@@ -478,42 +514,21 @@
 * [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound)
 * [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
 
-## Inbox: Text and Natural Language Processing
+## Inbox: Text-to-speech (TTS) tools
 
-* [🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
-* [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
-* [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
-* [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
-* [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
-* [🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
-* [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT 
-* [🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): a repo that includes curated ChatGPT prompts 
-* [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
-* [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
-* [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
-* [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom): getting started with BLOOM
-* [BLOOM](https://thenextweb.com/news/bloom-new-open-source-ai-model-bigger-than-gpt-3-large-language-model-llm): open-source 176-billion-parameter model aims to democratize large-language models
-* [Top 10 GPT-3 Powered Applications to Know in 2022](https://www.analyticsinsight.net/top-10-gpt-3-powered-applications-to-know-in-2022/) 
-* [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 
-* [Riku.AI | The vault for your A.I. creations](https://riku.ai/) 
-* [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8) 
-* [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
-* [Charisma](https://charisma.ai/): Charisma is a platform for creating interactive stories with believable virtual characters
-* [Authors A.I.](https://authors.ai/): AI-powered text analysis
-* [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/) 
-* [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY&list=LL&index=1&t=17s) by Dr Alan D. Thompson. The following references came from this video description
-* [Lucid Lyrics - AI Assisted Art](https://www.lucidlyricsart.com/): AI-Assisted Lyrical Interpretations by Walter Arnold
-* [DeepStory](https://www.deepstory.ai/#!/): A tale of co-creation between man & machine
-* [InferKit](https://app.inferkit.com/demo)
-* [CopyHat](https://copyhat.com/)
-* [Emerson on iOS](https://apps.apple.com/us/app/emerson...)
-* [Jurassic-1](https://studio.ai21.com/)
-* [EleutherAI | GPT-J-6B](https://6b.eleuther.ai/)
-* [AIx](https://apps.aixsolutionsgroup.com/)
-* [Wudao](https://pretrain.aminer.cn/os/qa)
-* [Emerson on Telegram](https://www.quickchat.ai/emerson)
-* [GPT-3 playground](https://beta.openai.com/playground)
-* [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
+* [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
+* [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
+* [🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
+* [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
+* [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
+* [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
+* [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
+
+## Inbox: Video tools
+
+* [THUDM/CogVideo](https://github.com/THUDM/CogVideo): Text-to-video generation
+* [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
+* [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 
 ## People and works
 ### Interesting Instagram Accounts, Posts and Reels
@@ -559,7 +574,7 @@
 * [Ganvas Studio - Neural Network Paintings](https://ganvas.studio/)
 * [Syn Feather Sweater / STRELITZIA – HATRA E STORE](https://hatroid.com/collections/synthetic-feather/products/syn-feather-sweater-strelitzia)
 
-## Related Awesome Lists
+## Other Related Awesome Lists
 
 * [🔥🔥🔥] [jonathandinu/awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 * [margaretmz/awesome-ai-art-design](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
@@ -570,7 +585,9 @@
 * [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 * [justinpinkney/awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
 
-## Improving Google Colab experience
+## Miscellaneous
+
+### Improving Google Colab experience
 
 * [7 ways to load external data into Google Colab | by B. Chen | Towards Data Science](https://towardsdatascience.com/7-ways-to-load-external-data-into-google-colab-7ba73e7d5fc7) 
 * [10 tricks for a better Google Colab experience | by Cyprien NIELLY | Towards Data Science](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
@@ -578,12 +595,11 @@
 * [Jupyter Widgets for Interactivity in Google Colab](https://colab.research.google.com/notebooks/forms.ipynb#scrollTo=62YnDE7i9dqP): notebook with examples of using Jupyter Widgets in Colab, allowing interactive inputs
 * [Jupyter Widgets official documentation](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html)
 
-## Inbox for Related References
+### Auxiliary tools and concepts
+
+* [BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 * [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
 * [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
-
-## Tools for Batch Image Processing
-[BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 
 ## Contribute
 
