@@ -551,6 +551,7 @@
 
 ## Inbox: Video tools
 
+* [🔥] [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 * [🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
 * [THUDM/CogVideo](https://github.com/THUDM/CogVideo): text-to-video generation
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
