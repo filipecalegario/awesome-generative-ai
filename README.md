@@ -291,8 +291,9 @@
 
 ### Critical Views about Generative AI
 
+* [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
+* [Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick](https://stablediffusionlitigation.com/)
 * [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf) 
-* [Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick](https://stablediffusionlitigation.com/) 
 * [Abstracts written by ChatGPT fool scientists](https://www.nature.com/articles/d41586-023-00056-7) 
 * [When Machines Change Art | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/12/17/when-tech-changes-art.html)
 * [The Dark Risk of Large Language Models | WIRED UK](https://www.wired.co.uk/article/artificial-intelligence-language)
