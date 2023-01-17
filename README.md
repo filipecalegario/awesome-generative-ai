@@ -547,6 +547,7 @@
 
 * [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 * [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
+* [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
 * [🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
 * [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 * [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
