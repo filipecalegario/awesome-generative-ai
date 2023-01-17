@@ -290,11 +290,11 @@
 * [Appreciating the Poetic Misunderstandings of A.I. Art | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art?s=09)
 
 ### Critical Views about Generative AI
-
 * [Abstracts written by ChatGPT fool scientists](https://www.nature.com/articles/d41586-023-00056-7) 
 * [When Machines Change Art | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/12/17/when-tech-changes-art.html)
 * [The Dark Risk of Large Language Models | WIRED UK](https://www.wired.co.uk/article/artificial-intelligence-language)
 * [ChatGPT, DALL-E 2 and the collapse of the creative process](https://theconversation.com/chatgpt-dall-e-2-and-the-collapse-of-the-creative-process-196461)
+* [What AI-Generated Art Really Means for Human Creativity | WIRED](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/)
 * [Forecasting Potential Misuses of Language Models for Disinformation Campaigns—and How to Reduce Risk](https://openai.com/blog/forecasting-misuse/) 
 * [The Dark Side of AI Art: 4 Potential Issues With the Growing Trend](https://www.makeuseof.com/dark-side-of-ai-art-potential-issues/) 
 * [Armed With ChatGPT, Cybercriminals Build Malware And Plot Fake Girl Bots](https://www.forbes.com/sites/thomasbrewster/2023/01/06/chatgpt-cybercriminal-malware-female-chatbots/?sh=6019f4315534)
