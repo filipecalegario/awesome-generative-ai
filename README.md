@@ -513,6 +513,7 @@
 
 ### Text-related Generative Tools
 
+* [Character.AI](https://beta.character.ai/): platform for creating chatbots based on existing personalities
 * [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
 * [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
 * [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
