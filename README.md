@@ -3,7 +3,7 @@
 
 > A curated list of Generative Deep Art projects, tools, artworks, and models
 
-- [Generative Deep Art](#generative-deep-art)
+- [Generative Deep Art ](#generative-deep-art-)
   - [The Generative AI Area: history, maps, and definitions](#the-generative-ai-area-history-maps-and-definitions)
   - [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
     - [For text-to-text](#for-text-to-text)
@@ -44,7 +44,8 @@
     - [Text-related Generative Tools](#text-related-generative-tools)
   - [Inbox: Music and Audio projects](#inbox-music-and-audio-projects)
   - [Inbox: Text-to-speech (TTS) tools](#inbox-text-to-speech-tts-tools)
-  - [Inbox: Video tools](#inbox-video-tools)
+  - [Inbox: Video AI tools](#inbox-video-ai-tools)
+  - [Inbox: Games and AI](#inbox-games-and-ai)
   - [People and works](#people-and-works)
     - [Interesting Instagram Accounts, Posts and Reels](#interesting-instagram-accounts-posts-and-reels)
     - [Interesting Youtube Channels](#interesting-youtube-channels)
