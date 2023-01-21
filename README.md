@@ -558,6 +558,7 @@
 
 ## Inbox: Video AI tools
 
+* [neural frames](https://www.neuralframes.com/firstframe): tools for animation creation inspired on deforum
 * [🔥] [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 * [🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
 * [THUDM/CogVideo](https://github.com/THUDM/CogVideo): text-to-video generation
