@@ -483,6 +483,7 @@
 
 ## Inbox: Text and Natural Language Processing
 
+* [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)
 * [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
 * [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 
 * [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/) 
