@@ -533,7 +533,7 @@
 * [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8) 
 
 ## Inbox: Music and Audio projects
-
+* [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 * [🔥🔥🔥] [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
 * [MusicLM](https://google-research.github.io/seanet/musiclm/examples/): generating music from text
 * [🔥🔥🔥] [Riffusion](https://www.riffusion.com/): an app for real-time music generation with stable diffusion
