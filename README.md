@@ -459,6 +459,7 @@
 
 ## Online Tools and Applications
 
+* [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
 * [Scenario AI](https://www.scenario.gg/): AI-generated game assets
 * [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
 * [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
