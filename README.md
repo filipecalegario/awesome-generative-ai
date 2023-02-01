@@ -576,6 +576,10 @@
 
 * [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
 
+## Inbox: Developing + AI
+
+* [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API 
+
 ## People and works
 
 ### Interesting Instagram Accounts, Posts and Reels
