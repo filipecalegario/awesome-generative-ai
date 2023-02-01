@@ -293,6 +293,7 @@
 
 ### Critical Views about Generative AI
 
+* [Educator Considerations for ChatGPT - OpenAI API](https://platform.openai.com/docs/chatgpt-education) 
 * [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
 * [Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick](https://stablediffusionlitigation.com/)
 * [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf) 
