@@ -83,6 +83,7 @@
 
 ### For text-to-image
 
+* [daspartho/prompt-extend](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation 
 * [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
 * [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480) 
 * [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
