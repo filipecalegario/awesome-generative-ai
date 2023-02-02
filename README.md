@@ -453,6 +453,7 @@
 * [Model Database - Upscale Wiki](https://upscale.wiki/wiki/Model_Database): list of models for upscaling images
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): paid AI image upscaler delivering enhanced detail and resolution
 * [Image Super-Resolution](https://idealo.github.io/image-super-resolution/) 
+* [Upscale to huge sizes and add detail with SD Upscale : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xkjjf9/upscale_to_huge_sizes_and_add_detail_with_sd/): tutorial on Reddit
 
 ## Image Restoration
 
