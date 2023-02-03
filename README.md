@@ -61,6 +61,7 @@
 
 ## The Generative AI Area: history, maps, and definitions
 
+* [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/): list of AI tools
 * [There's An AI For That](https://theresanaiforthat.com/): AI database
 * [Matt Shumer on Twitter: "The definitive AI market map Twitter thread"](https://twitter.com/mattshumer_/status/1620465468229451776): "The definitive AI market map Twitter thread"
 * [🔥] [Base11 Research - generative-ai](https://base10.vc/research/generative-ai): report about Generative AI produced by the investment firm Base10
