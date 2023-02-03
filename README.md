@@ -497,6 +497,7 @@
 
 ## Inbox: Text and Natural Language Processing
 
+* [Godly](https://godly.ai/dashboard/projects/clctzt39i000hmo08xzkdgo5k/context): Instant context for GPT3
 * [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
 * [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)
 * [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
@@ -547,6 +548,7 @@
 * [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8) 
 
 ## Inbox: Music and Audio projects
+
 * [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 * [🔥🔥🔥] [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
 * [MusicLM](https://google-research.github.io/seanet/musiclm/examples/): generating music from text
