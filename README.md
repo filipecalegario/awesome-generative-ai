@@ -304,6 +304,7 @@
 
 ### Critical Views about Generative AI
 
+* [Some thoughts about generative AI and the future of education – Mark Carrigan](https://markcarrigan.net/2023/01/15/some-thoughts-about-generative-ai-and-the-future-of-education/) 
 * [Educator Considerations for ChatGPT - OpenAI API](https://platform.openai.com/docs/chatgpt-education) 
 * [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
 * [Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick](https://stablediffusionlitigation.com/)
