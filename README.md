@@ -285,6 +285,7 @@
 
 ## Discussions and Philosophy
 
+* [Cultures in AI/AI in Culture](https://ai-cultures.github.io/): NeurIPS 2022 Workshop webpage
 * [AI Data Laundering - Waxy.org](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/): How Academic and Nonprofit Researchers Shield Tech Companies from Accountability
 * [🔥🔥🔥] [(1232) The End of Art: An Argument Against Image AIs - YouTube](https://www.youtube.com/watch?v=tjSxFAGP9Ss&t=193s): video essay by Steven Zapata
 * [🔥🔥🔥] [The End of Art: An Argument Against Image AIs (Public) - Google Docs](https://docs.google.com/document/d/128yey0VfYhM9eUdvkvCpk5zvvoIkqXfI4hEPAYeJCHU/edit): transcript of the video essay by Steven Zapata
