@@ -90,6 +90,7 @@
 
 ### For text-to-image
 
+* [USP AI Prompt Book](https://app.usp.ai/static/Stable%20Diffusion%202.1%20Prompt%20Book%20by%20USP.ai.pdf): Stable Diffusion v2.1 Prompt Book
 * [daspartho/prompt-extend](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation 
 * [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
 * [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480) 
