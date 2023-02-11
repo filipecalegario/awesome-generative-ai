@@ -286,6 +286,7 @@
 
 ## Discussions and Philosophy
 
+* [Why generative AI scares artists but not content writers](https://www.fastcompany.com/90848228/why-generative-ai-scares-artists-but-not-writers)
 * [Cultures in AI/AI in Culture](https://ai-cultures.github.io/): NeurIPS 2022 Workshop webpage
 * [AI Data Laundering - Waxy.org](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/): How Academic and Nonprofit Researchers Shield Tech Companies from Accountability
 * [🔥🔥🔥] [(1232) The End of Art: An Argument Against Image AIs - YouTube](https://www.youtube.com/watch?v=tjSxFAGP9Ss&t=193s): video essay by Steven Zapata
