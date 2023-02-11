@@ -305,6 +305,7 @@
 
 ### Critical Views about Generative AI
 
+* [ChatGPT Is a Bullshit Generator Waging Class War](https://www.vice.com/en/article/akex34/chatgpt-is-a-bullshit-generator-waging-class-war) 
 * [Some thoughts about generative AI and the future of education – Mark Carrigan](https://markcarrigan.net/2023/01/15/some-thoughts-about-generative-ai-and-the-future-of-education/) 
 * [Educator Considerations for ChatGPT - OpenAI API](https://platform.openai.com/docs/chatgpt-education) 
 * [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
