@@ -572,6 +572,7 @@
 
 ## Inbox: Text-to-speech (TTS) tools
 
+* [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 * [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 * [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
 * [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
@@ -580,6 +581,7 @@
 * [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
 * [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
 * [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
+
 
 ## Inbox: Video AI tools
 
@@ -647,6 +649,7 @@
 
 ## Related Awesome Lists
 
+* [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 * [🔥] [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 * [🔥🔥🔥] [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 * [🔥🔥🔥] [jonathandinu/awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
