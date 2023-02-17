@@ -599,6 +599,7 @@
 
 ## Inbox: Developing + AI
 
+* [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590) 
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API 
 
 ## People and works
