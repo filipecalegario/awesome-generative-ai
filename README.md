@@ -3,8 +3,9 @@
 
 > A curated list of Generative AI projects, tools, artworks, and models
 
-- [Generative AI](#generative-ai)
+- [Generative AI ](#generative-ai-)
   - [The Generative AI Area: history, maps, and definitions](#the-generative-ai-area-history-maps-and-definitions)
+  - [Generative AI Tools Directories](#generative-ai-tools-directories)
   - [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
     - [For text-to-text](#for-text-to-text)
     - [For text-to-image](#for-text-to-image)
@@ -46,6 +47,7 @@
   - [Inbox: Text-to-speech (TTS) tools](#inbox-text-to-speech-tts-tools)
   - [Inbox: Video AI tools](#inbox-video-ai-tools)
   - [Inbox: Games and AI](#inbox-games-and-ai)
+  - [Inbox: Developing + AI](#inbox-developing--ai)
   - [People and works](#people-and-works)
     - [Interesting Instagram Accounts, Posts and Reels](#interesting-instagram-accounts-posts-and-reels)
     - [Interesting Youtube Channels](#interesting-youtube-channels)
@@ -54,6 +56,7 @@
     - [Galleries](#galleries)
   - [Related Awesome Lists](#related-awesome-lists)
   - [Miscellaneous](#miscellaneous)
+    - [Jobs in Generative AI](#jobs-in-generative-ai)
     - [Improving Google Colab experience](#improving-google-colab-experience)
     - [Auxiliary tools and concepts](#auxiliary-tools-and-concepts)
   - [Contribute](#contribute)
