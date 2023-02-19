@@ -1,9 +1,9 @@
-# Generative Deep Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
+# Generative AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
 
 
-> A curated list of Generative Deep Art projects, tools, artworks, and models
+> A curated list of Generative AI projects, tools, artworks, and models
 
-- [Generative Deep Art ](#generative-deep-art-)
+- [Generative AI](#generative-ai)
   - [The Generative AI Area: history, maps, and definitions](#the-generative-ai-area-history-maps-and-definitions)
   - [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
     - [For text-to-text](#for-text-to-text)
