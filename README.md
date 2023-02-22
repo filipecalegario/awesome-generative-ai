@@ -259,6 +259,7 @@
 ## Papers and References
 
 ### AI Tools for Paper Reading
+
 * [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 * [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 * [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
@@ -506,6 +507,7 @@
 
 ## Inbox: Text and Natural Language Processing
 
+* [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 * [Godly](https://godly.ai/dashboard/projects/clctzt39i000hmo08xzkdgo5k/context): Instant context for GPT3
 * [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
 * [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)
