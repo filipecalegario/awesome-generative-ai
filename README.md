@@ -522,6 +522,12 @@
 * [Wudao](https://pretrain.aminer.cn/os/qa)
 * [Emerson on Telegram](https://www.quickchat.ai/emerson)
 
+### Embeddings
+
+* [jerryjliu/gpt_index: GPT Index (LlamaIndex)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
+* [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
+* [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
+
 ### ChatGPT
 
 * [🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
