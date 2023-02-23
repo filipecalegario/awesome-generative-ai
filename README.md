@@ -209,6 +209,10 @@
 
 ## Hypertechniques
 
+### ControlNet
+
+* [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI (based on ControlNet)
+
 ### Textual Inversion
 
 * [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion): repo contains the official code, data and sample inversions of Textual Inversion paper
@@ -343,6 +347,7 @@
 
 ## Image Synthesis
 
+* [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 * [openai/point-e](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 * [[arxiv/2211.11319] VectorFusion](https://arxiv.org/abs/2211.11319): Text-to-SVG by Abstracting Pixel-Based Diffusion Models
@@ -481,6 +486,7 @@
 
 ## Online Tools and Applications
 
+* [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 * [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
 * [Scenario AI](https://www.scenario.gg/): AI-generated game assets
 * [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
