@@ -389,21 +389,6 @@
 * [CoG 21](https://www.ea.com/seed/news/cog2021-adversarial-rl-content-generation): Adversarial Reinforcement Learning for Procedural Content Generation
 * [GitHub Repositories of Hugging Face](https://github.com/huggingface)
 
-### Collections
-
-* [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
-* [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
-* [🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
-* [🔥] [hive/notebooks at main · pollinations/hive](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
-* [Post Reddit - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/): List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description 
-* [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
-* [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
-* [Get started with making AI art in 2022 – deeplearn.art](https://deeplearn.art/get-started-with-making-ai-art-in-2022/)
-* [Text-to-Image Summary – Part 1 | Softology's Blog](https://softologyblog.wordpress.com/2021/06/10/text-to-image-summary/) 
-* [🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
-* [Machine learning for arts](https://ml4a.net/)
-* [🔥] [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs): A list of Machine Learning Art Colabs
-
 ### DALL-E 2
 
 * [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
@@ -471,7 +456,23 @@
 * [Audio-reactive Latent Interpolations with StyleGAN](https://wavefunk.xyz/audio-reactive-stylegan)
 * [SofGAN](https://www.unite.ai/sofgan-a-gan-face-generator-that-offers-greater-control/): A GAN Face Generator That Offers Greater Control - Unite.AI
 * [Real GANs in AI | Hacker Noon](https://hackernoon.com/real-gans-in-ai): deep dive into what the generative models are, the recent developments in the field, and the usage of GANs in business
-* [GANshare | Towards Data Science](https://towardsdatascience.com/ganshare-creating-and-curating-art-with-ai-for-fun-and-profit-1b3b4dcd7376): Creating and Curating Art with AI 
+* [GANshare | Towards Data Science](https://towardsdatascience.com/ganshare-creating-and-curating-art-with-ai-for-fun-and-profit-1b3b4dcd7376): Creating and Curating Art with AI
+
+## Collections
+
+* [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
+* [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
+* [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
+* [🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
+* [🔥] [hive/notebooks at main · pollinations/hive](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
+* [Post Reddit - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/): List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description 
+* [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
+* [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
+* [Get started with making AI art in 2022 – deeplearn.art](https://deeplearn.art/get-started-with-making-ai-art-in-2022/)
+* [Text-to-Image Summary – Part 1 | Softology's Blog](https://softologyblog.wordpress.com/2021/06/10/text-to-image-summary/) 
+* [🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
+* [Machine learning for arts](https://ml4a.net/)
+* [🔥] [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs): A list of Machine Learning Art Colabs
 
 ## Image Upscaling
 
