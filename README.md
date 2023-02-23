@@ -39,6 +39,7 @@
   - [Online Tools and Applications](#online-tools-and-applications)
   - [Datasets](#datasets)
   - [Inbox: Text and Natural Language Processing](#inbox-text-and-natural-language-processing)
+    - [Embeddings](#embeddings)
     - [ChatGPT](#chatgpt)
     - [GPT-3](#gpt-3)
     - [BLOOM](#bloom)
