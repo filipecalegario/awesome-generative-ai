@@ -543,6 +543,7 @@
 * [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
 * [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
 * [LangChain 0.0.94](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
+* [Getting started with LangChain — A powerful tool for working with Large Language Models | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842) 
 
 ### ChatGPT
 
