@@ -345,6 +345,7 @@
 * [Por favor, mais racionalidade e menos frenesi em relação ao chatGPT (Parte 1 de 2) | by Cezar Taurion | Dec, 2022 | Medium](https://c-taurion.medium.com/por-favor-mais-racionalidade-e-menos-frenesi-em-rela%C3%A7%C3%A3o-ao-chatgpt-parte-1-de-2-1d7637e2a854)
 * [E se estivermos usando uma IA pseudocientífica? - Diogo Cortiz](https://diogocortiz.com.br/computacao-afetiva-e-os-desafios-das-ias-pseudocientificas/)
 * [As limitações da sensação tecnológica de 2023: o ChatGPT | IAgora? | Época NEGÓCIOS](https://epocanegocios.globo.com/colunas/iagora/coluna/2023/01/as-limitacoes-da-sensacao-tecnologica-de-2023-o-chatgpt.ghtml)
+* [7 Revealing Ways AIs Fail - IEEE Spectrum](https://spectrum.ieee.org/ai-failures) 
 
 ### Promptism
 
