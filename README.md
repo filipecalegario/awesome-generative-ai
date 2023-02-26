@@ -21,7 +21,7 @@
   - [Creative Uses of Generative AI Tools](#creative-uses-of-generative-ai-tools)
   - [Courses and Educational Materials](#courses-and-educational-materials)
   - [Papers and References](#papers-and-references)
-    - [AI Tools for Paper Reading](#ai-tools-for-paper-reading)
+    - [AI Tools for Research](#ai-tools-for-research)
     - [AI Tools for Searching](#ai-tools-for-searching)
     - [Papers Collections](#papers-collections)
   - [Discussions and Philosophy](#discussions-and-philosophy)
@@ -266,8 +266,9 @@
 
 ## Papers and References
 
-### AI Tools for Paper Reading
+### AI Tools for Research
 
+* [Elicit](https://elicit.org/): automate research workflow for literature review
 * [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 * [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 * [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
