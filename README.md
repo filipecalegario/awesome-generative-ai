@@ -66,6 +66,7 @@
 
 ## The Generative AI Area: history, maps, and definitions
 
+* [Timeline of AI and language models](https://lifearchitect.ai/timeline/): LLM timeline organized by Dr Alan D. Thompson from Life Architect
 * [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arvix](https://arxiv.org/abs/2302.09419)
 * [A Review of Generative AI from Historical Perspectives](https://www.techrxiv.org/articles/preprint/A_Review_of_Generative_AI_from_Historical_Perspectives/22097942): paper by Dipankar Dasgupta, Deepak Venugopal and Kishor Datta Gupta
 * [Matt Shumer on Twitter: "The definitive AI market map Twitter thread"](https://twitter.com/mattshumer_/status/1620465468229451776): "The definitive AI market map Twitter thread"
