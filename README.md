@@ -546,8 +546,9 @@
 * [Wudao](https://pretrain.aminer.cn/os/qa)
 * [Emerson on Telegram](https://www.quickchat.ai/emerson)
 
-### Embeddings
+### Embeddings and Semantic Search
 
+* [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 * [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
 * [jerryjliu/gpt_index: GPT Index (LlamaIndex)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
 * [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
