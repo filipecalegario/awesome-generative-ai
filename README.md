@@ -66,10 +66,11 @@
 
 ## The Generative AI Area: history, maps, and definitions
 
-* [Generative AI with Cohere: Part 1 - Model Prompting](https://txt.cohere.ai/generative-ai-part-1/): overview of Generative AI by Meor Amer
-* [Generative AI with Cohere: Part 2 - Use Case Ideation](https://txt.cohere.ai/generative-ai-part-2/): a list of Generative AI use cases by Meor Amer
-* [Large Language Models and Where to Use Them: Part 1](https://txt.cohere.ai/llm-use-cases/): a list of LLM use cases by Meor Amer
+* [Generative AI with Cohere: Part 1 - Model Prompting](https://txt.cohere.ai/generative-ai-part-1/): overview of Generative AI by Cohere AI
+* [Generative AI with Cohere: Part 2 - Use Case Ideation](https://txt.cohere.ai/generative-ai-part-2/): a list of Generative AI use cases by Cohere AI
+* [Large Language Models and Where to Use Them: Part 1](https://txt.cohere.ai/llm-use-cases/): a list of LLM use cases by Cohere AI
 * [Large Language Models and Where to Use Them: Part 2](https://txt.cohere.ai/llm-use-cases-p2/)
+* [What's the big deal with Generative AI? Is it the future or the present?](https://txt.cohere.ai/generative-ai-future-or-present/): summarization of the area of Generative AI by Cohere AI
 * [Timeline of AI and language models](https://lifearchitect.ai/timeline/): LLM timeline organized by Dr Alan D. Thompson from Life Architect
 * [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arvix](https://arxiv.org/abs/2302.09419)
 * [A Review of Generative AI from Historical Perspectives](https://www.techrxiv.org/articles/preprint/A_Review_of_Generative_AI_from_Historical_Perspectives/22097942): paper by Dipankar Dasgupta, Deepak Venugopal and Kishor Datta Gupta
