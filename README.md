@@ -551,6 +551,7 @@
 
 ### Embeddings and Semantic Search
 
+* [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419) 
 * [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 * [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
 * [jerryjliu/gpt_index: GPT Index (LlamaIndex)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
