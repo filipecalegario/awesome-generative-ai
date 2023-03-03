@@ -66,6 +66,7 @@
 
 ## The Generative AI Area: history, maps, and definitions
 
+* [🔥] [The landscape of generative AI landscape reports | by Ramsri Goutham | Jan, 2023 | Medium](https://ramsrigoutham.medium.com/the-landscape-of-generative-ai-landscape-reports-615a417b15d): a meta report on the reports published by 9 venture capital firms
 * [Generative AI with Cohere: Part 1 - Model Prompting](https://txt.cohere.ai/generative-ai-part-1/): overview of Generative AI by Cohere AI
 * [Generative AI with Cohere: Part 2 - Use Case Ideation](https://txt.cohere.ai/generative-ai-part-2/): a list of Generative AI use cases by Cohere AI
 * [Large Language Models and Where to Use Them: Part 1](https://txt.cohere.ai/llm-use-cases/): a list of LLM use cases by Cohere AI
