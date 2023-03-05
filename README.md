@@ -580,6 +580,7 @@
 
 ### Text-related Generative Tools
 
+* [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch 
 * [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
 * [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
 * [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
