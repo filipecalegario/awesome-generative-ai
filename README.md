@@ -365,6 +365,7 @@
 
 ## Image Synthesis
 
+* [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
 * [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 * [openai/point-e](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
