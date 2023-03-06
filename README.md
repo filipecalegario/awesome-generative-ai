@@ -285,6 +285,7 @@
 
 ### AI Tools for Searching
 
+* [whitead/paper-qa](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 * [Metaphor](https://metaphor.systems/): search engine that "understands language — in the form of prompts — so you can say what you're looking for in all the expressive and creative ways"
 
 ### Papers Collections
@@ -553,6 +554,7 @@
 
 ### Embeddings and Semantic Search
 
+* [🔥] [whitead/paper-qa](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
 * [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419) 
 * [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 * [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
