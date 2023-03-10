@@ -67,7 +67,7 @@
 
 ## The Generative AI Area: history, maps, and definitions
 
-* [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/abs/2303.04226)
+* [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | arxiv](https://arxiv.org/abs/2303.04226)
 * [🔥🔥] [Toward General Design Principles for Generative AI Applications](https://arxiv.org/abs/2301.05578): this paper presents a set of seven principles for the design of generative AI applications
 * [🔥] [The landscape of generative AI landscape reports | by Ramsri Goutham | Jan, 2023 | Medium](https://ramsrigoutham.medium.com/the-landscape-of-generative-ai-landscape-reports-615a417b15d): a meta report on the reports published by 9 venture capital firms
 * [Generative AI with Cohere: Part 1 - Model Prompting](https://txt.cohere.ai/generative-ai-part-1/): overview of Generative AI by Cohere AI
@@ -76,7 +76,7 @@
 * [Large Language Models and Where to Use Them: Part 2](https://txt.cohere.ai/llm-use-cases-p2/)
 * [What's the big deal with Generative AI? Is it the future or the present?](https://txt.cohere.ai/generative-ai-future-or-present/): summarization of the area of Generative AI by Cohere AI
 * [Timeline of AI and language models](https://lifearchitect.ai/timeline/): LLM timeline organized by Dr Alan D. Thompson from Life Architect
-* [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arvix](https://arxiv.org/abs/2302.09419)
+* [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arxiv](https://arxiv.org/abs/2302.09419)
 * [A Review of Generative AI from Historical Perspectives](https://www.techrxiv.org/articles/preprint/A_Review_of_Generative_AI_from_Historical_Perspectives/22097942): paper by Dipankar Dasgupta, Deepak Venugopal and Kishor Datta Gupta
 * [Matt Shumer on Twitter: "The definitive AI market map Twitter thread"](https://twitter.com/mattshumer_/status/1620465468229451776): "The definitive AI market map Twitter thread"
 * [🔥] [Base11 Research - generative-ai](https://base10.vc/research/generative-ai): report about Generative AI produced by the investment firm Base10
