@@ -561,6 +561,7 @@
 * [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419) 
 * [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 * [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
+* [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
 * [jerryjliu/gpt_index: GPT Index (LlamaIndex)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
 * [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
 * [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
