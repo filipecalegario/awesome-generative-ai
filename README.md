@@ -90,7 +90,7 @@
 
 ## Generative AI Processes and Artifacts
 
-<img src="https://user-images.githubusercontent.com/299057/226114498-c9b8a717-31e2-4630-b0ab-752b69005146.png" width=70% height=70%>
+<img src="https://user-images.githubusercontent.com/299057/226114498-c9b8a717-31e2-4630-b0ab-752b69005146.png" width=75% height=75%>
 
 ## Generative AI Tools Directories
 
