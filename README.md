@@ -540,6 +540,7 @@
 
 ## Inbox: Text and Natural Language Processing
 
+* [logspace-ai/langflow](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
 * [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173): paper on LLM Security
 * [Cohere AI](https://docs.cohere.ai/): a way to integrate state-of-the-art language models to applications
 * [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419): using langchain to build a app for paper summarization
