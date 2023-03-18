@@ -88,6 +88,10 @@
 * [AI-Generated Art](https://www.v7labs.com/blog/ai-generated-art): From Text to Images & Beyond Examples
 * [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
 
+## Generative AI Processes and Artifacts
+
+<img src="https://user-images.githubusercontent.com/299057/226114498-c9b8a717-31e2-4630-b0ab-752b69005146.png" width=70% height=70%>
+
 ## Generative AI Tools Directories
 
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/): list of AI tools
