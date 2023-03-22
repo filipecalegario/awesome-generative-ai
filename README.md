@@ -618,6 +618,7 @@
 
 ## Inbox: Music and Audio projects
 
+* [MusicLM](https://google-research.github.io/seanet/musiclm/examples/): generating music from text
 * [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 * [🔥🔥🔥] [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
 * [MusicLM](https://google-research.github.io/seanet/musiclm/examples/): generating music from text
