@@ -67,6 +67,7 @@
 
 ## The Generative AI Area: history, maps, and definitions
 
+* [The Generative AI Timeline](https://www.linkedin.com/feed/update/urn:li:activity:7044233450295316480): post in Linkedin by David Foster
 * [Who Owns the Generative AI Platform? | Andreessen Horowitz](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/): this article discusses the generative AI market and presents an interesting technology stack of the area
 * [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | arxiv](https://arxiv.org/abs/2303.04226)
 * [🔥🔥] [Toward General Design Principles for Generative AI Applications](https://arxiv.org/abs/2301.05578): this paper presents a set of seven principles for the design of generative AI applications
