@@ -95,6 +95,7 @@
 
 ## Generative AI Tools Directories
 
+* [BestWebbs](https://bestwebbs.com/): "one-stop destination for all AI Tools"
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/): list of AI tools
 * [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/): directory of AI tools
 * [There's An AI For That](https://theresanaiforthat.com/): AI database
