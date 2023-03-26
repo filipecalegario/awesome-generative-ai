@@ -656,7 +656,7 @@
 
 ## Inbox: Video AI tools
 
-* [Gen-2 by Runway](https://research.runwayml.com/gen2): "a multi-modal AI system that can generate novel videos with text, images, or video clips"
+* [Gen-2 by Runway](https://research.runwayml.com/gen2): "a multi-modal AI system that can generate novel videos with text, images, or video clips" [[arxiv]](https://arxiv.org/abs/2302.03011) 
 * [CiaraRowles/TemporalNet · Hugging Face](https://huggingface.co/CiaraRowles/TemporalNet): a ControlNet model designed to enhance the temporal consistency of generated outputs [[tweet]](https://twitter.com/ciararowles1/status/1639321818581303310)
 * [Video-P2P UI - a Hugging Face Space by video-p2p-library](https://huggingface.co/spaces/video-p2p-library/Video-P2P-Demo): video editing with cross-attention control [[tweet]](https://twitter.com/_akhaliq/status/1637838648463749120)
 * [Text2Video-Zero - a Hugging Face Space by PAIR](https://huggingface.co/spaces/PAIR/Text2Video-Zero): zero-shot text-to-video synthesis diffusion framework [[tweet]](https://twitter.com/_akhaliq/status/1639062868850266112) [[arxiv]](https://arxiv.org/abs/2303.13439)
