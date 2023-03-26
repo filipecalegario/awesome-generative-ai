@@ -230,7 +230,7 @@
 
 ## Hypertechniques
 
-* [Prompt+](https://arxiv.org/abs/2303.09522): extended textual conditioning in text-to-image generation [[unofficial implementation]](https://github.com/cloneofsimo/promptplusplus) [[arxiv]](https://arxiv.org/abs/2303.09522) [[page]](https://prompt-plus.github.io/) 
+* [Prompt+](https://arxiv.org/abs/2303.09522): extended textual conditioning in text-to-image generation [[unofficial repo]](https://github.com/cloneofsimo/promptplusplus) [[arxiv]](https://arxiv.org/abs/2303.09522) [[page]](https://prompt-plus.github.io/) 
 
 ### ControlNet
 
