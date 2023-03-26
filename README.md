@@ -230,6 +230,8 @@
 
 ## Hypertechniques
 
+* [Prompt+](https://arxiv.org/abs/2303.09522): extended textual conditioning in text-to-image generation [[unofficial implementation]](https://github.com/cloneofsimo/promptplusplus) [[arxiv]](https://arxiv.org/abs/2303.09522) [page](https://prompt-plus.github.io/) 
+
 ### ControlNet
 
 * [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI (based on ControlNet)
