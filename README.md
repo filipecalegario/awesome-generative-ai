@@ -572,6 +572,7 @@
 * [AIx](https://apps.aixsolutionsgroup.com/)
 * [Wudao](https://pretrain.aminer.cn/os/qa)
 * [Emerson on Telegram](https://www.quickchat.ai/emerson)
+* [Haystack](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 
 ### Embeddings and Semantic Search
 
