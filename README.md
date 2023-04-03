@@ -680,7 +680,7 @@
 
 * [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590) 
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
-* https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/ Reduce costs when prompting using GPT 
+* [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
 
 ## People and works
 
