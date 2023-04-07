@@ -525,6 +525,10 @@
 
 * [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration
 
+## Image Segmentation
+
+* [Segment Anything | Meta AI](https://segment-anything.com/): "a new AI model from Meta AI that can "cut out" any object, in any image, with a single click"
+
 ## Online Tools and Applications
 
 * [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
