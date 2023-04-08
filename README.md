@@ -500,6 +500,7 @@
 
 ## Collections
 
+* [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
 * [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
 * [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
 * [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
