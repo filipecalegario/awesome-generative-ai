@@ -668,7 +668,6 @@
 * [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
 * [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
 
-
 ## Inbox: Video AI tools
 
 * [Gen-2 by Runway](https://research.runwayml.com/gen2): "a multi-modal AI system that can generate novel videos with text, images, or video clips" [[arxiv]](https://arxiv.org/abs/2302.03011) 
@@ -690,6 +689,7 @@
 
 ## Inbox: Developing + AI
 
+* [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 * [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590) 
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
