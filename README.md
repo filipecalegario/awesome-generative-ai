@@ -1,10 +1,11 @@
-# Awesome Generative AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
+# Awesome Generative AI[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
 
 
 > A curated list of Generative AI projects, tools, artworks, and models
 
-- [Generative AI ](#generative-ai-)
+- [Awesome Generative AI](#awesome-generative-ai)
   - [The Generative AI Area: history, maps, and definitions](#the-generative-ai-area-history-maps-and-definitions)
+  - [Generative AI Processes and Artifacts](#generative-ai-processes-and-artifacts)
   - [Generative AI Tools Directories](#generative-ai-tools-directories)
   - [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
     - [For text-to-text](#for-text-to-text)
@@ -37,9 +38,11 @@
   - [Collections](#collections)
   - [Image Upscaling](#image-upscaling)
   - [Image Restoration](#image-restoration)
+  - [Image Segmentation](#image-segmentation)
   - [Online Tools and Applications](#online-tools-and-applications)
   - [Datasets](#datasets)
-  - [Inbox: Text and Natural Language Processing](#inbox-text-and-natural-language-processing)
+  - [Inbox: Text, Natural Language Processing, Large Language Models](#inbox-text-natural-language-processing-large-language-models)
+    - [Autonomous LLM Agents](#autonomous-llm-agents)
     - [Embeddings and Semantic Search](#embeddings-and-semantic-search)
     - [ChatGPT](#chatgpt)
     - [GPT-3](#gpt-3)
