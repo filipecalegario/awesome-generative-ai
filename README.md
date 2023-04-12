@@ -560,6 +560,7 @@
 
 ## Inbox: Text, Natural Language Processing, Large Language Models
 
+* [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi): an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks
 * [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT): "an experimental open-source attempt to make GPT-4 fully autonomous"
 * [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852): paper with "a comprehensive survey of ChatGPT and GPT-4 and their prospective applications across diverse domains"
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" [[demo](https://chat.lmsys.org/)]
