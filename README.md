@@ -109,6 +109,7 @@
 
 ## Inbox: Large Language Models
 
+* [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models?utm_source=bensbites&utm_medium=newsletter&utm_campaign=stability-ai-release-their-llm) 
 * [Free Dolly | The Databricks Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm): open source, instruction-following LLM, fine-tuned on a human-generated instruction dataset licensed for research and commercial use
 * [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852): paper with "a comprehensive survey of ChatGPT and GPT-4 and their prospective applications across diverse domains"
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" [[demo](https://chat.lmsys.org/)]
