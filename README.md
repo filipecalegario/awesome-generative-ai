@@ -687,6 +687,7 @@
 
 ## Inbox: Video AI tools
 
+* [Align your Latents](https://research.nvidia.com/labs/toronto-ai/VideoLDM/): high-resolution video synthesis with latent diffusion models [[arxiv]](https://arxiv.org/abs/2304.08818)
 * [Gen-2 by Runway](https://research.runwayml.com/gen2): "a multi-modal AI system that can generate novel videos with text, images, or video clips" [[arxiv]](https://arxiv.org/abs/2302.03011) 
 * [CiaraRowles/TemporalNet · Hugging Face](https://huggingface.co/CiaraRowles/TemporalNet): a ControlNet model designed to enhance the temporal consistency of generated outputs [[tweet]](https://twitter.com/ciararowles1/status/1639321818581303310)
 * [Video-P2P UI - a Hugging Face Space by video-p2p-library](https://huggingface.co/spaces/video-p2p-library/Video-P2P-Demo): video editing with cross-attention control [[tweet]](https://twitter.com/_akhaliq/status/1637838648463749120)
