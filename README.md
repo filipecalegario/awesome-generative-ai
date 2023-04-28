@@ -488,6 +488,7 @@
 
 ## Image Synthesis
 
+* [deep-floyd/IF](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
 * [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
 * [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
