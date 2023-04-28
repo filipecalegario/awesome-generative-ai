@@ -663,7 +663,7 @@
 
 ## Inbox: Music and Audio projects
 
-* [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head
+* [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [[code]](https://github.com/AIGC-Audio/AudioGPT) [[demo]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT) 
 * [AudioLDM](https://audioldm.github.io/): Text-to-Audio Generation with Latent Diffusion Models - Speech Research
 * [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 * [🔥🔥🔥] [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
