@@ -653,6 +653,7 @@
 * [cleanup.pictures](https://cleanup.pictures/): remove objects, people, text and defects from any picture for free
 * [remove.bg](https://www.remove.bg/): remove background from images
 * [Quick, Draw!](https://quickdraw.withgoogle.com/): Can a neural network learn to recognize doodling? A game to help NL by adding users drawing
+* [Nekton.ai](https://nekton.ai/): Automate your workflows with AI
 
 ## Datasets
 
