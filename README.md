@@ -133,12 +133,6 @@
 * [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 
 * [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/) 
 * [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY&list=LL&index=1&t=17s) by Dr Alan D. Thompson. The following references came from this video description
-* [Emerson on iOS](https://apps.apple.com/us/app/emerson...)
-* [Jurassic-1](https://studio.ai21.com/)
-* [EleutherAI | GPT-J-6B](https://6b.eleuther.ai/)
-* [AIx](https://apps.aixsolutionsgroup.com/)
-* [Wudao](https://pretrain.aminer.cn/os/qa)
-* [Emerson on Telegram](https://www.quickchat.ai/emerson)
 * [Haystack](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 
 ### Autonomous LLM Agents
