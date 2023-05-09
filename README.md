@@ -109,6 +109,11 @@
 
 ## Inbox: Large Language Models
 
+* [Search-in-the-Chain: Towards Accurate, Credible and Traceable Large Language Models for Knowledge-intensive Tasks | arxiv](https://arxiv.org/abs/2304.14732): "a novel framework called Search-in-the-Chain (SearChain) to improve the accuracy, credibility and traceability of LLM-generated content for multi-hop question answering"
+* [🔥🔥🔥] [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
+* [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
+* [microsoft/LoRA](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
+* [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 * [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models?utm_source=bensbites&utm_medium=newsletter&utm_campaign=stability-ai-release-their-llm) 
 * [Free Dolly | The Databricks Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm): open source, instruction-following LLM, fine-tuned on a human-generated instruction dataset licensed for research and commercial use
 * [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852): paper with "a comprehensive survey of ChatGPT and GPT-4 and their prospective applications across diverse domains"
@@ -129,12 +134,6 @@
 * [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 
 * [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/) 
 * [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY&list=LL&index=1&t=17s) by Dr Alan D. Thompson. The following references came from this video description
-* [Emerson on iOS](https://apps.apple.com/us/app/emerson...)
-* [Jurassic-1](https://studio.ai21.com/)
-* [EleutherAI | GPT-J-6B](https://6b.eleuther.ai/)
-* [AIx](https://apps.aixsolutionsgroup.com/)
-* [Wudao](https://pretrain.aminer.cn/os/qa)
-* [Emerson on Telegram](https://www.quickchat.ai/emerson)
 * [Haystack](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 
 ### Autonomous LLM Agents
@@ -148,6 +147,7 @@
 
 ### Embeddings and Semantic Search
 
+* [neuml/txtai](https://github.com/neuml/txtai): semantic search and workflows powered by language models
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors 
 * [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
 * [🔥] [whitead/paper-qa](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
@@ -198,9 +198,11 @@
 * [Riku.AI | The vault for your A.I. creations](https://riku.ai/) 
 * [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8) 
 * [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
+* [AI Story Generator](https://www.aistorygenerator.org): Free and fast online AI-powered story generator that writes short stories for you
 
 ## Prompt Engineering | Prompt Design | Prompt Craft
 
+* [🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering
 * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
 * [the Book](https://fedhoneypot.notion.site/25fdbdb69e9e44c6877d79e18336fe05?v=1d2bf4143680451986fd2836a04afbf4): collection of prompts and hints of prompt engineering
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
@@ -369,6 +371,7 @@
 
 ## Courses and Educational Materials
 
+* [🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering
 * [🔥🔥🔥] [DAIR.AI](https://github.com/dair-ai): Democratizing Artificial Intelligence Research, Education, and Technologies
 * [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
 * [Crash course in AI art generation by PromptHero](https://prompthero.com/academy): paid ($99) course focused on prompt engineering
@@ -481,6 +484,7 @@
 
 ## Image Synthesis
 
+* [deep-floyd/IF](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
 * [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
 * [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
@@ -644,8 +648,9 @@
 * [Ostagram.ru](https://www.ostagram.me/): image style transfer plataform
 * [cleanup.pictures](https://cleanup.pictures/): remove objects, people, text and defects from any picture for free
 * [remove.bg](https://www.remove.bg/): remove background from images
-* [Quick, Draw!](https://quickdraw.withgoogle.com/): Can a neural network learn to recognize doodling? A game to help NL by adding users drawing
-* [ChatGenius](https://chatgenius.one/?ref=agai): ChatGenius is a software company that provides a powerful AI chatbot solution powered by GPT-4 and ChatGPT. Our chatbot offers 24/7 support in over 110 languages and can be integrated seamlessly into your website or platform.
+* [Quick, Draw!](https://quickdraw.withgoogle.com/): can a neural network learn to recognize doodling? A game to help NL by adding users drawing
+* [ChatGenius](https://chatgenius.one/?ref=agai): a software company that provides AI chatbot solution powered by GPT-4 and ChatGPT with support in over 110 languages and can be integrated seamlessly into your website or platform.
+* [Nekton.ai](https://nekton.ai/): automate your workflows with AI
 
 ## Datasets
 
@@ -657,6 +662,7 @@
 
 ## Inbox: Music and Audio projects
 
+* [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [[code]](https://github.com/AIGC-Audio/AudioGPT) [[demo]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT) 
 * [AudioLDM](https://audioldm.github.io/): Text-to-Audio Generation with Latent Diffusion Models - Speech Research
 * [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 * [🔥🔥🔥] [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
@@ -708,6 +714,8 @@
 
 ## Inbox: Developing + AI
 
+* [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
+* [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
 * [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 * [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590) 
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
@@ -762,6 +770,7 @@
 
 ## Related Awesome Lists
 
+* [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 * [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 * [🔥] [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 * [🔥🔥🔥] [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
