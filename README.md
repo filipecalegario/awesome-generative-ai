@@ -198,6 +198,7 @@
 * [Riku.AI | The vault for your A.I. creations](https://riku.ai/) 
 * [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8) 
 * [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
+* [AI Story Generator](https://www.aistorygenerator.org): Free and fast online AI-powered story generator that writes short stories for you
 
 ## Prompt Engineering | Prompt Design | Prompt Craft
 
