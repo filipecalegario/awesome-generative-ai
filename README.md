@@ -70,6 +70,7 @@
 
 ## The Generative AI Area: history, maps, and definitions
 
+* [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
 * [AI Index Report 2023 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/): report that measures trends in AI written by the Human-Centered Artificial Intelligence from Stanford University
 * [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223): paper that summarizes the evolution of language models, with a focus on LLMs, discussing their advances, techniques, and impact on AI development and usage
 * [The Generative AI Timeline](https://www.linkedin.com/feed/update/urn:li:activity:7044233450295316480): post in Linkedin by David Foster
@@ -109,6 +110,7 @@
 
 ## Inbox: Large Language Models
 
+* [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
 * [Let Us Show You How GPT Works — Using Jane Austen - The New York Times](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html)
 * [Search-in-the-Chain: Towards Accurate, Credible and Traceable Large Language Models for Knowledge-intensive Tasks | arxiv](https://arxiv.org/abs/2304.14732): "a novel framework called Search-in-the-Chain (SearChain) to improve the accuracy, credibility and traceability of LLM-generated content for multi-hop question answering"
 * [🔥🔥🔥] [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
@@ -407,6 +409,7 @@
 
 ### Papers Collections
 
+* [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
 * [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
 * [AI Reading List - Google Docs](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit): reading list organized by [Jack Soslow (@JackSoslow)](https://twitter.com/JackSoslow) 
 * [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
