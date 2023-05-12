@@ -193,6 +193,7 @@
 
 ### Text-related Generative Tools
 
+* [ChatBotKit](https://chatbotkit.com/): toolkit to build AI chat bots
 * [Boring Report](https://www.boringreport.org/): "an app that uses AI to remove sensationalism from the news and makes it boring to read"
 * [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch 
 * [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
@@ -732,6 +733,7 @@
 
 ## Inbox: Developing + AI
 
+* [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
 * [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
 * [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
 * [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
