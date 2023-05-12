@@ -192,6 +192,7 @@
 
 ### Text-related Generative Tools
 
+* [Boring Report](https://www.boringreport.org/): "an app that uses AI to remove sensationalism from the news and makes it boring to read"
 * [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch 
 * [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
 * [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
