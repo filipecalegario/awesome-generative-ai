@@ -713,6 +713,7 @@
 
 ## Inbox: Video AI tools
 
+* [Stable Animation SDK](https://stability.ai/blog/stable-animation-sdk): a text-to-animation tool for developers by Stability AI [[dev platform]](https://platform.stability.ai/docs/features/animation)
 * [Twelve Labs](https://twelvelabs.io/): multimodal, contextual understanding for video search
 * [Align your Latents](https://research.nvidia.com/labs/toronto-ai/VideoLDM/): high-resolution video synthesis with latent diffusion models [[arxiv]](https://arxiv.org/abs/2304.08818)
 * [Gen-2 by Runway](https://research.runwayml.com/gen2): "a multi-modal AI system that can generate novel videos with text, images, or video clips" [[arxiv]](https://arxiv.org/abs/2302.03011) 
