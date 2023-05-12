@@ -713,6 +713,7 @@
 
 ## Inbox: Video AI tools
 
+* [Twelve Labs](https://twelvelabs.io/): multimodal, contextual understanding for video search
 * [Align your Latents](https://research.nvidia.com/labs/toronto-ai/VideoLDM/): high-resolution video synthesis with latent diffusion models [[arxiv]](https://arxiv.org/abs/2304.08818)
 * [Gen-2 by Runway](https://research.runwayml.com/gen2): "a multi-modal AI system that can generate novel videos with text, images, or video clips" [[arxiv]](https://arxiv.org/abs/2302.03011) 
 * [CiaraRowles/TemporalNet · Hugging Face](https://huggingface.co/CiaraRowles/TemporalNet): a ControlNet model designed to enhance the temporal consistency of generated outputs [[tweet]](https://twitter.com/ciararowles1/status/1639321818581303310)
