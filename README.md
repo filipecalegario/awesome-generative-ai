@@ -1,6 +1,5 @@
 # Awesome Generative AI[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
 
-
 > A curated list of Generative AI projects, tools, artworks, and models
 
 - [Awesome Generative AI](#awesome-generative-ai)
@@ -69,6 +68,24 @@
     - [Auxiliary tools and concepts](#auxiliary-tools-and-concepts)
   - [Contribute](#contribute)
   - [License](#license)
+
+## Repository Introduction
+
+Welcome to our Awesome List of Generative AI resources! This repository is a curated collection of references in the dynamic field of Generative AI, equipped with various sources such as academic papers, technical articles, online courses, tutorials, and software.
+
+### Structure:
+
+1. **Sections**: Each section represents a different Generative AI-related category (e.g., LLMs, prompt engineering, image synthesis, educational resources, etc.). The Inboxes are the more general references of a category. When a new category emerges, it becomes a specific subsection.
+
+2. **References within sections**: Inside each section, references are listed in reverse chronological order, with the most recent one at the top. This order signifies the ever-evolving landscape of Generative AI, keeping you up-to-date with the latest developments.
+
+This repository is designed to offer you the most recent advancements at your fingertips, allowing you to explore the depth of older resources at your own pace. It's regularly updated, ensuring you're always on track with the rapidly progressing world of Generative AI.
+
+### Contribute to Our Repository
+
+Your contributions are welcome and greatly appreciated! If you have a valuable resource that you believe should be on this list, or if you see any outdated information, please make a Pull Request. This will help us maintain the quality and relevance of our Awesome List.
+
+Follow this roadmap, keep learning, and enjoy your journey through Generative AI!
 
 ## The Generative AI Area: history, maps, and definitions
 
