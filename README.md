@@ -149,21 +149,25 @@
 * [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 * [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
 
+### LangChain
+
+* [FlowiseAI](https://flowiseai.com/): "Open source UI visual tool to build your customized LLM flow using LangchainJS, written in Node Typescript/Javascript"
+* [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
+* [LangChain Docs](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
+* [Getting started with LangChain | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842): A powerful tool for working with Large Language Models
+
 ### Embeddings and Semantic Search
 
 * [neuml/txtai](https://github.com/neuml/txtai): semantic search and workflows powered by language models
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors 
 * [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
 * [🔥] [whitead/paper-qa](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
-* [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419) 
 * [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 * [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
 * [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
 * [jerryjliu/gpt_index: GPT Index (LlamaIndex)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
 * [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
 * [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
-* [LangChain 0.0.94](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
-* [Getting started with LangChain — A powerful tool for working with Large Language Models | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842) 
 
 ### ChatGPT
 
