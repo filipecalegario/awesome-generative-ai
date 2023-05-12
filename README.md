@@ -143,6 +143,7 @@
 
 ### Autonomous LLM Agents
 
+* [Fine-Tuner.ai](https://fine-tuner.ai/): no code approach to build AI agents
 * [AI Agent Basics: Let’s Think Step By Step - by Jon Stokes](https://www.jonstokes.com/p/ai-agent-basics-lets-think-step-by) 
 * [🔥🔥] [Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents): provides a natural language API on top of Hugging Face's transformers library
 * [AgentGPT](https://agentgpt.reworkd.ai/): "assemble, configure, and deploy autonomous AI Agents in your browser"
