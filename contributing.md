@@ -8,12 +8,11 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure your reference is on the right section/category
+- And that it is adequately formatted: a link followed by a colon and a brief description
+- And don't forget to maintain the reverse chronological order, placing new references on the top of the section list
 
 Thank you for your suggestions!
-
 
 ## Updating your PR
 
