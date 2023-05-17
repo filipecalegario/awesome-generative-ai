@@ -160,6 +160,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Autonomous LLM Agents
 
+* [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
 * [Fine-Tuner.ai](https://fine-tuner.ai/): no code approach to build AI agents
 * [AI Agent Basics: Let’s Think Step By Step - by Jon Stokes](https://www.jonstokes.com/p/ai-agent-basics-lets-think-step-by) 
 * [🔥🔥] [Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents): provides a natural language API on top of Hugging Face's transformers library
