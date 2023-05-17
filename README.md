@@ -210,6 +210,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Text-related Generative Tools
 
+* [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides): Create AI-powered presentations in Google Slides
 * [ChatBotKit](https://chatbotkit.com/): toolkit to build AI chat bots
 * [Boring Report](https://www.boringreport.org/): "an app that uses AI to remove sensationalism from the news and makes it boring to read"
 * [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch 
