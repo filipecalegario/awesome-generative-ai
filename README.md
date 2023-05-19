@@ -346,6 +346,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [stability-ai/stable-diffusion – Run with an API on Replicate](https://replicate.com/stability-ai/stable-diffusion)
 * [Osmosis.Studio](http://osmosis.studio/) : web-based content-aware collaborative design tool for generating AI ads that sell real products
 * [Artistic.wtf](https://www.artistic.wtf/): stable diffusion GUI App
+* [Prodia](https://app.prodia.com/#/art-ai): Stable diffusion-based art generator that does not require signup
 
 ### Web UI for Stable Diffusion via Google Colab
 
