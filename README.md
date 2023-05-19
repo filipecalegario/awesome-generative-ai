@@ -463,6 +463,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Discussions and Philosophy
 
+* [Where AI evolves from here](https://www.axios.com/2023/05/18/ai-agi-artificial-general-intelligence) 
 * [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun): notes by Bill Gates
 * [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130): OpenAI's paper that discusses the possible implications of GPTs on the U.S. labor market 
 * [Why generative AI scares artists but not content writers](https://www.fastcompany.com/90848228/why-generative-ai-scares-artists-but-not-writers)
