@@ -615,6 +615,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Generative Adversarial Networks (GANs)
 
+* [🔥🔥🔥] [Drag Your GAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/): "Interactive Point-based Manipulation on the Generative Image Manifold"
 * [🔥] [weihaox/awesome-gan-inversion](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 * [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 * [Latent Space Exploration with StyleGAN2](https://amarsaini.github.io/Epoching-Blog/jupyter/2020/08/10/Latent-Space-Exploration-with-StyleGAN2.html)
