@@ -129,6 +129,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Large Language Models
 
+* [google/BIG-bench](https://github.com/google/BIG-bench): "a collaborative benchmark intended to probe large language models and extrapolate their future capabilities"
 * [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit): provides an open-source base to create both specialized and general purpose chatbots for various applications
 * [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
 * [Let Us Show You How GPT Works — Using Jane Austen - The New York Times](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html)
@@ -488,6 +489,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Critical Views about Generative AI
 
+* [AIAAIC - AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository): "The independent, open, public interest resource detailing incidents and controversies driven by and relating to artificial intelligence, algorithms, and automation"
 * [Just Calm Down About GPT-4 Already - IEEE Spectrum](https://spectrum.ieee.org/gpt-4-calm-down) 
 * [Pause Giant AI Experiments: An Open Letter - Future of Life Institute](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) 
 * ["OpenAI released plugins for ChatGPT"](https://twitter.com/thealexbanks/status/1639620659142881283): tweet from [@thealexbanks](https://twitter.com/thealexbanks) with a list of reflections about the impact of ChatGPT plugins
