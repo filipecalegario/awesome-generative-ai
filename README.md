@@ -194,6 +194,10 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
 * [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
 
+### LLMOps
+
+* [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
+
 ### ChatGPT
 
 * [🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
