@@ -120,6 +120,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI Tools Directories
 
+* [AI Finder](https://ai-finder.net/): repository with more than 1500 AI tools 
 * [BestWebbs](https://bestwebbs.com/): "one-stop destination for all AI Tools"
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/): list of AI tools
 * [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/): directory of AI tools
