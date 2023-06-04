@@ -120,13 +120,14 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI Tools Directories
 
+* [AI Valley](https://aivalley.ai/): "The Newest AI Tools And Prompts"
 * [AI Finder](https://ai-finder.net/): repository with more than 1500 AI tools 
 * [BestWebbs](https://bestwebbs.com/): "one-stop destination for all AI Tools"
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/): list of AI tools
 * [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/): directory of AI tools
 * [There's An AI For That](https://theresanaiforthat.com/): AI database
-* [🔥🔥🔥] [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
-* [🔥🔥🔥] [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
+* [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
+* [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
 
 ## Inbox: Large Language Models
 
