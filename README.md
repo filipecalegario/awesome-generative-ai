@@ -398,6 +398,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Deforum
 
+* [Parseq](https://sd-parseq.web.app/?docId=doc-99accb6d-9aeb-4980-9e9e-2e6ba4499669): parameter sequencer for Stable Diffusion [[Youtube Tutorials]](https://www.youtube.com/playlist?list=PLXbx1PHKHwIHsYFfb5lq2wS8g1FKz6aP8)
 * [Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube](https://www.youtube.com/watch?v=6snk7gw898g)
 * [Deforum Stable Diffusion](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=63UOJvU3xdPS): generating videos from scripted prompts
 * [(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/)
