@@ -89,6 +89,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## The Generative AI Area: history, maps, and definitions
 
+* [A survey of Generative AI Applications | arxiv](https://arxiv.org/abs/2306.02781): "rur survey aims to serve as a valuable resource for researchers and practitioners to navigate the rapidly expanding landscape of generative AI"
 * [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
 * [AI Index Report 2023 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/): report that measures trends in AI written by the Human-Centered Artificial Intelligence from Stanford University
 * [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223): paper that summarizes the evolution of language models, with a focus on LLMs, discussing their advances, techniques, and impact on AI development and usage
