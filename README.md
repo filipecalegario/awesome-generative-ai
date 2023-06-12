@@ -725,6 +725,8 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Music and Audio projects
 
+* [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): Meta's tool for generating music
+* [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft): a library for audio processing and generation with deep learning.
 * [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [[code]](https://github.com/AIGC-Audio/AudioGPT) [[demo]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT) 
 * [AudioLDM](https://audioldm.github.io/): Text-to-Audio Generation with Latent Diffusion Models - Speech Research
 * [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
