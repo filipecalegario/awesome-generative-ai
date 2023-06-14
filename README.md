@@ -500,6 +500,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Critical Views about Generative AI
 
+* [Generative AI Takes Stereotypes and Bias From Bad to Worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/) 
 * [Governance of superintelligence by OpenAI](https://openai.com/blog/governance-of-superintelligence) 
 * [AIAAIC - AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository): "The independent, open, public interest resource detailing incidents and controversies driven by and relating to artificial intelligence, algorithms, and automation"
 * [Just Calm Down About GPT-4 Already - IEEE Spectrum](https://spectrum.ieee.org/gpt-4-calm-down) 
