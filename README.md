@@ -783,6 +783,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Developing + AI
 
+* [Dedicated File for Inbox for GenAI + Dev](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references 
 * [e2b-dev/e2b](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
 * [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
 * [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
