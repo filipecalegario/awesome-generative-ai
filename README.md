@@ -121,6 +121,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI Tools Directories
 
+* [AI Tool Master List](https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207): directory maintained by ClickUp
 * [AI Valley](https://aivalley.ai/): "The Newest AI Tools And Prompts"
 * [AI Finder](https://ai-finder.net/): repository with more than 1500 AI tools 
 * [BestWebbs](https://bestwebbs.com/): "one-stop destination for all AI Tools"
