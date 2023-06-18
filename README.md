@@ -728,6 +728,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Music and Audio projects
 
+* [Introducing Voicebox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech): The first generative AI model for speech to generalize across tasks with state-of-the-art performance
 * [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): Meta's tool for generating music
 * [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft): a library for audio processing and generation with deep learning.
 * [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [[code]](https://github.com/AIGC-Audio/AudioGPT) [[demo]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT) 
