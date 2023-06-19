@@ -482,6 +482,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Discussions and Philosophy
 
+* [Embracing change and resetting expectations | Microsoft Unlocked](https://unlocked.microsoft.com/ai-anthology/terence-tao/): text by Terence Tao
 * [Art and the science of generative AI | Science](https://www.science.org/doi/10.1126/science.adh4451) 
 * [Where AI evolves from here](https://www.axios.com/2023/05/18/ai-agi-artificial-general-intelligence) 
 * [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun): notes by Bill Gates
