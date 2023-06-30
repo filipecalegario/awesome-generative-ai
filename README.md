@@ -890,6 +890,11 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
 * [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/filipecalegario/awesome-generative-ai.svg)](https://starchart.cc/filipecalegario/awesome-generative-ai)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
