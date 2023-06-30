@@ -172,6 +172,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Autonomous LLM Agents
 
+* [🔥🔥🔥] [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/): the LLM agents learning notes by Lilian Weng
 * [Vercel for AI agents](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
 * [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
 * [Fine-Tuner.ai](https://fine-tuner.ai/): no code approach to build AI agents
