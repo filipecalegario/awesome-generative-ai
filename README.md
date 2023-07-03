@@ -798,6 +798,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Developing + AI
 
+* [wolfia-app/gpt-code-search](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 * [Dedicated File for Inbox for GenAI + Dev](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references 
 * [e2b-dev/e2b](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
 * [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
