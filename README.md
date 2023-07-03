@@ -394,6 +394,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### ControlNet
 
+* [A Beginner's Guide to Line Detection and Image Transformation with ControlNet](https://notes.aimodels.fyi/a-dive-into-line-detection-image-transformation-and-much-more-with/) 
 * [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI (based on ControlNet)
 
 ### Textual Inversion
