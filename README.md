@@ -513,6 +513,8 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [Appreciating the Poetic Misunderstandings of A.I. Art | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art?s=09)
 
 ### Critical Views about Generative AI
+
+* [AI and the automation of work — Benedict Evans](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai) 
 * [Yuval Noah Harari argues that AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation) 
 * [Generative AI Takes Stereotypes and Bias From Bad to Worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/) 
 * [Governance of superintelligence by OpenAI](https://openai.com/blog/governance-of-superintelligence) 
