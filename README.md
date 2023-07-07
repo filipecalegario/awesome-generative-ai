@@ -122,7 +122,8 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 <img src="https://user-images.githubusercontent.com/299057/226114498-c9b8a717-31e2-4630-b0ab-752b69005146.png" width=75% height=75%>
 
 ## Generative AI Tools Directories
-* [Technologies in LabLab](https://lablab.ai/tech): list of tools suggested by [lablab.ai](https://lablab.ai) for their hackathons
+
+* [Technologies in LabLab](https://lablab.ai/tech): list of AI tools suggested by [lablab.ai](https://lablab.ai) for their hackathons
 * [Vondy - Next Generation AI Apps](https://www.vondy.com/): collection of AI tools organized by tasks 
 * [AI Tool Master List](https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207): directory maintained by ClickUp
 * [AI Valley](https://aivalley.ai/): "The Newest AI Tools And Prompts"
