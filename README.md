@@ -749,6 +749,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Music and Audio projects
 
+* [Ultimate Vocal Remover](https://ultimatevocalremover.com/): vocal removal using AI
 * [Introducing Voicebox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech): The first generative AI model for speech to generalize across tasks with state-of-the-art performance
 * [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): Meta's tool for generating music
 * [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft): a library for audio processing and generation with deep learning.
