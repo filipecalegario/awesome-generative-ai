@@ -89,6 +89,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## The Generative AI Area: history, maps, and definitions
 
+* [There Would Have Been No LLMs Without This (episode#3 in the History series)](https://www.turingpost.com/p/llmshistory3): timeline of LLMs by Turing Post
 * [The Next Token of Progress: 4 Unlocks on the Generative AI Horizon | Andreessen Horowitz](https://a16z.com/2023/06/23/the-next-token-of-progress-4-unlocks-on-the-generative-ai-horizon/): critical innovations on the horizon: steering, memory, ability to use tools, and multimodality
 * [The economic potential of generative AI: The next productivity frontier](https://www.linkedin.com/posts/genai-works_gen-ai-activity-7074980736268726272-LiiG): report by McKinsey Jun 2023
 * [A survey of Generative AI Applications | arxiv](https://arxiv.org/abs/2306.02781): "this survey aims to serve as a valuable resource for researchers and practitioners to navigate the rapidly expanding landscape of generative AI"
