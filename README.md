@@ -789,6 +789,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
 * [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
 * [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
+* [AI Voice Generator](https://www.aivoicegenerator.org): Free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
 
 ## Inbox: Video AI tools
 
