@@ -780,6 +780,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Text-to-speech (TTS) tools
 
+* [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
 * [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 * [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 * [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
@@ -789,7 +790,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
 * [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
 * [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
-* [AI Voice Generator](https://www.aivoicegenerator.org): Free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
+
 
 ## Inbox: Video AI tools
 
