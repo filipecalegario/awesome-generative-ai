@@ -180,6 +180,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Autonomous LLM Agents
 
+* [Introducing AACP | SuperAGI](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/): agent to agent communication protocol
 * [BrainstormGPT](https://brainstormgpt.ai/#/): AI multi-agent problem solving
 * [ChatArena](https://www.chatarena.org/): building multi-agent environments for LLMs
 * [🔥🔥🔥] [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/): the LLM agents learning notes by Lilian Weng
