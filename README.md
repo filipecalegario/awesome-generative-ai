@@ -782,8 +782,10 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound)
 * [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
 
-## Inbox: Text-to-speech (TTS) tools
+## Inbox: Text-to-speech (TTS) tools and Avatars
 
+* [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
+* [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
 * [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
 * [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 * [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
