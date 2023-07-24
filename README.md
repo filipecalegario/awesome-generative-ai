@@ -790,6 +790,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Text-to-speech (TTS) tools and Avatars
 
+* [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers
 * [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
 * [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
 * [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
