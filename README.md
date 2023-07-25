@@ -220,6 +220,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### LLMOps
 
+* [Eden AI](https://www.edenai.co/?referral=partner-producthunt8&ref=producthunt): provides a unique API connected to the AI engines 
 * [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
 
 ### ChatGPT
