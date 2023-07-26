@@ -738,6 +738,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Online Tools and Applications
 
+* [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 * [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 * [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
 * [Scenario AI](https://www.scenario.gg/): AI-generated game assets
