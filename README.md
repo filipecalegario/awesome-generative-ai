@@ -793,7 +793,11 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound)
 * [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
 
-## Inbox: Text-to-speech (TTS) tools and Avatars
+## Inbox: Speech-to-text (STT) and spoken content analysis
+
+* [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
+
+## Inbox: Text-to-speech (TTS) and avatars
 
 * [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers
 * [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
@@ -808,7 +812,6 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
 * [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
 * [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
-
 
 ## Inbox: Video AI tools
 
@@ -936,7 +939,6 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 * [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
 * [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
-
 
 ## Stargazers over time
 
