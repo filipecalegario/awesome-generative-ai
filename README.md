@@ -89,6 +89,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## The Generative AI Area: history, maps, and definitions
 
+* [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/) 
 * [The Generative AI Revolution: Exploring the Current Landscape | by Towards AI Editorial Team | Jun, 2023 | Towards AI](https://pub.towardsai.net/the-generative-ai-revolution-exploring-the-current-landscape-4b89998fcc5f)
 * [The Story of AI Winters and What it Teaches Us Today](https://www.turingpost.com/p/aiwinters)
 * [There Would Have Been No LLMs Without This (episode#3 in the History series)](https://www.turingpost.com/p/llmshistory3): timeline of LLMs by Turing Post
@@ -140,6 +141,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Large Language Models (LLMs)
 
+* [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/) 
 * [🔥🔥🔥] [What We Know About LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer) 
 * [A simple guide to fine-tuning Llama 2 | Brev docs](https://brev.dev/blog/fine-tuning-llama-2)
 * [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
