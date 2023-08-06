@@ -387,6 +387,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [Osmosis.Studio](http://osmosis.studio/) : web-based content-aware collaborative design tool for generating AI ads that sell real products
 * [Artistic.wtf](https://www.artistic.wtf/): stable diffusion GUI App
 * [Prodia](https://app.prodia.com/#/art-ai): Stable diffusion-based art generator that does not require signup
+* [ComicsMaker.ai](https://www.comicsmaker.ai): Stable diffusion-based comic book generator with support for text2img, img2img, inpainting and controlnet
 
 ### Web UI for Stable Diffusion via Google Colab
 
