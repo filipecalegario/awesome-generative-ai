@@ -510,6 +510,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Discussions and Philosophy
 
+* [Ethics of Artificial Intelligence: Case Studies and Options for Addressing Ethical Challenges | SpringerLink](https://link.springer.com/book/10.1007/978-3-031-17040-9) 
 * [Embracing change and resetting expectations | Microsoft Unlocked](https://unlocked.microsoft.com/ai-anthology/terence-tao/): text by Terence Tao
 * [Art and the science of generative AI | Science](https://www.science.org/doi/10.1126/science.adh4451) 
 * [Where AI evolves from here](https://www.axios.com/2023/05/18/ai-agi-artificial-general-intelligence) 
