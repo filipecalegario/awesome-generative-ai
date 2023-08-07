@@ -186,6 +186,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Autonomous LLM Agents
 
+* [geekan/MetaGPT](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo 
 * [GPT Researcher](https://app.tavily.com/): AI agents for insights and research
 * [Multi-agent Simulation by Jim Fan on Twitter](https://twitter.com/DrJimFan/status/1682086586593443841): "The next frontier of emergent intelligence will be multi-agent simulation: a crowd of AI characters carry out their daily lives through complex social interactions"
 * [Introducing AACP | SuperAGI](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/): agent to agent communication protocol
@@ -844,8 +845,9 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [The Generative AI Revolution in Games | Andreessen Horowitz](https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/): this article presents a list of use cases of generative AI in games
 * [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
 
-## Inbox: Developing + AI
+## Inbox: DEV + AI
 
+* [geekan/MetaGPT](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 * [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 * [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
 * [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/) 
