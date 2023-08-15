@@ -3,13 +3,17 @@
 > A curated list of Generative AI projects, tools, artworks, and models
 
 - [Awesome Generative AI](#awesome-generative-ai)
+  - [Repository Introduction](#repository-introduction)
+    - [Structure:](#structure)
+    - [Contribute to Our Repository](#contribute-to-our-repository)
   - [The Generative AI Area: history, maps, and definitions](#the-generative-ai-area-history-maps-and-definitions)
   - [Generative AI Processes and Artifacts](#generative-ai-processes-and-artifacts)
   - [Generative AI Tools Directories](#generative-ai-tools-directories)
-  - [Inbox: Large Language Models](#inbox-large-language-models)
+  - [Inbox: Large Language Models (LLMs)](#inbox-large-language-models-llms)
     - [Autonomous LLM Agents](#autonomous-llm-agents)
     - [LangChain](#langchain)
     - [Embeddings and Semantic Search](#embeddings-and-semantic-search)
+    - [LLMOps](#llmops)
     - [ChatGPT](#chatgpt)
     - [GPT-3](#gpt-3)
     - [BLOOM](#bloom)
@@ -50,10 +54,11 @@
   - [Online Tools and Applications](#online-tools-and-applications)
   - [Datasets](#datasets)
   - [Inbox: Music and Audio projects](#inbox-music-and-audio-projects)
-  - [Inbox: Text-to-speech (TTS) tools](#inbox-text-to-speech-tts-tools)
+  - [Inbox: Speech-to-text (STT) and spoken content analysis](#inbox-speech-to-text-stt-and-spoken-content-analysis)
+  - [Inbox: Text-to-speech (TTS) and avatars](#inbox-text-to-speech-tts-and-avatars)
   - [Inbox: Video AI tools](#inbox-video-ai-tools)
   - [Inbox: Games and AI](#inbox-games-and-ai)
-  - [Inbox: Developing + AI](#inbox-developing--ai)
+  - [Inbox: DEV + AI](#inbox-dev--ai)
   - [People and works](#people-and-works)
     - [Interesting Instagram Accounts, Posts and Reels](#interesting-instagram-accounts-posts-and-reels)
     - [Interesting Youtube Channels](#interesting-youtube-channels)
@@ -66,6 +71,7 @@
     - [Jobs in Generative AI](#jobs-in-generative-ai)
     - [Improving Google Colab experience](#improving-google-colab-experience)
     - [Auxiliary tools and concepts](#auxiliary-tools-and-concepts)
+  - [Stargazers over time](#stargazers-over-time)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -231,6 +237,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 * [Eden AI](https://www.edenai.co/?referral=partner-producthunt8&ref=producthunt): provides a unique API connected to the AI engines 
 * [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
+* [LLM App](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
 ### ChatGPT
 
