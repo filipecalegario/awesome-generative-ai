@@ -868,6 +868,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: DEV + AI
 
+* [Kombai](https://kombai.com/): generate UI code per component from Figma
 * [geekan/MetaGPT](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 * [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 * [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
