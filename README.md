@@ -869,6 +869,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: DEV + AI
 
+* [Cody](https://about.sourcegraph.com/cody): AI coding assistant
 * [Kombai](https://kombai.com/): generate UI code per component from Figma
 * [geekan/MetaGPT](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 * [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
