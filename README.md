@@ -556,6 +556,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Critical Views about Generative AI
 
+* [Behind the AI boom, an army of overseas workers in ‘digital sweatshops’ | The Washington Post](https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/): Scale AI’s Remotasks workers in the Philippines cry foul over low pay
 * [It’s Not Intelligent If It Always Halts: A Critical Perspective on Current Approaches to AGI | Life Is Computation](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/) 
 * [The human costs of the AI boom | TechCrunch](https://techcrunch.com/2023/08/21/the-human-costs-of-the-ai-boom/) 
 * [AI Scams, Spam, Hacking, Are Ruining the Internet](https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8) 
