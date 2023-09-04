@@ -530,6 +530,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Discussions and Philosophy
 
+* [AI Art and its Impact on Artists](https://dl.acm.org/doi/10.1145/3600211.3604681): paper published in the Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society
 * [The AIKEA Effect](https://piszek.com/2023/08/28/aikea-effect/): by Artur Piszek
 * [Ethics of Artificial Intelligence: Case Studies and Options for Addressing Ethical Challenges | SpringerLink](https://link.springer.com/book/10.1007/978-3-031-17040-9) 
 * [Embracing change and resetting expectations | Microsoft Unlocked](https://unlocked.microsoft.com/ai-anthology/terence-tao/): text by Terence Tao
