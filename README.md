@@ -136,6 +136,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI Tools Directories
 
+* [HD Robots](https://hdrobots.com/): AI tools directory with chatbot assistant
 * [AIForme](https://www.aiforme.wiki/): AI tools discovery platform with comparison feature
 * [Technologies in LabLab](https://lablab.ai/tech): list of AI tools suggested by [lablab.ai](https://lablab.ai) for their hackathons
 * [Vondy - Next Generation AI Apps](https://www.vondy.com/): collection of AI tools organized by tasks 
