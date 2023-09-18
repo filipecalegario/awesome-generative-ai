@@ -293,7 +293,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [AI Story Generator](https://www.aistorygenerator.org): Free and fast online AI-powered story generator that writes short stories for you
 
 ## Prompt Engineering | Prompt Design | Prompt Craft
-
+* [🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering) 
 * [🔥🔥🔥] [Learn Prompting](https://learnprompting.org/): series of lessons of prompt engineering
 * [🔥🔥🔥] [Prompt Engineering | Lil'Log](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/): prompt engineering learning notes by Lilian Weng
 * [🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering
