@@ -95,6 +95,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## The Generative AI Area: history, maps, and definitions
 
+* [The Building Blocks of Generative AI | by Jonathan Shriftman | Medium](https://shriftman.medium.com/the-building-blocks-of-generative-ai-a75350466a2f) 
 * [🔥] [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/): a visual story by Financial Times
 * [Early days of AI - by Elad Gil](https://blog.eladgil.com/p/early-days-of-ai): thoughts about AI as "an entirely new era and discontinuity from the past"
 * [The Next Token of Progress: 4 Unlocks on the Generative AI Horizon | Andreessen Horowitz](https://a16z.com/2023/06/23/the-next-token-of-progress-4-unlocks-on-the-generative-ai-horizon/) 
