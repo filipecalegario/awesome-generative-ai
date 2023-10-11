@@ -200,6 +200,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Autonomous LLM Agents
 
+* [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066): a paper that evaluates the natural language-based societies of mind (NLSOMs), leveraging mindstorms in them to solve some practical AI tasks
 * [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft [[github](https://github.com/microsoft/autogen)]
 * [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 * [a16z-infra/ai-town](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
