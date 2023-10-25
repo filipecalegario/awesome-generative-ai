@@ -298,6 +298,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [AI Story Generator](https://www.aistorygenerator.org): Free and fast online AI-powered story generator that writes short stories for you
 
 ## Prompt Engineering | Prompt Design | Prompt Craft
+
 * [🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering) 
 * [🔥🔥🔥] [Learn Prompting](https://learnprompting.org/): series of lessons of prompt engineering
 * [🔥🔥🔥] [Prompt Engineering | Lil'Log](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/): prompt engineering learning notes by Lilian Weng
@@ -481,6 +482,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Courses and Educational Materials
 
+* [Animated AI](https://animatedai.github.io/): animations and instructional videos about neural networks
 * [Deep Learning AI - Learn the fundamentals of generative AI for real-world applications](https://www.deeplearning.ai/courses/generative-ai-with-llms/): created in partnership with AWS, this course presents the fundamentals of how generative AI works and how to deploy it in real-world applications.
 * [Google Cloud Skills Boost - Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536): an introductory level microlearning course covering Google Tools aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning methods.
 * [Google Cloud Skills Boost: Generative AI learning path](https://www.cloudskillsboost.google/journeys/118): curated content on Generative AI "from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud"
