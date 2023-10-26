@@ -995,6 +995,8 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 ## Roadmaps, Tracks, Rails
 
 * [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
+* [Prompt Engineering Guide | Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/docs/intro)
+* [Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/) 
 
 ## Stargazers over time
 
