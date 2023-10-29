@@ -320,8 +320,9 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### For text-to-text
 
-* [[2305.13252] "According to ..." Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252) 
-* [[2307.05300] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
+* [🔥] [[2307.11760] Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760) 
+* [🔥] [[2305.13252] "According to ..." Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252) 
+* [🔥] [[2307.05300] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
 * [timqian/openprompt.co](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 * [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
