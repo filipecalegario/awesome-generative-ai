@@ -155,6 +155,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Large Language Models (LLMs)
 
+* [[2309.06794] Cognitive Mirage: A Review of Hallucinations in Large Language Models](https://arxiv.org/abs/2309.06794)
 * [Generative AI for Strategy & Innovation](https://www.hbritalia.it/userUpload/ebook_Generative_AI_inglese.pdf): an experiment about management theories with ChatGPT by Harvard Business Review Italia
 * [The TextFX project](https://textfx.withgoogle.com/): "AI-powered tools for rappers, writers and wordsmiths" (partnership between Lupe Fiasco and Google)
 * [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/) 
@@ -198,8 +199,18 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [Haystack](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 * [SolidUI](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
+### LLM Multi-agents
+
+* [[2307.05300] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
+* [[2308.07201] ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
+* [[2308.10848] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
+
 ### Autonomous LLM Agents
 
+* [[2309.07864] The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
+* [[2310.01444] Adapting LLM Agents Through Communication](https://arxiv.org/abs/2310.01444)
+* [[2309.17288] AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)
+* [Exploring Multi-Persona Prompting for Better Outputs](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs): "method of prompt engineering that instructs the LLM to summon multiple personas and have them work together to solve a task"
 * [Conceptual Framework for Autonomous Cognitive Entities](https://arxiv.org/abs/2310.06775): a paper that "introduces the Autonomous Cognitive Entity (ACE) model, a novel framework for a cognitive architecture, enabling machines and software agents to operate more independently"
 * [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066): a paper that evaluates the natural language-based societies of mind (NLSOMs), leveraging mindstorms in them to solve some practical AI tasks
 * [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft [[github](https://github.com/microsoft/autogen)]
