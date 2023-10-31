@@ -573,6 +573,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [Our Vision for the Future of Synthetic Media | by Victor Riparbelli | Medium](https://vriparbelli.medium.com/our-vision-for-the-future-of-synthetic-media-8791059e8f3a)
 * [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
 * [How Photography Became An Art Form | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/08/29/photography-history.html)
+* [Can Computers Create Art? by Aaron Hertzmann](https://www.mdpi.com/2076-0752/7/2/18): 2018's essay published on the Arts Journal
 * [Text Is the Universal Interface - Scale](https://scale.com/blog/text-universal-interface?utm_source=tldrnewsletter) 
 * [This artist is dominating AI-generated art. And he’s not happy about it. | MIT Technology Review](https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/)
 * [The REAL fight over AI art: StableDiffusion | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgu2uo/the_real_fight_over_ai_art/)
