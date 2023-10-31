@@ -824,6 +824,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Datasets
 
+* [RedPajama-Data-v2 by Together AI](https://together.ai/blog/redpajama-data-v2): an open dataset with 30 trillion tokens for training Large Language Models 
 * [Have I Been Trained?](https://haveibeentrained.com/): tool for searching 5.8 billion images used to train popular AI art models
 * [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images): exploring 12 million of the 2.3 billion images used to train Stable Diffusion's image generator
 * [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
