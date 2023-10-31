@@ -976,6 +976,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Related Awesome Lists
 
+* [AlexChalakov/awesome-generative-ai-companies](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 * [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 * [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 * [🔥] [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
