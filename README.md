@@ -586,6 +586,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Critical Views about Generative AI
 
+* [[2310.13149] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149) 
 * [[2309.12338] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
 * [AI Worship | Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html) 
 * [Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water | AP News](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4) 
