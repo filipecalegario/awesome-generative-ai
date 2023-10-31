@@ -156,6 +156,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Large Language Models (LLMs)
 
+* [Hannibal046/Awesome-LLM: Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 * [[2309.06794] Cognitive Mirage: A Review of Hallucinations in Large Language Models](https://arxiv.org/abs/2309.06794)
 * [Generative AI for Strategy & Innovation](https://www.hbritalia.it/userUpload/ebook_Generative_AI_inglese.pdf): an experiment about management theories with ChatGPT by Harvard Business Review Italia
 * [The TextFX project](https://textfx.withgoogle.com/): "AI-powered tools for rappers, writers and wordsmiths" (partnership between Lupe Fiasco and Google)
@@ -977,6 +978,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Related Awesome Lists
 
+* [Hannibal046/Awesome-LLM: Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 * [AlexChalakov/awesome-generative-ai-companies](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 * [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 * [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
