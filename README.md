@@ -207,6 +207,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Autonomous LLM Agents
 
+* [[2309.02427] Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427): "we draw on the rich history of cognitive science and symbolic artificial intelligence to propose Cognitive Architectures for Language Agents (CoALA)" 
 * [[2309.07864] The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
 * [[2310.01444] Adapting LLM Agents Through Communication](https://arxiv.org/abs/2310.01444)
 * [[2309.17288] AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)
@@ -521,6 +522,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### AI Tools for Research
 
+* [[2310.17143] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143) 
 * [Elicit](https://elicit.org/): automate research workflow for literature review
 * [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 * [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
