@@ -249,6 +249,10 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [LangChain Docs](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
 * [Getting started with LangChain | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842): A powerful tool for working with Large Language Models
 
+### Retrieval-Augmented Generation (RAG)
+
+* [dssjon/biblos: biblos.app](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+
 ### Embeddings and Semantic Search
 
 * [neuml/txtai](https://github.com/neuml/txtai): semantic search and workflows powered by language models
