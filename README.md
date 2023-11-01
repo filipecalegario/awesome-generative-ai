@@ -4,7 +4,7 @@
 
 - [Awesome Generative AI](#awesome-generative-ai)
   - [Repository Introduction](#repository-introduction)
-    - [Structure:](#structure)
+    - [Structure](#structure)
     - [Contribute to our Repository](#contribute-to-our-repository)
   - [About the Generative AI Area: history, maps, and definitions](#about-the-generative-ai-area-history-maps-and-definitions)
   - [Philosophic questions and Discussions about Generative AI](#philosophic-questions-and-discussions-about-generative-ai)
@@ -72,7 +72,7 @@
 
 Welcome to our Awesome List of Generative AI resources! This repository is a curated collection of references in the dynamic field of Generative AI, equipped with various sources such as academic papers, technical articles, online courses, tutorials, and software.
 
-### Structure:
+### Structure
 
 1. **Sections**: Each section represents a different Generative AI-related category (e.g., LLMs, prompt engineering, image synthesis, educational resources, etc.). The Inboxes are the more general references of a category. When a new category emerges, it becomes a specific subsection.
 
