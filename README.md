@@ -7,7 +7,7 @@
     - [Structure](#structure)
     - [Contribute to our Repository](#contribute-to-our-repository)
   - [About the Generative AI Area: history, maps, and definitions](#about-the-generative-ai-area-history-maps-and-definitions)
-  - [Philosophic questions and Discussions about Generative AI](#philosophic-questions-and-discussions-about-generative-ai)
+  - [Philosophical questions and Discussions about Generative AI](#philosophical-questions-and-discussions-about-generative-ai)
     - [Critical Views about Generative AI](#critical-views-about-generative-ai)
   - [Generative AI Processes and Artifacts](#generative-ai-processes-and-artifacts)
   - [Generative AI Tools Directories](#generative-ai-tools-directories)
@@ -126,7 +126,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [AI-Generated Art](https://www.v7labs.com/blog/ai-generated-art): From Text to Images & Beyond Examples
 * [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
 
-## Philosophic questions and Discussions about Generative AI
+## Philosophical questions and Discussions about Generative AI
 
 * [Redefining Bias: The Human Prejudice Against AI | Medium](https://johnnosta.medium.com/redefining-bias-the-human-prejudice-against-ai-a1f225b0b2c2) 
 * [AI Art and its Impact on Artists](https://dl.acm.org/doi/10.1145/3600211.3604681): paper published in the Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society
