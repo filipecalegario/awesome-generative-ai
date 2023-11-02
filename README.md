@@ -367,6 +367,11 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
 * [LLM App](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
+### AI Engineering
+
+* [One AI](https://oneai.com/): an NLP-as-a-service platform
+* [LangSmith](https://www.langchain.com/langsmith): a developer platform for deploying LLM apps
+
 ### LangChain
 
 * [Embedchain](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
