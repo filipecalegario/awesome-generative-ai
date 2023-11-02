@@ -232,6 +232,11 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 In essence, Generative AI is about feeding an AI system vast amounts of data, training it to grasp underlying patterns, and then utilizing that trained knowledge to produce novel data. The potential applications and benefits of this technology are vast and continue to grow as the field evolves.
 
+## Human-AI Interaction
+
+* [🔥🔥🔥] [[2310.07127] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
+* [Guidelines for Human-AI Interaction - Microsoft Research](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/): a set of "18 generally applicable design guidelines for human-AI" interaction
+
 ## Generative AI Tools Directories
 
 * [HD Robots](https://hdrobots.com/): AI tools directory with chatbot assistant
