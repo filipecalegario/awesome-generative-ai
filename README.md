@@ -379,6 +379,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Text-related Generative Tools
 
+* [Fable Fiesta](https://fablefiesta.com): Creative AI writing assistant
 * [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides): Create AI-powered presentations in Google Slides
 * [ChatBotKit](https://chatbotkit.com/): toolkit to build AI chat bots
 * [Boring Report](https://www.boringreport.org/): "an app that uses AI to remove sensationalism from the news and makes it boring to read"
