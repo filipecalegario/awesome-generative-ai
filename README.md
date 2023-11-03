@@ -9,9 +9,8 @@
   - [Generative AI Processes and Artifacts](#generative-ai-processes-and-artifacts)
   - [Generative AI Tools Directories](#generative-ai-tools-directories)
   - [Courses and Educational Materials](#courses-and-educational-materials)
-  - [Papers and References](#papers-and-references)
   - [Human-AI Interaction](#human-ai-interaction)
-  - [Papers Collections](#papers-collections)
+  - [Papers Collection](#papers-collection)
   - [Online Tools and Applications](#online-tools-and-applications)
 - [Text](#text)
   - [Inbox: Large Language Models (LLMs)](#inbox-large-language-models-llms)
@@ -287,14 +286,12 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Practical Deep Learning for Coders 2023 - Part II](https://www.youtube.com/watch?v=_7rMfsA24Ls&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): continuation of the course focusing on the implementation of Stable Diffusion from scratch.
 * [Practical Deep Learning for Coders 2022 - Part I](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU): "free course designed for people with some coding experience who want to learn how to apply deep learning and machine learning to practical problems" by Jeremy Howard
 
-## Papers and References
-
 ## Human-AI Interaction
 
 * [🔥🔥🔥] [[2310.07127] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
 * [Guidelines for Human-AI Interaction - Microsoft Research](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/): a set of "18 generally applicable design guidelines for human-AI" interaction
 
-## Papers Collections
+## Papers Collection
 
 * [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
 * [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
