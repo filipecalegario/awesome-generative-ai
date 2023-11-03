@@ -134,6 +134,8 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Philosophical questions and Discussions about Generative AI
 
+* [New Training Method Helps AI Generalize like People Do - Scientific American](https://www.scientificamerican.com/article/new-training-method-helps-ai-generalize-like-people-do/) 
+* [[2310.01405] Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405): "an approach to enhancing the transparency of AI systems that draws on insights from cognitive neuroscience"
 * [Generative AI Resources for Berkeley Law Faculty & Staff - Berkeley Law](https://www.law.berkeley.edu/library/legal-research/chatgpt/)
 * [Licensing is neither feasible nor effective for addressing AI risks](https://www.aisnakeoil.com/p/licensing-is-neither-feasible-nor) 
 * [Generative AI companies must publish transparency reports](https://www.aisnakeoil.com/p/generative-ai-companies-must-publish) 
@@ -141,6 +143,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [More human than human: measuring ChatGPT political bias | Public Choice](https://link.springer.com/article/10.1007/s11127-023-01097-2) 
 * [Redefining Bias: The Human Prejudice Against AI | Medium](https://johnnosta.medium.com/redefining-bias-the-human-prejudice-against-ai-a1f225b0b2c2) 
 * [AI Art and its Impact on Artists](https://dl.acm.org/doi/10.1145/3600211.3604681): paper published in the Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society
+* [The Age of AI has begun | Bill Gates](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun) 
 * [The AIKEA Effect](https://piszek.com/2023/08/28/aikea-effect/): by Artur Piszek
 * [Ethics of Artificial Intelligence: Case Studies and Options for Addressing Ethical Challenges | SpringerLink](https://link.springer.com/book/10.1007/978-3-031-17040-9) 
 * [Embracing change and resetting expectations | Microsoft Unlocked](https://unlocked.microsoft.com/ai-anthology/terence-tao/): text by Terence Tao
@@ -459,6 +462,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Retrieval-Augmented Generation (RAG)
 
+* [Rerankers and Two-Stage Retrieval | Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
+* [Retrieval Augmented Generation | Pinecone](https://www.pinecone.io/learn/series/rag/)
 * [dssjon/biblos: biblos.app](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
 ### Embeddings and Semantic Search
@@ -516,7 +521,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
-* [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/) 
+* [Red teaming and model evaluations | Anthropic](https://www.anthropic.com/uk-government-internal-ai-safety-policy-response/red-teaming-and-model-evaluations)
+* [Challenges in evaluating AI systems | Anthropic](https://www.anthropic.com/index/evaluating-ai-systems)
+* [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/): talk by Princeton professor Arvind Narayanan
 
 ### LLMOps
 
