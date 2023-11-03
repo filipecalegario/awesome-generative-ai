@@ -14,19 +14,19 @@
   - [Online Tools and Applications](#online-tools-and-applications)
 - [Text](#text)
   - [Inbox: Large Language Models (LLMs)](#inbox-large-language-models-llms)
-    - [LLM Evaluation](#llm-evaluation)
-    - [LLM Multi-agents](#llm-multi-agents)
-    - [Autonomous LLM Agents](#autonomous-llm-agents)
+    - [Prompt Engineering](#prompt-engineering)
+      - [Prompt Engineering for Text-to-text](#prompt-engineering-for-text-to-text)
+      - [Prompt Engineering for Text-to-image](#prompt-engineering-for-text-to-image)
     - [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
     - [Embeddings and Semantic Search](#embeddings-and-semantic-search)
+    - [Autonomous LLM Agents](#autonomous-llm-agents)
+    - [LLM Multi-agents](#llm-multi-agents)
+    - [LLM Evaluation](#llm-evaluation)
     - [LLMOps](#llmops)
     - [AI Engineering](#ai-engineering)
     - [LangChain](#langchain)
     - [ChatGPT](#chatgpt)
     - [Text-related Generative Tools](#text-related-generative-tools)
-  - [Prompt Engineering](#prompt-engineering)
-    - [Prompt Engineering for Text-to-text](#prompt-engineering-for-text-to-text)
-    - [Prompt Engineering for Text-to-image](#prompt-engineering-for-text-to-image)
   - [Research AI Tools](#research-ai-tools)
     - [AI Tools for Research](#ai-tools-for-research)
     - [AI Tools for Searching](#ai-tools-for-searching)
@@ -384,15 +384,89 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Haystack](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 * [SolidUI](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
-### LLM Evaluation
+### Prompt Engineering
 
-* !
+* [🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering) 
+* [🔥🔥🔥] [Learn Prompting](https://learnprompting.org/): series of lessons of prompt engineering
+* [🔥🔥🔥] [Prompt Engineering | Lil'Log](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/): prompt engineering learning notes by Lilian Weng
+* [🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering
+* [🔥🔥🔥] [Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
+* [the Book](https://fedhoneypot.notion.site/25fdbdb69e9e44c6877d79e18336fe05?v=1d2bf4143680451986fd2836a04afbf4): collection of prompts and hints of prompt engineering
+* [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
 
-### LLM Multi-agents
+#### Prompt Engineering for Text-to-text
 
-* [[2307.05300] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
-* [[2308.07201] ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
-* [[2308.10848] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
+* [🔥] [[2307.11760] Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760) 
+* [🔥] [[2305.13252] "According to ..." Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252) 
+* [🔥] [[2307.05300] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
+* [timqian/openprompt.co](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
+* [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
+* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
+* [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
+* [How to write an effective GPT-3 prompt | Zapier](https://zapier.com/blog/gpt-3-prompt/): a list of 6 GPT-3 tips for getting the desired output
+* [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting): e-book by Fatih Kadir Akın ([@fkadev](http://twitter.com/fkadev))
+
+#### Prompt Engineering for Text-to-image
+
+* [USP AI Prompt Book](https://app.usp.ai/static/Stable%20Diffusion%202.1%20Prompt%20Book%20by%20USP.ai.pdf): Stable Diffusion v2.1 Prompt Book
+* [daspartho/prompt-extend](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation 
+* [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
+* [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480) 
+* [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
+* [The Ultimate Stable Diffusion Prompt Guide by PromptHero](https://prompthero.com/stable-diffusion-prompt-guide) 
+* [CLIP Interrogator - a Hugging Face Space by pharma](https://huggingface.co/spaces/pharma/CLIP-Interrogator): image-to-text tool to figure out what a good prompt might be to create new images like an existing one
+* [🔥🔥🔥] [Prompt book for data lovers II - Google Slides](https://docs.google.com/presentation/d/1V8d6TIlKqB1j5xPFH7cCmgKOV_fMs4Cb4dwgjD5GIsg/edit#slide=id.g1834b964b0f_3_4): An open source exploration on text-to-image and data visualization
+* [some9000/StylePile](https://github.com/some9000/StylePile): A helper script for AUTOMATIC1111/stable-diffusion-webui. Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.
+* [Artists To Study | All images generated with Google Colab TPUs + CompVis/stable-diffusion-v1-4 + Huggingface Diffusers](https://artiststostudy.pages.dev/): a systematic study of artists' styles made by [@camenduru](https://twitter.com/camenduru)
+* [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
+* [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
+* [PromptDesign | Reddit](https://www.reddit.com/r/PromptDesign/): Reddit community for "the art of communicating with natural language models"
+* [Prompt Engineering and Zero-Shot/Few-Shot Learning [Guide] - inovex GmbH](https://www.inovex.de/de/blog/prompt-engineering-guide/): prompt engineering for text generation
+* [clip-interrogator.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo): a tool for image-to-prompt
+* [Useful Prompt Engineering tools and resources | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) 
+* [PromptHero](https://prompthero.com/): Search the best prompts for Stable Diffusion, DALL-E and Midjourney
+* [promptoMANIA](https://promptomania.com/): AI art community with prompt generator
+* [Lexica](https://lexica.art/): search over 10M+ Stable Diffusion images and prompts
+* [list of artists for SD v1.4 A-C / D-I / J-N / O-Z](https://rentry.org/artists_sd-v1-4) 
+* [succinctly/text2image-prompt-generator · Hugging Face](https://huggingface.co/succinctly/text2image-prompt-generator): a GPT-2 model fine-tuned on the succinctly/midjourney-prompts dataset, which contains 250k text prompts that users issued to the Midjourney text-to-image service over a month period
+* [The Prompter | vicc | Substack](https://theprompter.substack.com/): a newsletter about news, tips and thoughts around prompt engineering
+* [(19) Nikhil Agrawal 📌 on Twitter](https://twitter.com/HeyNikhila/status/1570005481896255490): 11 AI Images Prompt websites to level up the image quality
+* [Phraser](https://phraser.tech/): a tool that support prompt creation
+* [PromptBase | Prompt Marketplace](https://promptbase.com/): PromptBase is a marketplace for DALL·E, Midjourney & GPT-3 prompts, where people can sell prompts and make money from their prompt crafting skills.
+* [Professional AI whisperers have launched a marketplace for DALL-E prompts - The Verge](https://www.theverge.com/2022/9/2/23326868/dalle-midjourney-ai-promptbase-prompt-market-sales-artist-interview)
+* [Visual Prompt Builder](https://tools.saxifrage.xyz/prompt): simple deck of illustrated card to combine modifiers for prompt building
+* [Prompt Engineering Template - Google Sheets](https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFEAkA/edit#gid=0): spreadsheet with lists of modifiers for prompt building and a lot of interesting links for reference
+* [Prompt Engineering: From Words to Art - Saxifrage Blog](https://www.saxifrage.xyz/post/prompt-engineering)
+* [DALL·Ery GALL·Ery Resources](https://dallery.gallery/prompt-resources-tools-ai-art/): DALL·E 2 and AI art prompt resources & tools to inspire beautiful images
+* [[2204.13988] A Taxonomy of Prompt Modifiers for Text-To-Image Generation](https://arxiv.org/abs/2204.13988) 
+* [List of Aesthetics | Aesthetics Wiki | Fandom](https://aesthetics.fandom.com/wiki/List_of_Aesthetics) 
+* [Artist Directory (Volcano Comparison) | AI Art Creation Wiki | Fandom](https://aiartcreation.fandom.com/wiki/Artist_Directory_(Volcano_Comparison)) 
+* [The DALL·E 2 Prompt Book – DALL·Ery GALL·Ery](https://dallery.gallery/the-dalle-2-prompt-book/)
+* [DALL·Ery GALL·Ery](https://dallery.gallery/): A guide to OpenAI's DALL·E – prompts, projects, examples, and tips
+* [(2) MASSIVE 💥 DALL-E 2 ANIME ⚡︎ KEYWORDS + MODIFIERS LIST ★ : haaaaven](https://www.reddit.com/user/haaaaven/comments/w05f56/massive_dalle_2_anime_keywords_modifiers_list/): image prompt modifier collection by haaaaven
+* [DrawBench](https://docs.google.com/spreadsheets/d/1y7nAbmR4FREi6npB1u-Bo3GFdwdOPYJc617rBOxIRHY/edit#gid=0): a list of prompts the Google Imagen is organizing as a benchmark
+* [CLIP Prompt Engineering for Generative Art - matthewmcateer.me](https://matthewmcateer.me/blog/clip-prompt-engineering/): list of styles tested with Quick CLIP Guided Diffusion
+* [Adobe should make a boring app for prompt engineers (Interconnected)](https://interconnected.org/home/2022/06/02/dalle)
+* [[2206.00169] Discovering the Hidden Vocabulary of DALLE-2](https://arxiv.org/abs/2206.00169)
+* [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/) 
+* [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
+
+### Retrieval-Augmented Generation (RAG)
+
+* [dssjon/biblos: biblos.app](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+
+### Embeddings and Semantic Search
+
+* [neuml/txtai](https://github.com/neuml/txtai): semantic search and workflows powered by language models
+* [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors 
+* [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
+* [🔥] [whitead/paper-qa](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
+* [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
+* [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
+* [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
+* [jerryjliu/gpt_index: GPT Index (LlamaIndex)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
+* [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
+* [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
 
 ### Autonomous LLM Agents
 
@@ -428,22 +502,15 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 * [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
 
-### Retrieval-Augmented Generation (RAG)
+### LLM Multi-agents
 
-* [dssjon/biblos: biblos.app](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+* [[2307.05300] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
+* [[2308.07201] ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
+* [[2308.10848] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
 
-### Embeddings and Semantic Search
+### LLM Evaluation
 
-* [neuml/txtai](https://github.com/neuml/txtai): semantic search and workflows powered by language models
-* [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors 
-* [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
-* [🔥] [whitead/paper-qa](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
-* [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
-* [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
-* [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
-* [jerryjliu/gpt_index: GPT Index (LlamaIndex)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
-* [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
-* [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
+* !
 
 ### LLMOps
 
@@ -496,73 +563,6 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8) 
 * [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
 * [AI Story Generator](https://www.aistorygenerator.org): Free and fast online AI-powered story generator that writes short stories for you
-
-## Prompt Engineering
-
-* [🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering) 
-* [🔥🔥🔥] [Learn Prompting](https://learnprompting.org/): series of lessons of prompt engineering
-* [🔥🔥🔥] [Prompt Engineering | Lil'Log](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/): prompt engineering learning notes by Lilian Weng
-* [🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering
-* [🔥🔥🔥] [Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
-* [the Book](https://fedhoneypot.notion.site/25fdbdb69e9e44c6877d79e18336fe05?v=1d2bf4143680451986fd2836a04afbf4): collection of prompts and hints of prompt engineering
-* [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
-
-### Prompt Engineering for Text-to-text
-
-* [🔥] [[2307.11760] Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760) 
-* [🔥] [[2305.13252] "According to ..." Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252) 
-* [🔥] [[2307.05300] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
-* [timqian/openprompt.co](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
-* [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
-* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
-* [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
-* [How to write an effective GPT-3 prompt | Zapier](https://zapier.com/blog/gpt-3-prompt/): a list of 6 GPT-3 tips for getting the desired output
-* [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting): e-book by Fatih Kadir Akın ([@fkadev](http://twitter.com/fkadev))
-
-### Prompt Engineering for Text-to-image
-
-* [USP AI Prompt Book](https://app.usp.ai/static/Stable%20Diffusion%202.1%20Prompt%20Book%20by%20USP.ai.pdf): Stable Diffusion v2.1 Prompt Book
-* [daspartho/prompt-extend](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation 
-* [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
-* [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480) 
-* [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
-* [The Ultimate Stable Diffusion Prompt Guide by PromptHero](https://prompthero.com/stable-diffusion-prompt-guide) 
-* [CLIP Interrogator - a Hugging Face Space by pharma](https://huggingface.co/spaces/pharma/CLIP-Interrogator): image-to-text tool to figure out what a good prompt might be to create new images like an existing one
-* [🔥🔥🔥] [Prompt book for data lovers II - Google Slides](https://docs.google.com/presentation/d/1V8d6TIlKqB1j5xPFH7cCmgKOV_fMs4Cb4dwgjD5GIsg/edit#slide=id.g1834b964b0f_3_4): An open source exploration on text-to-image and data visualization
-* [some9000/StylePile](https://github.com/some9000/StylePile): A helper script for AUTOMATIC1111/stable-diffusion-webui. Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.
-* [Artists To Study | All images generated with Google Colab TPUs + CompVis/stable-diffusion-v1-4 + Huggingface Diffusers](https://artiststostudy.pages.dev/): a systematic study of artists' styles made by [@camenduru](https://twitter.com/camenduru)
-* [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
-* [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
-* [PromptDesign | Reddit](https://www.reddit.com/r/PromptDesign/): Reddit community for "the art of communicating with natural language models"
-* [Prompt Engineering and Zero-Shot/Few-Shot Learning [Guide] - inovex GmbH](https://www.inovex.de/de/blog/prompt-engineering-guide/): prompt engineering for text generation
-* [clip-interrogator.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo): a tool for image-to-prompt
-* [Useful Prompt Engineering tools and resources | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) 
-* [PromptHero](https://prompthero.com/): Search the best prompts for Stable Diffusion, DALL-E and Midjourney
-* [promptoMANIA](https://promptomania.com/): AI art community with prompt generator
-* [Lexica](https://lexica.art/): search over 10M+ Stable Diffusion images and prompts
-* [list of artists for SD v1.4 A-C / D-I / J-N / O-Z](https://rentry.org/artists_sd-v1-4) 
-* [succinctly/text2image-prompt-generator · Hugging Face](https://huggingface.co/succinctly/text2image-prompt-generator): a GPT-2 model fine-tuned on the succinctly/midjourney-prompts dataset, which contains 250k text prompts that users issued to the Midjourney text-to-image service over a month period
-* [The Prompter | vicc | Substack](https://theprompter.substack.com/): a newsletter about news, tips and thoughts around prompt engineering
-* [(19) Nikhil Agrawal 📌 on Twitter](https://twitter.com/HeyNikhila/status/1570005481896255490): 11 AI Images Prompt websites to level up the image quality
-* [Phraser](https://phraser.tech/): a tool that support prompt creation
-* [PromptBase | Prompt Marketplace](https://promptbase.com/): PromptBase is a marketplace for DALL·E, Midjourney & GPT-3 prompts, where people can sell prompts and make money from their prompt crafting skills.
-* [Professional AI whisperers have launched a marketplace for DALL-E prompts - The Verge](https://www.theverge.com/2022/9/2/23326868/dalle-midjourney-ai-promptbase-prompt-market-sales-artist-interview)
-* [Visual Prompt Builder](https://tools.saxifrage.xyz/prompt): simple deck of illustrated card to combine modifiers for prompt building
-* [Prompt Engineering Template - Google Sheets](https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFEAkA/edit#gid=0): spreadsheet with lists of modifiers for prompt building and a lot of interesting links for reference
-* [Prompt Engineering: From Words to Art - Saxifrage Blog](https://www.saxifrage.xyz/post/prompt-engineering)
-* [DALL·Ery GALL·Ery Resources](https://dallery.gallery/prompt-resources-tools-ai-art/): DALL·E 2 and AI art prompt resources & tools to inspire beautiful images
-* [[2204.13988] A Taxonomy of Prompt Modifiers for Text-To-Image Generation](https://arxiv.org/abs/2204.13988) 
-* [List of Aesthetics | Aesthetics Wiki | Fandom](https://aesthetics.fandom.com/wiki/List_of_Aesthetics) 
-* [Artist Directory (Volcano Comparison) | AI Art Creation Wiki | Fandom](https://aiartcreation.fandom.com/wiki/Artist_Directory_(Volcano_Comparison)) 
-* [The DALL·E 2 Prompt Book – DALL·Ery GALL·Ery](https://dallery.gallery/the-dalle-2-prompt-book/)
-* [DALL·Ery GALL·Ery](https://dallery.gallery/): A guide to OpenAI's DALL·E – prompts, projects, examples, and tips
-* [(2) MASSIVE 💥 DALL-E 2 ANIME ⚡︎ KEYWORDS + MODIFIERS LIST ★ : haaaaven](https://www.reddit.com/user/haaaaven/comments/w05f56/massive_dalle_2_anime_keywords_modifiers_list/): image prompt modifier collection by haaaaven
-* [DrawBench](https://docs.google.com/spreadsheets/d/1y7nAbmR4FREi6npB1u-Bo3GFdwdOPYJc617rBOxIRHY/edit#gid=0): a list of prompts the Google Imagen is organizing as a benchmark
-* [CLIP Prompt Engineering for Generative Art - matthewmcateer.me](https://matthewmcateer.me/blog/clip-prompt-engineering/): list of styles tested with Quick CLIP Guided Diffusion
-* [Adobe should make a boring app for prompt engineers (Interconnected)](https://interconnected.org/home/2022/06/02/dalle)
-* [[2206.00169] Discovering the Hidden Vocabulary of DALLE-2](https://arxiv.org/abs/2206.00169)
-* [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/) 
-* [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
 
 ## Research AI Tools
 
@@ -990,4 +990,3 @@ To the extent possible under law, Filipe Calegario has waived all copyright and
 related or neighboring rights to this work.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/filipecalegario)
-
