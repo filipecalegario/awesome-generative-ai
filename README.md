@@ -20,7 +20,7 @@
     - [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
     - [Embeddings and Semantic Search](#embeddings-and-semantic-search)
     - [Autonomous LLM Agents](#autonomous-llm-agents)
-    - [LLM Multi-agents](#llm-multi-agents)
+      - [Multi-agents](#multi-agents)
     - [LLM Evaluation](#llm-evaluation)
     - [LLMOps](#llmops)
     - [AI Engineering](#ai-engineering)
@@ -501,7 +501,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 * [a16z-infra/ai-town](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 * [AI Town](https://www.convex.dev/ai-town): a virtual town where AI characters live, chat and socialize.
-* [joonspk-research/generative_agents - Generative Agents](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior
+* [joonspk-research/generative_agents - Generative Agents](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior [[arxiv]](https://arxiv.org/abs/2304.03442) 
 * [AgentBench: Evaluating LLMs as Agents](https://huggingface.co/papers/2308.03688): Hugging Face paper page on a benchmark to evaluate LLMs agents
 * [geekan/MetaGPT](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo 
 * [GPT Researcher](https://app.tavily.com/): AI agents for insights and research
@@ -522,10 +522,11 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 * [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
 
-### LLM Multi-agents
+#### Multi-agents
 
 * [[2307.05300] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
 * [[2308.07201] ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
+* [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 * [[2308.10848] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
 
 ### LLM Evaluation
@@ -895,6 +896,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ## Multimodal Embedding Space
 
 * [Microsoft KOSMOS-2](https://twitter.com/mervenoyann/status/1720126908384366649): new capabilities of perceiving object descriptions (e.g., bounding boxes) and grounding text to the visual world [[HF demo]](https://huggingface.co/spaces/ydshieh/Kosmos-2) [[arxiv]](https://arxiv.org/abs/2306.14824) 
+* [Segment Anything | Meta AI](https://segment-anything.com/): "a new AI model from Meta AI that can "cut out" any object, in any image, with a single click"
 * [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
 
 # Datasets
