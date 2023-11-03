@@ -91,6 +91,7 @@ Your contributions are welcome and greatly appreciated! If you have a valuable r
 Follow this roadmap, keep learning, and enjoy your journey through Generative AI!
 
 # Generative AI Area
+
 ## Generative AI history, maps, and definitions
 
 * [🔥🔥🔥] [[2310.07127] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
@@ -133,6 +134,11 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Philosophical questions and Discussions about Generative AI
 
+* [Generative AI Resources for Berkeley Law Faculty & Staff - Berkeley Law](https://www.law.berkeley.edu/library/legal-research/chatgpt/)
+* [Licensing is neither feasible nor effective for addressing AI risks](https://www.aisnakeoil.com/p/licensing-is-neither-feasible-nor) 
+* [Generative AI companies must publish transparency reports](https://www.aisnakeoil.com/p/generative-ai-companies-must-publish) 
+* [Does ChatGPT have a liberal bias?](https://www.aisnakeoil.com/p/does-chatgpt-have-a-liberal-bias) 
+* [More human than human: measuring ChatGPT political bias | Public Choice](https://link.springer.com/article/10.1007/s11127-023-01097-2) 
 * [Redefining Bias: The Human Prejudice Against AI | Medium](https://johnnosta.medium.com/redefining-bias-the-human-prejudice-against-ai-a1f225b0b2c2) 
 * [AI Art and its Impact on Artists](https://dl.acm.org/doi/10.1145/3600211.3604681): paper published in the Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society
 * [The AIKEA Effect](https://piszek.com/2023/08/28/aikea-effect/): by Artur Piszek
@@ -510,7 +516,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
-* !
+* [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/) 
 
 ### LLMOps
 
@@ -520,6 +526,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### AI Engineering
 
+* [Marvin](https://www.askmarvin.ai/): AI engineering framework for building natural language interfaces
+* [Instructor](https://jxnl.github.io/instructor/): library for structured LLM extraction in Python
 * [One AI](https://oneai.com/): an NLP-as-a-service platform
 * [LangSmith](https://www.langchain.com/langsmith): a developer platform for deploying LLM apps
 
