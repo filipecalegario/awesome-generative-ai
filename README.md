@@ -531,6 +531,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [LLM Evaluation at Scale – Airtrain](https://www.airtrain.ai/): no-code batch compute platform for LLM evaluation and tuning workloads
 * [How to evaluate a summarization task | OpenAI Cookbook](https://cookbook.openai.com/examples/evaluation/how_to_eval_abstractive_summarization) 
 * [openai/evals](https://github.com/openai/evals): Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 * [Red teaming and model evaluations | Anthropic](https://www.anthropic.com/uk-government-internal-ai-safety-policy-response/red-teaming-and-model-evaluations)
