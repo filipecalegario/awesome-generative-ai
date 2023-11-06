@@ -355,6 +355,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Inbox: Large Language Models (LLMs)
 
+* [🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
 * [How AI chatbots like ChatGPT or Bard work – visual explainer | The Guardian](https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer)
 * [cpacker/MemGPT](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [[demo page]](https://memgpt.ai/) [[arxiv]](https://arxiv.org/abs/2310.08560) 
 * [[2307.10169] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
