@@ -95,6 +95,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, maps, and definitions
 
+* [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/) 
 * [🔥🔥🔥] [[2310.07127] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
 * [The Building Blocks of Generative AI | by Jonathan Shriftman | Medium](https://shriftman.medium.com/the-building-blocks-of-generative-ai-a75350466a2f) 
 * [🔥] [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/): a visual story by Financial Times
@@ -357,6 +358,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Inbox: Large Language Models (LLMs)
 
+* [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/) 
 * [Demystifying LLMs: How they can do things they weren't trained to do - The GitHub Blog](https://github.blog/2023-10-27-demystifying-llms-how-they-can-do-things-they-werent-trained-to-do/) 
 * [🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
 * [How AI chatbots like ChatGPT or Bard work – visual explainer | The Guardian](https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer)
