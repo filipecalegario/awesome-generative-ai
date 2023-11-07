@@ -1018,6 +1018,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/filipecalegario/awesome-generative-ai.svg)](https://starchart.cc/filipecalegario/awesome-generative-ai)
+![](https://vbr.wocr.tk/badge?page_id=filipecalegario.awesome-generative-ai&color=55acb7&style=for-the-badge&logo=Github)
 
 ## Contribute
 
