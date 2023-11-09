@@ -911,6 +911,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Multimodal
 
+* [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments): Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
+
 ## Multimodal Embedding Space
 
 * [Microsoft KOSMOS-2](https://twitter.com/mervenoyann/status/1720126908384366649): new capabilities of perceiving object descriptions (e.g., bounding boxes) and grounding text to the visual world [[HF demo]](https://huggingface.co/spaces/ydshieh/Kosmos-2) [[arxiv]](https://arxiv.org/abs/2306.14824) 
