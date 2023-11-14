@@ -366,7 +366,6 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [🔥🔥] [State of LLM Apps 2023 · Streamlit](https://state-of-llm.streamlit.app/) 
 * [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/) 
 * [Demystifying LLMs: How they can do things they weren't trained to do - The GitHub Blog](https://github.blog/2023-10-27-demystifying-llms-how-they-can-do-things-they-werent-trained-to-do/) 
-* [🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
 * [How AI chatbots like ChatGPT or Bard work – visual explainer | The Guardian](https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer)
 * [cpacker/MemGPT](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [[demo page]](https://memgpt.ai/) [[arxiv]](https://arxiv.org/abs/2310.08560) 
 * [[2307.10169] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
@@ -486,7 +485,15 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/) 
 * [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
 
+### Running LLMs Locally
+
+* [🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
+* [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
+* [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
+* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+
 ### GPTs and Assistant API
+
 * [AllGPTs](https://allgpts.co/): a directory to find GPTs
 
 ### Retrieval-Augmented Generation (RAG)
