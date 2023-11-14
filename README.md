@@ -900,6 +900,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Code and Programming
 
+* [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 * [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 * [Cody](https://about.sourcegraph.com/cody): AI coding assistant
 * [Kombai](https://kombai.com/): generate UI code per component from Figma
