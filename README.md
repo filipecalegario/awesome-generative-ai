@@ -418,6 +418,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ### Prompt Engineering
 
 * [[2311.05661] Prompt Engineering a Prompt Engineer](https://arxiv.org/abs/2311.05661): this paper deals with the problem of "constructing a meta-prompt that more effectively guides LLMs to perform automatic prompt engineering"
+* [[2311.04155] Black-Box Prompt Optimization: Aligning Large Language Models without Model Training](https://arxiv.org/abs/2311.04155) 
 * [🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering) 
 * [🔥🔥🔥] [Learn Prompting](https://learnprompting.org/): series of lessons of prompt engineering
 * [🔥🔥🔥] [Prompt Engineering | Lil'Log](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/): prompt engineering learning notes by Lilian Weng
