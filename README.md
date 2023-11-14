@@ -359,8 +359,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Text
 
-## Inbox: Large Language Models (LLMs)
+## Large Language Models (LLMs)
 
+* [vectara/hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
 * [[2311.01555] Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers](https://arxiv.org/abs/2311.01555) 
 * [🔥🔥] [State of LLM Apps 2023 · Streamlit](https://state-of-llm.streamlit.app/) 
 * [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/) 
