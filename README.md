@@ -483,6 +483,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/) 
 * [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
 
+### GPTs and Assistant API
+* [AllGPTs](https://allgpts.co/): a directory to find GPTs
+
 ### Retrieval-Augmented Generation (RAG)
 
 * [imartinez/privateGPT](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
