@@ -859,6 +859,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 
 # Audio and Music
+
+* [An early look our AI Music experiment - YouTube Blog](https://blog.youtube/inside-youtube/ai-and-music-experiment/) 
 * [What's Generative Music? - Generative Music AI - YouTube](https://www.youtube.com/watch?v=9QNG56fc_l8&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=3) 
 * [Ultimate Vocal Remover](https://ultimatevocalremover.com/): vocal removal using AI
 * [Introducing Voicebox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech): The first generative AI model for speech to generalize across tasks with state-of-the-art performance
