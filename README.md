@@ -592,6 +592,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LangChain
 
+* [LangChain Cheatsheet](https://pub.towardsai.net/langchain-cheatsheet-all-secrets-on-a-single-page-8be26b721cde): All Secrets on a Single Page | by Ivan Reznikov | Nov, 2023 | Towards AI
 * [LangChain Template: Research Assistant](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
 * [Embedchain](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
 * [FlowiseAI](https://flowiseai.com/): "Open source UI visual tool to build your customized LLM flow using LangchainJS, written in Node Typescript/Javascript"
