@@ -182,6 +182,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+* [This new data poisoning tool lets artists fight back against generative AI | MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/) 
 * [The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labor Market by Xiang Hui, Oren Reshef, Luofeng Zhou :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527336) 
 * [AI in Education Group Meeting Notes - Google Docs](https://docs.google.com/document/d/1PPHwa3KmoeRZwaoxjOS568aF2E-kUngOA2oI45G2Iaw/edit)
 * [Syllabi Policies for AI Generative Tools - Google Docs](https://docs.google.com/document/d/1RMVwzjc1o0Mi8Blw_-JUTcXv02b2WRH86vw7mi16W3U/edit#heading=h.1cykjn2vg2wx) 
