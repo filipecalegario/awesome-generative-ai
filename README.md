@@ -871,6 +871,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Audio and Music
 
+* [Suno AI](https://www.suno.ai/): "make any song you can imagine"
 * [Riffusion](https://www.riffusion.com/): this AI system generates singing voice for literally any text as input
 * [Stable Audio - Generative AI for music & sound fx](https://www.stableaudio.com/) 
 * [An early look our AI Music experiment - YouTube Blog](https://blog.youtube/inside-youtube/ai-and-music-experiment/) 
