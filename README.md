@@ -850,6 +850,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [[Emu Video | Meta](https://emu-video.metademolab.com/) ](https://emu-video.metademolab.com/demo#/demo): state-of-the-art text-to-video generation
 * [AILab-CVC/VideoCrafter](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
 * [Ssemble](https://www.ssemble.com/): collaborative video editor with a collection of AI plugins
 * [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
@@ -871,6 +872,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Audio and Music
 
+* [Lyria by Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/): "transforming the future of music creation" 
 * [Suno AI](https://www.suno.ai/): "make any song you can imagine"
 * [Riffusion](https://www.riffusion.com/): this AI system generates singing voice for literally any text as input
 * [Stable Audio - Generative AI for music & sound fx](https://www.stableaudio.com/) 
