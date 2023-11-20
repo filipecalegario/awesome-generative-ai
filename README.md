@@ -185,6 +185,10 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+* [Risk and Harm: Unpacking Ideologies in the AI Discourse | Proceedings of the 5th International Conference on Conversational User Interfaces](https://dl.acm.org/doi/10.1145/3571884.3603751) 
+* [[2305.18654] Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/abs/2305.18654) 
+* [[2210.02667] A Human Rights-Based Approach to Responsible AI](https://arxiv.org/abs/2210.02667)
+* [On the Dangers of Stochastic Parrots | Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency](https://dl.acm.org/doi/10.1145/3442188.3445922) 
 * [This new data poisoning tool lets artists fight back against generative AI | MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/) 
 * [The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labor Market by Xiang Hui, Oren Reshef, Luofeng Zhou :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527336) 
 * [AI in Education Group Meeting Notes - Google Docs](https://docs.google.com/document/d/1PPHwa3KmoeRZwaoxjOS568aF2E-kUngOA2oI45G2Iaw/edit)
