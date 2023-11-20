@@ -97,6 +97,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, maps, and definitions
 
+* [[2310.04438] A Brief History of Prompt: Leveraging Language Models](https://arxiv.org/abs/2310.04438): the paper presents an exploration of the evolution of prompt engineering. The author, Golam Md Muktadir, extensively used ChatGPT for content generation
 * [An AI Engineer’s Guide to Machine Learning and Generative AI | by ai geek (wishesh) | Oct, 2023 | Medium](https://medium.com/@_aigeek/an-ai-engineers-guide-to-machine-learning-and-generative-ai-b7444941ccee) 
 * [Emerging Trends in Generative AI Research: A Selection of Recent Papers](https://txt.cohere.com/top-nlp-papers-september-2023/) 
 * [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/) 
@@ -431,6 +432,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Prompt Engineering
 
+* [[2310.04438] A Brief History of Prompt: Leveraging Language Models](https://arxiv.org/abs/2310.04438): the paper presents an exploration of the evolution of prompt engineering. The author, Golam Md Muktadir, extensively used ChatGPT for content generation
 * [[2311.05661] Prompt Engineering a Prompt Engineer](https://arxiv.org/abs/2311.05661): this paper deals with the problem of "constructing a meta-prompt that more effectively guides LLMs to perform automatic prompt engineering"
 * [[2311.04155] Black-Box Prompt Optimization: Aligning Large Language Models without Model Training](https://arxiv.org/abs/2311.04155) 
 * [🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering) 
