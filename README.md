@@ -875,6 +875,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Audio and Music
 
+* [Mustango](https://huggingface.co/spaces/declare-lab/mustango): "Toward Controllable Text-to-Music Generation"
 * [Lyria by Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/): "transforming the future of music creation" 
 * [Suno AI](https://www.suno.ai/): "make any song you can imagine"
 * [Riffusion](https://www.riffusion.com/): this AI system generates singing voice for literally any text as input
