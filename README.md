@@ -871,6 +871,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Audio and Music
 
+* [Riffusion](https://www.riffusion.com/): this AI system generates singing voice for literally any text as input
+* [Stable Audio - Generative AI for music & sound fx](https://www.stableaudio.com/) 
 * [An early look our AI Music experiment - YouTube Blog](https://blog.youtube/inside-youtube/ai-and-music-experiment/) 
 * [What's Generative Music? - Generative Music AI - YouTube](https://www.youtube.com/watch?v=9QNG56fc_l8&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=3) 
 * [Ultimate Vocal Remover](https://ultimatevocalremover.com/): vocal removal using AI
