@@ -1068,6 +1068,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Roadmaps, Tracks, Rails
 
+* [(1166) A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU&t=21s) 
 * [🔥🔥] [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/): introductory 12 lesson course by Microsoft
 * [Introduction to Generative AI](https://www.linkedin.com/posts/youssef-hosni-b2960b135_if-you-want-to-start-studying-generative-activity-7125908710702350336-vhsm/): series of Medium articles by Youssef Hosni
 * [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
