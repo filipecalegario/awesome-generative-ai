@@ -578,6 +578,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [[2311.12983] GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
 * [Sharing LangSmith Benchmarks](https://blog.langchain.dev/public-langsmith-benchmarks/) 
 * [[2311.09247] Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247) 
 * [vectara/hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
