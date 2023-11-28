@@ -327,6 +327,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Human-AI Interaction
 
+* [UX for AI: How to Power Human Experiences with AI - Design Tool Tuesday - YouTube](https://www.youtube.com/watch?v=50Of7_lubN4) 
 * [Behind-the-Design: Meet Copilot by Microsoft Design](https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70) 
 * [🔥🔥🔥] [[2310.07127] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
 * [Guidelines for Human-AI Interaction - Microsoft Research](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/): a set of "18 generally applicable design guidelines for human-AI" interaction
