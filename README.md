@@ -299,6 +299,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Courses and Educational Materials
 
+* [udlbook/udlbook](https://github.com/udlbook/udlbook?utm_source=alphasignalai.beehiiv.com&utm_medium=newsletter&utm_campaign=the-most-powerful-rag-chatbot): Understanding Deep Learning by Professor Simon J.D. Prince
 * [Book: Understanding Deep Learning](https://udlbook.github.io/udlbook/): website with the book draft and Google Colabs of the book by Simon J.D. Prince
 * [List of Generative AI Learning resources from AWS and Google](https://www.linkedin.com/posts/aagarwal29_generativeai-learn-aws-activity-7081761811129118720-i128/): list organized as a LinkedIn post by Ankit Agarwal
 * [How AI chatbots like ChatGPT or Bard work – visual explainer | The Guardian](https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer) 
