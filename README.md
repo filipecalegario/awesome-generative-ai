@@ -612,6 +612,11 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [One AI](https://oneai.com/): an NLP-as-a-service platform
 * [LangSmith](https://www.langchain.com/langsmith): a developer platform for deploying LLM apps
 
+### Attacks on LLMs
+
+* [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035): extracting training data from ChatGPT [[webpage]](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
+* [The Emerging Attacks on Large Language Models (LLMs)](https://www.linkedin.com/pulse/emerging-attacks-large-language-models-llms-soumak-roy/): "key attack vectors that threat actors can exploit to compromise or manipulate LLMs".
+
 ### LangChain
 
 * [LangChain Cheatsheet](https://pub.towardsai.net/langchain-cheatsheet-all-secrets-on-a-single-page-8be26b721cde): All Secrets on a Single Page | by Ivan Reznikov | Nov, 2023 | Towards AI
