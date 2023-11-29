@@ -616,6 +616,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Attacks on LLMs
 
+* [MITRE ATLAS™](https://atlas.mitre.org/): knowledge base of adversary tactics and techniques based on real-world attack observations and realistic demonstrations from AI red teams and security groups, modeled after the MITRE ATT&CK® framework.
 * [OWASP Top 10 for Large Language Model Applications](https://llmtop10.com/): the Open Worldwide Application Security Project's list related to LLMs [[Youtube video]](https://www.youtube.com/watch?v=engR9tYSsug)  
 * [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035): extracting training data from ChatGPT [[webpage]](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 * [The Emerging Attacks on Large Language Models (LLMs)](https://www.linkedin.com/pulse/emerging-attacks-large-language-models-llms-soumak-roy/): "key attack vectors that threat actors can exploit to compromise or manipulate LLMs".
