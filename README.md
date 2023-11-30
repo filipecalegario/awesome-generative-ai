@@ -586,6 +586,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [Amazon will offer human benchmarking teams to test AI models - The Verge](https://www.theverge.com/2023/11/29/23981129/amazon-aws-ai-model-evaluation-bias-toxicity) 
 * [[2311.05020] First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020): "that meaningful evaluation informed by actual use is still an open problem"
 * [[2311.12983] GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
 * [Sharing LangSmith Benchmarks](https://blog.langchain.dev/public-langsmith-benchmarks/) 
