@@ -586,6 +586,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [OpenAI Cookbook: Evaluating RAG systems | by Ravi Theja | Nov, 2023 | LlamaIndex Blog](https://blog.llamaindex.ai/openai-cookbook-evaluating-rag-systems-fe393c61fb93) 
 * [Amazon will offer human benchmarking teams to test AI models - The Verge](https://www.theverge.com/2023/11/29/23981129/amazon-aws-ai-model-evaluation-bias-toxicity) 
 * [[2311.05020] First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020): "that meaningful evaluation informed by actual use is still an open problem"
 * [[2311.12983] GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
