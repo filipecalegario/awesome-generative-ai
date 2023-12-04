@@ -518,6 +518,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### GPTs and Assistant API
 
+* [Featured GPTs](https://www.featuredgpts.com/):  curated custom GPTs list for daily tasks
 * [AllGPTs](https://allgpts.co/): a directory to find GPTs
 
 ### Retrieval-Augmented Generation (RAG)
