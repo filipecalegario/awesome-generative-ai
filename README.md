@@ -299,6 +299,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Courses and Educational Materials
 
+* [Introduction to Generative AI | SqillPlan](https://sqillplan.com/course?hash=-4862018582618510846): introduction to Generative AI, including models such as GANs, Variational Autoencoders, Autoregressive Models, and their applications, evaluation, ethics, and challenges
 * [udlbook/udlbook](https://github.com/udlbook/udlbook?utm_source=alphasignalai.beehiiv.com&utm_medium=newsletter&utm_campaign=the-most-powerful-rag-chatbot): Understanding Deep Learning by Professor Simon J.D. Prince
 * [Book: Understanding Deep Learning](https://udlbook.github.io/udlbook/): website with the book draft and Google Colabs of the book by Simon J.D. Prince
 * [List of Generative AI Learning resources from AWS and Google](https://www.linkedin.com/posts/aagarwal29_generativeai-learn-aws-activity-7081761811129118720-i128/): list organized as a LinkedIn post by Ankit Agarwal
@@ -882,6 +883,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [SDV (Stable Diffusion Image To Video)](https://twitter.com/stevemills/status/1727898404787986873?s=46&t=CQsRDjHr9sNtph3xC84hXQ): generates 3 seconds of video in about 30 seconds using an A100 GPU on Colab+.
 * [[Emu Video | Meta](https://emu-video.metademolab.com/) ](https://emu-video.metademolab.com/demo#/demo): state-of-the-art text-to-video generation
 * [AILab-CVC/VideoCrafter](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
 * [Ssemble](https://www.ssemble.com/): collaborative video editor with a collection of AI plugins
