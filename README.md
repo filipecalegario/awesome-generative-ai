@@ -962,6 +962,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Code and Programming
 
+* [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
 * [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 * [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 * [Cody](https://about.sourcegraph.com/cody): AI coding assistant
