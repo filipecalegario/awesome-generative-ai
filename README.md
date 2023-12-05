@@ -97,6 +97,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, maps, and definitions
 
+* [LLM Visualization](https://bbycroft.net/llm)
 * [[2310.04438] A Brief History of Prompt: Leveraging Language Models](https://arxiv.org/abs/2310.04438): the paper presents an exploration of the evolution of prompt engineering. The author, Golam Md Muktadir, extensively used ChatGPT for content generation
 * [An AI Engineer’s Guide to Machine Learning and Generative AI | by ai geek (wishesh) | Oct, 2023 | Medium](https://medium.com/@_aigeek/an-ai-engineers-guide-to-machine-learning-and-generative-ai-b7444941ccee) 
 * [Emerging Trends in Generative AI Research: A Selection of Recent Papers](https://txt.cohere.com/top-nlp-papers-september-2023/) 
@@ -381,6 +382,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Large Language Models (LLMs)
 
+* [LLM Visualization](https://bbycroft.net/llm)
 * [Automatic Hallucination detection with SelfCheckGPT NLI](https://huggingface.co/blog/dhuynh95/automatic-hallucination-detection) 
 * [StreamingLLM gives language models unlimited context](https://bdtechtalks.com/2023/11/27/streamingllm/): giving language models unlimited context
 * [iusztinpaul/hands-on-llms](https://github.com/iusztinpaul/hands-on-llms): learn about LLMs, LLMOps, and vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
@@ -1097,6 +1099,11 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 * [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
 * [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
+
+### Dimension reduction techniques
+
+* [Why you should use Topological Data Analysis over t-SNE or UMAP?](https://datarefiner.com/feed/why-tda) 
+* [YingfanWang/PaCMAP: PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure](https://github.com/YingfanWang/PaCMAP) 
 
 ## Roadmaps, Tracks, Rails
 
