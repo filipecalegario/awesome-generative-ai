@@ -519,6 +519,10 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
 * [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
 
+### Function Calling
+
+* [Nexusflow/NexusRaven-V2-13B · Hugging Face](https://huggingface.co/Nexusflow/NexusRaven-V2-13B): "surpassing GPT-4 for Zero-shot Function Calling"
+
 ### GPTs and Assistant API
 
 * [Featured GPTs](https://www.featuredgpts.com/):  curated custom GPTs list for daily tasks
