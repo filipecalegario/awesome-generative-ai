@@ -1103,7 +1103,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ### Dimension reduction techniques
 
 * [Why you should use Topological Data Analysis over t-SNE or UMAP?](https://datarefiner.com/feed/why-tda) 
-* [YingfanWang/PaCMAP: PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure](https://github.com/YingfanWang/PaCMAP) 
+* [YingfanWang/PaCMAP: PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure](https://github.com/YingfanWang/PaCMAP)
+* [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/abs/1802.03426)
+* [Visualizing Data using t-SNE](https://jmlr.org/papers/v9/vandermaaten08a.html) 
 
 ## Roadmaps, Tracks, Rails
 
