@@ -657,6 +657,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Text-related Generative Tools
 
+* [Elephas](https://elephas.app/?ref=filipecalegario-awesome-generative-ai): Personal AI writing assistant for the Mac.
+* [Lemmy](https://lemmy.co/?ref=filipecalegario-awesome-generative-ai): Autonomous AI Assistant for Work.
 * [Fable Fiesta](https://fablefiesta.com): Creative AI writing assistant
 * [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides): Create AI-powered presentations in Google Slides
 * [ChatBotKit](https://chatbotkit.com/): toolkit to build AI chat bots
@@ -685,6 +687,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### AI Tools for Research
 
+* [GummySearch](https://gummysearch.com/?ref=filipecalegario-awesome-generative-ai): AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 * [[2310.17143] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143) 
 * [Elicit](https://elicit.org/): automate research workflow for literature review
 * [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
@@ -702,6 +705,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Synthesis
 
+* [StockPhotoAI.net](https://www.stockphotoai.net/?ref=filipecalegario-awesome-generative-ai): Great stock photos, made for you.
 * [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
 * [deep-floyd/IF](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
 * [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
@@ -1099,6 +1103,11 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=filipecalegario-awesome-generative-ai): Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
+* [Aispect](https://aispect.io/?ref=filipecalegario-awesome-generative-ai): New way to experience events.
+* [SiteGPT](https://sitegpt.ai/?ref=filipecalegario-awesome-generative-ai): Make AI your expert customer support agent.
+* [PressPulse AI](https://www.presspulse.ai/?ref=filipecalegario-awesome-generative-ai): Get personalized media coverage leads every morning.
+* [GPTHelp.ai](https://gpthelp.ai/?ref=filipecalegario-awesome-generative-ai): ChatGPT for your website / AI customer support chatbot.
 * [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks 
 * [BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 * [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
