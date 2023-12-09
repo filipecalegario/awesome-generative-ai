@@ -787,6 +787,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [dreamlike.art](https://dreamlike.art/): image generator based on Stable Diffusion with fine-tuned models such as Dreamlike Photoreal 2.0. Users receive 1 credit per hour up to 50 credits
 * [AITWO.CO](https://aitwo.co/): a AI-powered design platform with multiple features
 * [aiimagegenerator.org](https://www.aiimagegenerator.org/): free AI art generator that supports Stable Diffusion txt2img and img2img generation, drawing and inpainting
+* [InteriorAIDesigns](https://interioraidesigns.com/): a platform which allows the easy redesign of rooms.
 * [Playground AI](https://playgroundai.com/): frontend for Stable Diffusion with 1000 image generations per day
 * [Astria](https://www.astria.ai/): tailor-made AI image generation
 * [drawanyone](https://drawanyone.com/): generate drawings based on five input images
@@ -794,6 +795,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [getimg.ai](https://getimg.ai/): Generate photo-realistic images from text using Stable Diffusion
 * [Enstil: Fast, open, AI-generated images](https://enstil.ai/?source=12)
 * [Dezgo - Text-to-Image AI generator](https://dezgo.com/)
+* [PhotoAIStudio](https://photoaistudio.com/): a AI-powered photoshot platform with multiple styles
 * [Baseten](https://app.baseten.co/apps/VqK2vYP/operator_views/pqvba2q): Stable Diffusion Demo
 * [DreamStudio](https://beta.dreamstudio.ai/): Frontend for Stable Diffusion API by Stability.ai
 * [Pollinations - pollinations/stable-diffusion-private](https://pollinations.ai/create/stablediffusion)
