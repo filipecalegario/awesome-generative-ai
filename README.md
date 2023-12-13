@@ -513,6 +513,10 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/) 
 * [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
 
+### Mamba
+
+* [[2312.00752] Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752): alternative to Transformer architecture.
+
 ### Running LLMs Locally
 
 * [🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
