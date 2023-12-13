@@ -517,7 +517,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 * [[2312.00752] Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752): alternative to Transformer architecture.
 * [Mamba: A shallow dive into a new architecture for LLMs | by Geronimo (@geronimo7) | Dec, 2023 | Medium](https://medium.com/@geronimo7/mamba-a-shallow-dive-into-a-new-architecture-for-llms-54c70ade5957)
-* [Mamba-Chat: A chat LLM based on the state-space model architecture](https://github.com/havenhq/mamba-chat)
+* [Mamba-Chat](https://github.com/havenhq/mamba-chat): A chat LLM based on the state-space model architecture
 
 ### Running LLMs Locally
 
