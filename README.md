@@ -1021,6 +1021,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Datasets
 
+* [Carolina](https://sites.usp.br/corpuscarolina/corpus/): General Corpus of Contemporary Brazilian Portuguese with provenance and typology information - Corpus Geral do Português Brasileiro Contemporâneo
 * [RedPajama-Data-v2 by Together AI](https://together.ai/blog/redpajama-data-v2): an open dataset with 30 trillion tokens for training Large Language Models 
 * [Have I Been Trained?](https://haveibeentrained.com/): tool for searching 5.8 billion images used to train popular AI art models
 * [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images): exploring 12 million of the 2.3 billion images used to train Stable Diffusion's image generator
