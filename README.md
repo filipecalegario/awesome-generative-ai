@@ -147,6 +147,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Ethics, Philosophical questions and Discussions about Generative AI
 
+* [Will AI’s Next Wave of Super Intelligence Replace Human Ingenuity? It’s Complicated - Grit Daily News](https://gritdaily.com/will-ais-super-intelligence-replace-human-ingenuity/) 
 * [Who is Afraid of Frankenstein? And of Generative AI? | Fast Company Brasil](https://fastcompanybrasil.com/tech/inteligencia-artificial/quem-tem-medo-do-frankenstein-e-da-ia-generativa/) [PT-BR]
 * [Hito Steyerl, Mean Images, NLR 140/141, March–June 2023](https://newleftreview.org/issues/ii140/articles/hito-steyerl-mean-images) 
 * [The copyright conundrum of AI art - The Verge](https://www.theverge.com/23961021/ai-art-copyright-training-ownership-fair-use) 
