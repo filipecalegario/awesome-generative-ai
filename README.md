@@ -671,6 +671,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Text-related Generative Tools
 
+* [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=filipecalegario-awesome-generative-ai): Forget about frustrating formulas in Google Sheets.
 * [Elephas](https://elephas.app/?ref=filipecalegario-awesome-generative-ai): Personal AI writing assistant for the Mac.
 * [Lemmy](https://lemmy.co/?ref=filipecalegario-awesome-generative-ai): Autonomous AI Assistant for Work.
 * [Fable Fiesta](https://fablefiesta.com): Creative AI writing assistant
