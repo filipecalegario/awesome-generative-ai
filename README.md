@@ -565,6 +565,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Autonomous LLM Agents
 
+* [Practices for Governing Agentic AI Systems](https://openai.com/research/practices-for-governing-agentic-ai-systems): paper by OpenAI that offers a set of practices for keeping agents’ operations safe and accountable.
 * [[2312.05230] Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning](https://arxiv.org/abs/2312.05230) 
 * [[2309.02427] Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427): "we draw on the rich history of cognitive science and symbolic artificial intelligence to propose Cognitive Architectures for Language Agents (CoALA)" 
 * [[2309.07864] The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
