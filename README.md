@@ -1040,6 +1040,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
 * [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
 * [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
+* [gabolsgabs/DALI](https://github.com/gabolsgabs/DALI): a large Dataset of synchronised Audio, LyrIcs and vocal notes
 
 # Misc
 
