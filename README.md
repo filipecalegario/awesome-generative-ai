@@ -527,6 +527,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Running LLMs Locally
 
+* [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer): a high-speed inference engine for deploying LLMs locally 
 * [🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
 * [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
 * [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
