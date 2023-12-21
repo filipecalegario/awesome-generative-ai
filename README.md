@@ -287,6 +287,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ## Generative AI Tools Directories
 
 * [ainave](https://www.ainave.com): "navigate the world of AI with ease", curated AI Tools and AI News
+* [AiSuperSmart Ai Tool Directory]([https://www.ainave.com](https://aisupersmart.com/ai-tools-directory/)): Find Ai Tools According to your Use Cases!
 * [HD Robots](https://hdrobots.com/): AI tools directory with chatbot assistant
 * [AIForme](https://www.aiforme.wiki/): AI tools discovery platform with comparison feature
 * [Technologies in LabLab](https://lablab.ai/tech): list of AI tools suggested by [lablab.ai](https://lablab.ai) for their hackathons
