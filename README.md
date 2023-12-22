@@ -389,6 +389,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Large Language Models (LLMs)
 
+* [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai): Sample code and notebooks for Generative AI on Google Cloud
 * [LLM Visualization](https://bbycroft.net/llm)
 * [Automatic Hallucination detection with SelfCheckGPT NLI](https://huggingface.co/blog/dhuynh95/automatic-hallucination-detection) 
 * [StreamingLLM gives language models unlimited context](https://bdtechtalks.com/2023/11/27/streamingllm/): giving language models unlimited context
