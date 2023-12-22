@@ -612,6 +612,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [Chatbot Arena](https://chat.lmsys.org/?arena): benchmarking LLMs through pairwise confrontation and evaluation
 * [[2311.12022] GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022) 
 * [OpenAI Cookbook: Evaluating RAG systems | by Ravi Theja | Nov, 2023 | LlamaIndex Blog](https://blog.llamaindex.ai/openai-cookbook-evaluating-rag-systems-fe393c61fb93) 
 * [Amazon will offer human benchmarking teams to test AI models - The Verge](https://www.theverge.com/2023/11/29/23981129/amazon-aws-ai-model-evaluation-bias-toxicity) 
