@@ -613,6 +613,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [LLM Testing Guide](https://go.kolena.com/llm-testing-guide): Comprehensive Strategies for Testing and Behavior Analysis by Kolena
 * [Chatbot Arena](https://chat.lmsys.org/?arena): benchmarking LLMs through pairwise confrontation and evaluation
 * [[2311.12022] GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022) 
 * [OpenAI Cookbook: Evaluating RAG systems | by Ravi Theja | Nov, 2023 | LlamaIndex Blog](https://blog.llamaindex.ai/openai-cookbook-evaluating-rag-systems-fe393c61fb93) 
