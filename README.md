@@ -1138,6 +1138,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [FairyTailAI](https://fairytailai.com/): Personalized bedtime story generator
 * [PromptPal](https://promptpal.net): Search for prompts and bots, then use them with your favourite AI. All in one place.
 * [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=filipecalegario-awesome-generative-ai): Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
 * [Aispect](https://aispect.io/?ref=filipecalegario-awesome-generative-ai): New way to experience events.
