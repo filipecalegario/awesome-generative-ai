@@ -101,6 +101,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, maps, and definitions
 
+* [The Four Wars of the AI Stack (Dec 2023 Recap)](https://www.latent.space/p/dec-2023): "recap of top items for the AI Engineer from Dec 2023" ("The Data Wars, The War of the GPU Rich/Poor, The Multimodality War, The RAG/Ops War")
 * [GenAI Prism Infographic by Brian Solis](https://briansolis.com/2023/12/introducing-the-genai-prism-infographic-a-framework-for-colalborating-with-generative-ai/): A Framework for Collaborating with Generative AI
 * [LLM Visualization](https://bbycroft.net/llm)
 * [[2310.04438] A Brief History of Prompt: Leveraging Language Models](https://arxiv.org/abs/2310.04438): the paper presents an exploration of the evolution of prompt engineering. The author, Golam Md Muktadir, extensively used ChatGPT for content generation
