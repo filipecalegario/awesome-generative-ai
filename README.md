@@ -682,6 +682,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Text-related Generative Tools
 
+* [aiPDF](https://aipdf.ai): The most advanced AI document assistant
 * [AICamp](https://aicamp.so/): ChatGPT for Teams
 * [Yomu](https://www.yomu.ai): AI writing assistant for students and academics
 * [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=filipecalegario-awesome-generative-ai): Forget about frustrating formulas in Google Sheets.
