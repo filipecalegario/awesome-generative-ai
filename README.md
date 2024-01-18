@@ -717,6 +717,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### AI Tools for Research
 
+* [Unlocking productivity and personalizing learning with AI | Microsoft EDU](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai) 
 * [Sourcely](https://www.sourcely.net/): Academic Citation Finding Tool with AI
 * [GummySearch](https://gummysearch.com/?ref=filipecalegario-awesome-generative-ai): AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 * [[2310.17143] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143) 
