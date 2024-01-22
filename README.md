@@ -366,6 +366,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [Recast Studio](https://recast.studio): AI-powered podcast marketing assistant.
 * [Clipwing](https://clipwing.pro/): A tool for cutting long videos into dozens of short clips.
 * [Tailor](https://www.usetailor.com): Get a daily podcast and newsletter, created for you by an AI
 * [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
