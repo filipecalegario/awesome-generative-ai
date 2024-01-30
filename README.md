@@ -1147,6 +1147,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [LinkActions](https://linkactions.com): AI Internal Links Assistant 
 * [Marblism](https://marblism.com): Generate a SaaS boilerplate from a prompt
 * [SiteSpeakAI](https://sitespeak.ai): Automate your customer support with AI
 * [Room Reinvented](https://roomreinvented.com): Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
