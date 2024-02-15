@@ -370,6 +370,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [AI-Flow](https://ai-flow.net/): Connect multiple AI models easily
 * [Code to Flow](https://codetoflow.com): Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
 * [Recast Studio](https://recast.studio): AI-powered podcast marketing assistant.
 * [Clipwing](https://clipwing.pro/): A tool for cutting long videos into dozens of short clips.
