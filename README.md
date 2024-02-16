@@ -941,6 +941,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [Sora](https://openai.com/sora): OpenAI's text-to-video model [[technical report]](https://openai.com/research/video-generation-models-as-world-simulators)
 * [SDV (Stable Diffusion Image To Video)](https://twitter.com/stevemills/status/1727898404787986873?s=46&t=CQsRDjHr9sNtph3xC84hXQ): generates 3 seconds of video in about 30 seconds using an A100 GPU on Colab+.
 * [[Emu Video | Meta](https://emu-video.metademolab.com/) ](https://emu-video.metademolab.com/demo#/demo): state-of-the-art text-to-video generation
 * [AILab-CVC/VideoCrafter](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
