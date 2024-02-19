@@ -1027,6 +1027,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Code and Programming
 
+* [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/) 
 * [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
 * [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
 * [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
