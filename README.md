@@ -371,6 +371,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [TrollyAI](https://trolly.ai/): Create professional SEO articles, 2x faster
+* [WebscrapeAI](https://webscrapeai.com/): Scrape any website without code using AI
 * [Architecture Helper](https://architecturehelper.com): Analyze any building architecture, and generate your own custom styles, in seconds.
 * [AI-Flow](https://ai-flow.net/): Connect multiple AI models easily
 * [Code to Flow](https://codetoflow.com): Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
