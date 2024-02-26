@@ -15,6 +15,7 @@
 - [Text](#text)
   - [Large Language Models (LLMs)](#large-language-models-llms)
     - [Prompt Engineering](#prompt-engineering)
+      - [Prompt Optimizers](#prompt-optimizers)
       - [Prompt Engineering for Text-to-text](#prompt-engineering-for-text-to-text)
       - [Prompt Engineering for Text-to-image](#prompt-engineering-for-text-to-image)
     - [Mamba](#mamba)
