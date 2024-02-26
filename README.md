@@ -491,6 +491,13 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [the Book](https://fedhoneypot.notion.site/25fdbdb69e9e44c6877d79e18336fe05?v=1d2bf4143680451986fd2836a04afbf4): collection of prompts and hints of prompt engineering
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
 
+#### Prompt Optimizers
+
+* [🔥🔥🔥] [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
+* [vaibkumr/prompt-optimizer](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
+* [PromptPerfect](https://promptperfect.jina.ai/): "Optimize Your Prompts to Perfection"
+* [🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
+
 #### Prompt Engineering for Text-to-text
 
 * [ChatGPT for designers](https://tibidavid.gumroad.com/l/ChatGPT-Cheat-Sheet-V2?ref=filipecalegario-awesome-generative-ai): ChatGPT Cheat Sheet V2 to craft better prompts
