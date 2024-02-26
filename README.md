@@ -1173,6 +1173,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [Inline Help](https://inlinehelp.com): Answer customer questions before they ask
 * [LinkActions](https://linkactions.com): AI Internal Links Assistant 
 * [Marblism](https://marblism.com): Generate a SaaS boilerplate from a prompt
 * [SiteSpeakAI](https://sitespeak.ai): Automate your customer support with AI
