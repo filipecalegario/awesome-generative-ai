@@ -1186,6 +1186,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [scale.jobs](https://www.scale.jobs/): Hire a Human Career Assistant for your Job Hunt
 * [Inline Help](https://inlinehelp.com): Answer customer questions before they ask
 * [LinkActions](https://linkactions.com): AI Internal Links Assistant 
 * [Marblism](https://marblism.com): Generate a SaaS boilerplate from a prompt
