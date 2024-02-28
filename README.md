@@ -411,6 +411,10 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Text
 
+## Small Language Models
+* [[2402.17764] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764) 
+* [mbzuai-oryx/MobiLlama](https://github.com/mbzuai-oryx/MobiLlama): Small Language Model tailored for edge devices
+
 ## Large Language Models (LLMs)
 
 * [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
