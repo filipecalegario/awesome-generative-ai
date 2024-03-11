@@ -412,6 +412,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 # Text
 
 ## Small Language Models
+
 * [[2402.17764] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764) 
 * [mbzuai-oryx/MobiLlama](https://github.com/mbzuai-oryx/MobiLlama): Small Language Model tailored for edge devices
 
@@ -653,6 +654,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [qcri/LLMeBench](https://github.com/qcri/LLMeBench/): Benchmarking Large Language Models
+* [TruLens for LLMs](https://www.trulens.org/): Evaluate and Track LLM Applications
 * [LLM Testing Guide](https://go.kolena.com/llm-testing-guide): Comprehensive Strategies for Testing and Behavior Analysis by Kolena
 * [Chatbot Arena](https://chat.lmsys.org/?arena): benchmarking LLMs through pairwise confrontation and evaluation
 * [[2311.12022] GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022) 
