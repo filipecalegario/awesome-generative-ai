@@ -374,6 +374,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [Interview Solver](https://interviewsolver.com): Ace your live coding interviews with our AI Copilot
 * [Persuva](https://persuva.ai): Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 * [Dittto.ai](https://dittto.ai): Fix your hero copy with an AI trained on top SaaS websites.
 * [SEOByAI](https://seoby.ai): Rank Faster on Google with FREE AI SEO Tools
