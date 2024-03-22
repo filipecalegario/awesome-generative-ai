@@ -1191,6 +1191,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [AI Wedding Toast](https://aiweddingtoast.com): Generate a personalized wedding speech with AI
 * [Interviews Chat](https://www.interviews.chat/): Your Personal Interview Prep & Copilot
 * [Inline Help](https://inlinehelp.com): Answer customer questions before they ask
 * [LinkActions](https://linkactions.com): AI Internal Links Assistant 
