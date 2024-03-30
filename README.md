@@ -1191,6 +1191,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [Taskbase](https://www.taskbase.co.uk): Virtual assistants packaged with AI powered software.
 * [Interviews Chat](https://www.interviews.chat/): Your Personal Interview Prep & Copilot
 * [Inline Help](https://inlinehelp.com): Answer customer questions before they ask
 * [LinkActions](https://linkactions.com): AI Internal Links Assistant 
