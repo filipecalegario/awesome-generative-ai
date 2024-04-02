@@ -152,6 +152,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Ethics, Philosophical questions and Discussions about Generative AI
 
+* [Understanding how personality traits, experiences, and attitudes shape negative bias toward AI-generated artworks | Scientific Reports](https://www.nature.com/articles/s41598-024-54294-4) 
 * [Tracking AI](https://trackingai.org/): Monitoring Bias in Artificial Intelligence Chatbots
 * [Will AI’s Next Wave of Super Intelligence Replace Human Ingenuity? It’s Complicated - Grit Daily News](https://gritdaily.com/will-ais-super-intelligence-replace-human-ingenuity/) 
 * [Who is Afraid of Frankenstein? And of Generative AI? | Fast Company Brasil](https://fastcompanybrasil.com/tech/inteligencia-artificial/quem-tem-medo-do-frankenstein-e-da-ia-generativa/) [PT-BR]
