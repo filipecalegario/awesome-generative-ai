@@ -1195,6 +1195,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [fynk](https://fynk.com/): AI powered contract management software   
 * [Taskbase](https://www.taskbase.co.uk): Virtual assistants packaged with AI powered software.
 * [AI Wedding Toast](https://aiweddingtoast.com): Generate a personalized wedding speech with AI
 * [Interviews Chat](https://www.interviews.chat/): Your Personal Interview Prep & Copilot
