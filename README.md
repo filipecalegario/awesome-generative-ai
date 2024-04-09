@@ -411,6 +411,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Snowpixel](https://snowpixel.app): Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
 * [Chatpdf.so](https://chatpdf.so): Talk to PDF using GPT4 AI. Chatpdf.so is a chatpdf tool that lets you do question answering on your pdf documents.
 * [Yona.ai](https://yona.ai): Create deeply personalized AI chatbots from your own conversations, your stories, your data. You can harness the power of your chat history to build an AI companion for a nostalgic trip down memory lane, whimsical fantasies, or any other unique purpose.
+[Voicesphere](https://www.voicesphere.co/): Chat with your documents to get intelligent, context specific answers.
+
 
 # Text
 
