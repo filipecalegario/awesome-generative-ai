@@ -376,6 +376,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [VocalReplica](https://vocalreplica.com/): AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks
 * [LangMagic](https://easytolearn.io): Learn languages from native content.
 * [Persuva](https://persuva.ai): Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 * [Dittto.ai](https://dittto.ai): Fix your hero copy with an AI trained on top SaaS websites.
