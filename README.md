@@ -199,6 +199,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+* [When Will the GenAI Bubble Burst? - by Gary Marcus](https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst) 
 * [Nightshade, the tool that ‘poisons’ data, gives artists a fighting chance against AI | TechCrunch](https://techcrunch.com/2024/01/26/nightshade-the-tool-that-poisons-data-gives-artists-a-fighting-chance-against-ai/)
 * [How AI Fails Us | Edmond & Lily Safra Center for Ethics](https://ethics.harvard.edu/how-ai-fails-us) 
 * [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/midjourney-copyright): "Experiments with Midjourney and DALL-E 3 show a copyright minefield"
