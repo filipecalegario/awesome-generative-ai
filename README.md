@@ -610,6 +610,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Embeddings and Semantic Search
 
+* [The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI) 
 * [neuml/txtai](https://github.com/neuml/txtai): semantic search and workflows powered by language models
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors 
 * [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
