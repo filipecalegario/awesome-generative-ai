@@ -770,7 +770,6 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Research AI Tools
 
-
 ### AI Tools for Research
 
 * [Unlocking productivity and personalizing learning with AI | Microsoft EDU](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai) 
@@ -1120,6 +1119,10 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [gabolsgabs/DALI](https://github.com/gabolsgabs/DALI): a large Dataset of synchronised Audio, LyrIcs and vocal notes
 
 # Misc
+
+## AI and Education
+
+* [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788) 
 
 ## People and works
 
