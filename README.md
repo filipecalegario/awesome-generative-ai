@@ -610,6 +610,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Embeddings and Semantic Search
 
+* [🪆 Introduction to Matryoshka Embedding Models](https://huggingface.co/blog/matryoshka) 
 * [Getting creative with embeddings by Amelia Wattenberger](https://wattenberger.com/thoughts/yay-embeddings-math) 
 * [The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI) 
 * [neuml/txtai](https://github.com/neuml/txtai): semantic search and workflows powered by language models
