@@ -671,7 +671,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ### LLM Evaluation
 
 * [MLGroupJLU/LLM-eval-survey: The official GitHub page for the survey paper "A Survey on Evaluation of Large Language Models".](https://github.com/MLGroupJLU/LLM-eval-survey) 
-* [A Survey on Evaluation of Large Language Models | ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/doi/10.1145/3641289) 
+* [A Survey on Evaluation of Large Language Models | ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/doi/10.1145/3641289)
+* [[2307.03109] A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109) 
 * [qcri/LLMeBench](https://github.com/qcri/LLMeBench/): Benchmarking Large Language Models
 * [TruLens for LLMs](https://www.trulens.org/): Evaluate and Track LLM Applications
 * [LLM Testing Guide](https://go.kolena.com/llm-testing-guide): Comprehensive Strategies for Testing and Behavior Analysis by Kolena
