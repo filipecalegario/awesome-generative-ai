@@ -378,6 +378,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [[PDF] Automating Generative Deep Learning for Artistic Purposes: Challenges and Opportunities | Semantic Scholar](https://www.semanticscholar.org/paper/Automating-Generative-Deep-Learning-for-Artistic-Berns-Broad/f3479740d4ec7f91b6d7a01167e9c875a72d386e)
 
 ## Online Tools and Applications
+
 * [No-Code Scraper](https://www.nocodescraper.com/): Data Scraping without Code - Seamlessly extract data from any website with just a few simple inputs.
 * [BacklinkGPT](https://www.backlinkgpt.com/): AI-powered link-building platform that helps you generate personalized outreach messages for faster link building.
 * [VocalReplica](https://vocalreplica.com/): AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks
@@ -429,6 +430,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Large Language Models (LLMs)
 
+* [Open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html) 
 * [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
 * [Groq](https://groq.com/): service focused on fast inference speed, providing API access to Llama 2 70B-4K and Mixtral 8x7B-32K 
 * [🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
