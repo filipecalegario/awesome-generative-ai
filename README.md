@@ -802,6 +802,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Synthesis
 
+* [X Headshot](https://xheadshot.com): Professional AI Headshot Generator
 * [OutfitAnyone - a Hugging Face Space by HumanAIGC](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone): Ultra-high quality virtual try-on for Any Clothing and Any Person
 * [StockPhotoAI.net](https://www.stockphotoai.net/?ref=filipecalegario-awesome-generative-ai): Great stock photos, made for you.
 * [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
