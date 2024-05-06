@@ -675,6 +675,11 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [LLM Evaluation Metrics: Everything You Need for LLM Evaluation - Confident AI](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
+* [Criteria Evaluation | 🦜️🔗 LangChain](https://python.langchain.com/docs/guides/productionization/evaluation/string/criteria_eval_chain/)
+* [Evaluation of LLMs - Part 2](https://blog.premai.io/evaluation-of-llms-part-2/)
+* [The Crucial Role of Model Evaluation in LLM and AI Integrations](https://www.linkedin.com/pulse/crucial-role-model-evaluation-llm-ai-integrations-vijay-chaudhary)
+* [[2403.16950] Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators](https://arxiv.org/abs/2403.16950)
 * [MLGroupJLU/LLM-eval-survey: The official GitHub page for the survey paper "A Survey on Evaluation of Large Language Models".](https://github.com/MLGroupJLU/LLM-eval-survey) 
 * [A Survey on Evaluation of Large Language Models | ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/doi/10.1145/3641289)
 * [[2307.03109] A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109) 
