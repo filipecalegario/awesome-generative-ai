@@ -675,6 +675,17 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [LLM Evaluation: Everything You Need To Run, Benchmark Evals](https://arize.com/blog-course/llm-evaluation-the-definitive-guide/)
+* [The Ultimate Guide to LLM Product Evaluation](https://blog.context.ai/the-ultimate-guide-to-llm-product-evaluation/)
+* [How to Evaluate, Compare, and Optimize LLM Systems](https://www.linkedin.com/pulse/how-evaluate-compare-optimize-llm-systems-b%C3%BClent-uyaniker-jw4qc)
+* [LLM Evaluation | Clarifai Guide](https://docs.clarifai.com/portal-guide/evaluate/llms/)
+* [How to Evaluate LLM Applications: The Complete Guide - Confident AI](https://www.confident-ai.com/blog/how-to-evaluate-llm-applications)
+* [AI Evaluation Metrics | Microsoft Learn](https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/eval-metrics)
+* [How to Evaluate Large Language Model Outputs: Current Best Practices | FinetuneDB](https://finetunedb.com/blog/how-to-evaluate-large-language-model-outputs/)
+* [The Ultimate Guide to LLM Evaluation | Deci](https://deci.ai/blog/llm-evaluation-ultimate-guide/)
+* [Large Language Model Evaluation in 2024: 5 Methods](https://research.aimultiple.com/large-language-model-evaluation/)
+* [Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators](https://arxiv.org/html/2403.16950v2)
+* [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) 
 * [LLM Evaluation Metrics: Everything You Need for LLM Evaluation - Confident AI](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
 * [Criteria Evaluation | 🦜️🔗 LangChain](https://python.langchain.com/docs/guides/productionization/evaluation/string/criteria_eval_chain/)
 * [Evaluation of LLMs - Part 2](https://blog.premai.io/evaluation-of-llms-part-2/)
