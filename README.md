@@ -499,6 +499,11 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Haystack](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 * [SolidUI](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
+### Programming Frameworks for LLMs
+
+* [DSPy: Not Your Average Prompt Engineering](https://jina.ai/news/dspy-not-your-average-prompt-engineering/): a post about the DSPy, a framework developed by the Stanford NLP group aimed at algorithmically optimizing language model prompts
+* [🔥🔥🔥] [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
+
 ### Prompt Engineering
 
 * [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering): OpenAI's document with strategies and tactics for getting better results from large language models
