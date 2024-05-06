@@ -9,3 +9,5 @@
 * [The Ultimate Guide to LLM Evaluation | Deci](https://deci.ai/blog/llm-evaluation-ultimate-guide/)
 * [Large Language Model Evaluation in 2024: 5 Methods](https://research.aimultiple.com/large-language-model-evaluation/)
 * [Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators](https://arxiv.org/html/2403.16950v2)
+
+* [[2306.05685] Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) 
