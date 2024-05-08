@@ -102,7 +102,13 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, timelines, maps, and definitions
 
-* [Artificial Intelligence Learning Roadmap [AI Roadmap] 2024](https://www.mltut.com/artificial-intelligence-learning-roadmap/) 
+
+* [Artificial Intelligence Learning Roadmap [AI Roadmap] 2024](https://www.mltut.com/artificial-intelligence-learning-roadmap/)
+* [A Brief History of Generative AI - DATAVERSITY](https://www.dataversity.net/a-brief-history-of-generative-ai/) 
+* [A Simple Guide To The History Of Generative AI | Bernard Marr](https://bernardmarr.com/a-simple-guide-to-the-history-of-generative-ai/) 
+* [Generative AI Timeline from January 2023 to July 2023](https://generativeaitimeline.com/) 
+* [The rise of generative AI: A timeline of triumphs, hiccups and hype | CIO Dive](https://www.ciodive.com/news/generative-ai-one-year-chatgpt-openai-timeline/698110/) 
+* [Brief History In Time: Decoding the Evolution of Generative AI | LinkedIn](https://www.linkedin.com/pulse/brief-history-time-decoding-evolution-generative-ai-csmtechnologies/) 
 * [🔥🔥🔥] [FirstMark | 2024 MAD (ML/AI/Data) Landscape](https://mad.firstmark.com/): Full Steam Ahead The 2024 MAD (Machine Learning, AI & Data) Landscape
 * [Timeline of AI forecasts - AI Digest](https://theaidigest.org/timeline) 
 * [🔥🔥🔥] [Generative AI in a nutshell](https://blog.crisp.se/wp-content/uploads/2024/01/generative-AI-in-a-nutshell.png): a map with the most common Generative AI' concepts by Henrik Kniberg [Youtube Video explaining the map](https://www.youtube.com/watch?v=2IK3DFHRFfw) 
