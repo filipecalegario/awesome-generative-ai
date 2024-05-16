@@ -102,7 +102,6 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, timelines, maps, and definitions
 
-
 * [Artificial Intelligence Learning Roadmap [AI Roadmap] 2024](https://www.mltut.com/artificial-intelligence-learning-roadmap/)
 * [A Brief History of Generative AI - DATAVERSITY](https://www.dataversity.net/a-brief-history-of-generative-ai/) 
 * [A Simple Guide To The History Of Generative AI | Bernard Marr](https://bernardmarr.com/a-simple-guide-to-the-history-of-generative-ai/) 
@@ -161,6 +160,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Ethics, Philosophical questions and Discussions about Generative AI
 
+* [Generative AI Ethics: 8 Biggest Concerns and Risks](https://www.techtarget.com/searchenterpriseai/tip/Generative-AI-ethics-8-biggest-concerns) 
 * [Automated Social Science: Language Models as Scientist and Subjects | NBER](https://www.nber.org/papers/w32381) 
 * [It’s time to retire the term “user”](https://www.technologyreview.com/2024/04/19/1090872/ai-users-people-terms/): the proliferation of AI means we need a new word
 * [Understanding how personality traits, experiences, and attitudes shape negative bias toward AI-generated artworks | Scientific Reports](https://www.nature.com/articles/s41598-024-54294-4) 
