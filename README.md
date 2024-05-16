@@ -308,6 +308,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Generative AI Tools Directories
 
+* [Altern](https://altern.ai/?utm_source=awesomeaitools): "Gateway to AI Discoveries"
 * [ainave](https://www.ainave.com): "navigate the world of AI with ease", curated AI Tools and AI News
 * [AI Search](https://ai-search.io): Find AI Tools & Apps | Search The Most Complete AI Tools Directory | AI Search
 * [AiSuperSmart Ai Tool Directory](https://aisupersmart.com/ai-tools-directory/): Find Ai Tools According to your Use Cases!
