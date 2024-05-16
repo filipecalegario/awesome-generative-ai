@@ -389,6 +389,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [StartKit.AI](https://startkit.ai): Boilerplate for quickly building AI products
 * [No-Code Scraper](https://www.nocodescraper.com/): Data Scraping without Code - Seamlessly extract data from any website with just a few simple inputs.
 * [BacklinkGPT](https://www.backlinkgpt.com/): AI-powered link-building platform that helps you generate personalized outreach messages for faster link building.
 * [VocalReplica](https://vocalreplica.com/): AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks
