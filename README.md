@@ -1253,6 +1253,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [Podify.io](https://podify.io): Leverage AI and community to grow on LinkedIn
 * [fynk](https://fynk.com/): AI powered contract management software   
 * [Taskbase](https://www.taskbase.co.uk): Virtual assistants packaged with AI powered software.
 * [AI Wedding Toast](https://aiweddingtoast.com): Generate a personalized wedding speech with AI
