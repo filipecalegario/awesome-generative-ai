@@ -442,6 +442,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Large Language Models (LLMs)
 
+* [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time
 * [[2405.03825] Organizing a Society of Language Models: Structures and Mechanisms for Enhanced Collective Intelligence](https://arxiv.org/abs/2405.03825) 
 * [Open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html) 
 * [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
