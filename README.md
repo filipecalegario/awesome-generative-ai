@@ -782,6 +782,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Text-related Generative Tools
 
+* [BlogFox](https://blogfox.ai): Generate impressive blogs from a Youtube video or SEO keywords at scale.
 * [Jack AI](https://www.usejackai.com): AI Marketing Copywriter tool
 * [aiPDF](https://aipdf.ai): The most advanced AI document assistant
 * [AICamp](https://aicamp.so/): ChatGPT for Teams
