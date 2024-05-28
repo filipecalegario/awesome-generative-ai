@@ -695,6 +695,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [LLM Evaluation](https://llm-eval.github.io/): research on evaluation of LLMs conducted by Microsoft Research and other collaborated institutes. (Updated at: 2023/10) 
 * [LLM Evaluation: Everything You Need To Run, Benchmark Evals](https://arize.com/blog-course/llm-evaluation-the-definitive-guide/)
 * [The Ultimate Guide to LLM Product Evaluation](https://blog.context.ai/the-ultimate-guide-to-llm-product-evaluation/)
 * [How to Evaluate, Compare, and Optimize LLM Systems](https://www.linkedin.com/pulse/how-evaluate-compare-optimize-llm-systems-b%C3%BClent-uyaniker-jw4qc)
