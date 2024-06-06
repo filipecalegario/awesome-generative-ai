@@ -109,7 +109,8 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [The rise of generative AI: A timeline of triumphs, hiccups and hype | CIO Dive](https://www.ciodive.com/news/generative-ai-one-year-chatgpt-openai-timeline/698110/) 
 * [Brief History In Time: Decoding the Evolution of Generative AI | LinkedIn](https://www.linkedin.com/pulse/brief-history-time-decoding-evolution-generative-ai-csmtechnologies/) 
 * [🔥🔥🔥] [FirstMark | 2024 MAD (ML/AI/Data) Landscape](https://mad.firstmark.com/): Full Steam Ahead The 2024 MAD (Machine Learning, AI & Data) Landscape
-* [Timeline of AI forecasts - AI Digest](https://theaidigest.org/timeline) 
+* [Timeline of AI forecasts - AI Digest](https://theaidigest.org/timeline)
+* [Generative AI Iceberg](https://icebergcharts.com/i/Generative_AI) 
 * [🔥🔥🔥] [Generative AI in a nutshell](https://blog.crisp.se/wp-content/uploads/2024/01/generative-AI-in-a-nutshell.png): a map with the most common Generative AI' concepts by Henrik Kniberg [Youtube Video explaining the map](https://www.youtube.com/watch?v=2IK3DFHRFfw) 
 * [60+ Generative AI Terms You Must Know By Heart](https://www.analyticsvidhya.com/blog/2024/01/generative-ai-terms/): by Analytics Vidhya
 * [The Four Wars of the AI Stack (Dec 2023 Recap)](https://www.latent.space/p/dec-2023): "recap of top items for the AI Engineer from Dec 2023" ("The Data Wars, The War of the GPU Rich/Poor, The Multimodality War, The RAG/Ops War")
