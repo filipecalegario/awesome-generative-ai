@@ -696,6 +696,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [Prometheus-2 Cookbook - LlamaIndex](https://docs.llamaindex.ai/en/latest/examples/cookbooks/prometheus2_cookbook/): "An Open Source Language Model Specialized in Evaluating Other Language Models."
 * [[2305.13711] LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models](https://arxiv.org/abs/2305.13711) 
 * [LLM Evaluation](https://llm-eval.github.io/): research on evaluation of LLMs conducted by Microsoft Research and other collaborated institutes. (Updated at: 2023/10) 
 * [LLM Evaluation: Everything You Need To Run, Benchmark Evals](https://arize.com/blog-course/llm-evaluation-the-definitive-guide/)
