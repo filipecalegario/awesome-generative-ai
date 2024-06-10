@@ -1268,6 +1268,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [ResumeDive](https://resumedive.com): A resume boosting service using AI
 * [Owlbot](https://www.owlbot.ai/): AI Support Agent
 * [fynk](https://fynk.com/): AI powered contract management software   
 * [Taskbase](https://www.taskbase.co.uk): Virtual assistants packaged with AI powered software.
