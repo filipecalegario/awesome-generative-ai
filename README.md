@@ -1295,6 +1295,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
 * [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
 * [Taplio](https://taplio.com/?ref=filipecalegario-awesome-generative-ai): The all-in-one, AI-powered LinkedIn tool.
+* [Galichat.com](https://www.galichat.com/?ref=filipecalegario-awesome-generative-ai): AI Support Assistant that helps you grow your business.
 
 ### Dimension reduction techniques
 
