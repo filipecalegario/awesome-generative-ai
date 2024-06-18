@@ -538,6 +538,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 #### Prompt Optimizers
 
+* [zou-group/textgrad](https://github.com/zou-group/textgrad): Automatic "Differentiation" via Text, using large language models to backpropagate textual gradients.
 * [🔥🔥🔥] [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
 * [vaibkumr/prompt-optimizer](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
 * [PromptPerfect](https://promptperfect.jina.ai/): "Optimize Your Prompts to Perfection"
