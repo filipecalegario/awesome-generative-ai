@@ -1279,6 +1279,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [goDeskless](https://godeskless.com/): Optimize field service and boosts customer satisfaction.
 * [ResumeDive](https://resumedive.com): A resume boosting service using AI
 * [Owlbot](https://www.owlbot.ai/): AI Support Agent
 * [fynk](https://fynk.com/): AI powered contract management software   
