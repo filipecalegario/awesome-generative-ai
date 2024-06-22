@@ -392,6 +392,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [Context Data](https://contextdata.ai/): Data Processing & ETL infrastructure for Generative AI applications
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
 * [StartKit.AI](https://startkit.ai): Boilerplate for quickly building AI products
