@@ -161,6 +161,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Ethics, Philosophical questions and Discussions about Generative AI
 
+* [The Five Stages Of AI Grief - NOEMA](https://www.noemamag.com/the-five-stages-of-ai-grief/) 
 * [Generative AI Ethics: 8 Biggest Concerns and Risks](https://www.techtarget.com/searchenterpriseai/tip/Generative-AI-ethics-8-biggest-concerns) 
 * [Automated Social Science: Language Models as Scientist and Subjects | NBER](https://www.nber.org/papers/w32381) 
 * [It’s time to retire the term “user”](https://www.technologyreview.com/2024/04/19/1090872/ai-users-people-terms/): the proliferation of AI means we need a new word
