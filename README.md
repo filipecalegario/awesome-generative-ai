@@ -437,6 +437,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Yona.ai](https://yona.ai): Create deeply personalized AI chatbots from your own conversations, your stories, your data. You can harness the power of your chat history to build an AI companion for a nostalgic trip down memory lane, whimsical fantasies, or any other unique purpose.
 * [Voicesphere](https://www.voicesphere.co/): Chat with your documents to get intelligent, context specific answers.
 * [Tune AI](https://chat.tune.app/): AI chat app powered by open source models
+* [GPT Mobile](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
 
 # Text
 
