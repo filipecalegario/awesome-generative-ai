@@ -96,7 +96,7 @@ This repository is designed to offer you the most recent advancements at your fi
 
 Your contributions are welcome and greatly appreciated! If you have a valuable resource that you believe should be on this list, or if you see any outdated information, please make a Pull Request. This will help us maintain the quality and relevance of our Awesome List.
 
-Follow this roadmap, keep learning, and enjoy your journey through Generative AI!
+Follow this roadmap, keep learning, and enjoy your journey through Generative AI...!
 
 # Generative AI Area
 
