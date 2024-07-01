@@ -102,6 +102,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, timelines, maps, and definitions
 
+* [Generative AI for Beginners: Part 1 — Introduction to AI | by Raja Gupta | Medium](https://medium.com/@raja.gupta20/generative-ai-for-beginners-part-1-introduction-to-ai-eadb5a71f07d) 
 * [Artificial Intelligence Learning Roadmap [AI Roadmap] 2024](https://www.mltut.com/artificial-intelligence-learning-roadmap/)
 * [A Brief History of Generative AI - DATAVERSITY](https://www.dataversity.net/a-brief-history-of-generative-ai/) 
 * [A Simple Guide To The History Of Generative AI | Bernard Marr](https://bernardmarr.com/a-simple-guide-to-the-history-of-generative-ai/) 
