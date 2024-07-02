@@ -965,6 +965,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Artistic.wtf](https://www.artistic.wtf/): stable diffusion GUI App
 * [Prodia](https://app.prodia.com/#/art-ai): Stable diffusion-based art generator that does not require signup
 * [ComicsMaker.ai](https://www.comicsmaker.ai): Stable diffusion-based comic book generator with support for text2img, img2img, inpainting and controlnet
+* [POTO.AI](https://poto.ai/): Finetune Stable Difussion model as AI Photographer to generate headshots, portrait and couple wedding photos
 
 #### Web UI for Stable Diffusion via Google Colab
 
