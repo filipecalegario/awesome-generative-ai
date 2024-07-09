@@ -709,6 +709,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond - Confident AI](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond) 
 * [LLM Leaderboards](https://llm.extractum.io/static/llm-leaderboards/) 
 * [Reward Bench Leaderboard - a Hugging Face Space by allenai](https://huggingface.co/spaces/allenai/reward-bench) 
 * [LiveBench](https://livebench.ai/): A Challenging, Contamination-Free LLM Benchmark
