@@ -312,6 +312,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Generative AI Tools Directories
 
+* [OrbicAI](https://orbic.ai/?utm_source=awesomeaitools): "The Larget AI Directory, GPT Stores, AWS PartyRocks Apps and Lots of Free AI Tools"
 * [Altern](https://altern.ai/?utm_source=awesomeaitools): "Gateway to AI Discoveries"
 * [ainave](https://www.ainave.com): "navigate the world of AI with ease", curated AI Tools and AI News
 * [AI Search](https://ai-search.io): Find AI Tools & Apps | Search The Most Complete AI Tools Directory | AI Search
