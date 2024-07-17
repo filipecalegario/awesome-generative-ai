@@ -531,6 +531,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Prompt Engineering
 
+* [ncwilson78/System-Prompt-Library](https://github.com/ncwilson78/System-Prompt-Library): A library of shared system prompts for creating customized educational GPT agents.
 * [Promptstacks](https://www.promptstacks.com/): a prompt engineering community
 * [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering): OpenAI's document with strategies and tactics for getting better results from large language models
 * [[2310.04438] A Brief History of Prompt: Leveraging Language Models](https://arxiv.org/abs/2310.04438): the paper presents an exploration of the evolution of prompt engineering. The author, Golam Md Muktadir, extensively used ChatGPT for content generation
