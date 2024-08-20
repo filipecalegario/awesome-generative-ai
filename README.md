@@ -214,6 +214,8 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+* [Generative AI is not the panacea we’ve been promised | Eric Siegel for Big Think+ - YouTube](https://www.youtube.com/watch?v=B2zCWJBnfuE) 
+* [Thoughts on GenAI by James Gosling](https://www.linkedin.com/pulse/thoughts-genai-james-gosling-nab0c/) 
 * [Automated Social Science: Language Models as Scientist and Subjects | NBER](https://www.nber.org/papers/w32381) 
 * [When Will the GenAI Bubble Burst? - by Gary Marcus](https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst) 
 * [Nightshade, the tool that ‘poisons’ data, gives artists a fighting chance against AI | TechCrunch](https://techcrunch.com/2024/01/26/nightshade-the-tool-that-poisons-data-gives-artists-a-fighting-chance-against-ai/)
