@@ -434,6 +434,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Runway ML](http://runwayml.com/): AI video creation suite
 * [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
 * [Toonify yourself by Justin Pinkney](https://www.justinpinkney.com/toonify-yourself/): turn a human face into a cartoon
+* [GenXi](https://genxi.ai/): set of AI Tools to post-process images
 * [deepart.io](https://deepart.io/): a online tool for applying style transfer
 * [Artbreeder](https://www.artbreeder.com/): web-based tool to generate images by breeding existing images
 * [Ostagram.ru](https://www.ostagram.me/): image style transfer plataform
