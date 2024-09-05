@@ -343,6 +343,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Courses and Educational Materials
 
+* [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence?tab=readme-ov-file#researchers): Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 * [Generative AI Explained by NVIDIA](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1): A no-coding course by NVIDIA that presents Generative AI concepts and applications, as well as the challenges and opportunities in the field 
 * [Paulescu/hands-on-rl: Free course that takes you from zero to Reinforcement Learning PRO 🦸🏻‍🦸🏽](https://github.com/Paulescu/hands-on-rl) 
 * [DataCamp's Become a Generative AI Developer series](https://www.datacamp.com/ai-code-alongs): 9 code-alongs on building chatbots using LangChain and the OpenAI and Pinecone APIs, and working with the Hugging Face ecosystem. Free, for a limited time only.
