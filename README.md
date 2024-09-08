@@ -1312,6 +1312,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [Podcast Clip Maker](https://recast.studio/tools/podcast-clip-maker): Automatically generate podcast clips from long-form video and audio
 * [MuckBrass](https://www.muckbrass.com): Find & Validate Startup Ideas using AI
 * [ResumeDive](https://resumedive.com): A resume boosting service using AI
 * [Owlbot](https://www.owlbot.ai/): AI Support Agent
