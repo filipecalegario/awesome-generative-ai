@@ -677,6 +677,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Autonomous LLM Agents
 
+* [TailorTask](https://www.tailortask.ai) - Automate any boring task, without code and without having to learn a new tool
 * [[2406.04784] SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals](https://arxiv.org/abs/2406.04784) 
 * [[2406.04692] Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692) 
 * [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration. 
