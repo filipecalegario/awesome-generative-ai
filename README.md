@@ -214,6 +214,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+* [[2406.17864] AI Risk Categorization Decoded (AIR 2024)](https://www.arxiv.org/abs/2406.17864): From Government Regulations to Corporate Policies
 * ["AI for Good" Campaigns Are the Wrong Approach - IEEE Spectrum](https://spectrum.ieee.org/ai-for-good) 
 * [Generative AI is not the panacea we’ve been promised | Eric Siegel for Big Think+ - YouTube](https://www.youtube.com/watch?v=B2zCWJBnfuE) 
 * [Thoughts on GenAI by James Gosling](https://www.linkedin.com/pulse/thoughts-genai-james-gosling-nab0c/) 
