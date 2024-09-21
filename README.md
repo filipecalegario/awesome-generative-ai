@@ -1059,6 +1059,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Upscaling
 
+* [Leonardo AI Upscaler](https://leonadoai.com/upscaler/): free image upscaler
 * [Remini - AI Photo Enhancer](https://remini.ai/): photo and video enhancer
 * [AI Image Upscaler - Enlarge & Enhance Your Photos for Free - Upscale.media](https://www.upscale.media/): simple free alternative for image upscaling
 * [Topaz Labs: AI Image Quality Software]([https://www.topazlabs.com/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RvcGF6bGFicy5jb20vcmVmLzIwODIvP3V0bV9zb3VyY2U9bmVqY3N1c2VjLmJlZWhpaXYuY29tJnV0bV9tZWRpdW09cmVmZXJyYWwmdXRtX2NhbXBhaWduPXdoeS15b3Utc2hvdWxkLXVwc2NhbGUteW91ci1pbWFnZXMiLCJwb3N0X2lkIjoiZWI2OWY3OTItMTNmZC00ZmViLWFjZTYtYWQ5M2YyM2Y2ZDRmIiwicHVibGljYXRpb25faWQiOiI2NDU2OWQyOC1jYzhjLTQ1N2YtOGZlNy03Y2JiYjdiOWExZWEiLCJ2aXNpdF90b2tlbiI6ImE3YjE1NzNmLTljNzMtNDFlNy1hNzUyLWQ3ODQ2NWQ3ZWQ4OCIsImlhdCI6MTY4ODM5Nzg2NS44NzksImlzcyI6Im9yY2hpZCJ9.oISexuNHzvMdv2CGWolS6doN8qRFGTjuICBq8z908Yc)): "professional grade workflow, with many features" (this is an affiliate link by nejcsusec.beehiiv.com).
