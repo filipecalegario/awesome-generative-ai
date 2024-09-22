@@ -102,6 +102,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, timelines, maps, and definitions
 
+* [The Rise of Generative AI Large Language Models (LLMs)](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/): interactive timeline visualization made by Information Is Beautiful 
 * [The AI Timeline (@TheAITimeline) / X](https://x.com/TheAITimeline)
 * [Generative AI for Beginners: Part 1 — Introduction to AI | by Raja Gupta | Medium](https://medium.com/@raja.gupta20/generative-ai-for-beginners-part-1-introduction-to-ai-eadb5a71f07d) 
 * [Artificial Intelligence Learning Roadmap [AI Roadmap] 2024](https://www.mltut.com/artificial-intelligence-learning-roadmap/)
