@@ -1319,6 +1319,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [Exam Samurai](https://www.examsamur.ai/): AI Exam Generator
 * [MuckBrass](https://www.muckbrass.com): Find & Validate Startup Ideas using AI
 * [ResumeDive](https://resumedive.com): A resume boosting service using AI
 * [Owlbot](https://www.owlbot.ai/): AI Support Agent
