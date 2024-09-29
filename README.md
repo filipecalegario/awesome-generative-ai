@@ -461,6 +461,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Small Language Models
 
+* [[2409.15790] Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790) 
 * [[2402.17764] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764) 
 * [mbzuai-oryx/MobiLlama](https://github.com/mbzuai-oryx/MobiLlama): Small Language Model tailored for edge devices
 
