@@ -687,6 +687,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Autonomous LLM Agents
 
+* [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. 
 * [TailorTask](https://www.tailortask.ai) - Automate any boring task, without code and without having to learn a new tool
 * [[2406.04784] SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals](https://arxiv.org/abs/2406.04784) 
 * [[2406.04692] Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692) 
