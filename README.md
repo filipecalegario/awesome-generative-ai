@@ -467,6 +467,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Large Language Models (LLMs)
 
+* [LiteLLM](https://www.litellm.ai/): a proxy server to manage auth, loadbalancing, and spend tracking across 100+ LLMs, all in the OpenAI format
 * [youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development](https://github.com/youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development): Practical LangChain tutorials for LLM applications development
 * [unclecode/crawl4ai: Crawl4AI](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scrapper
 * [microsoft/LMOps](https://github.com/microsoft/LMOps): General technology for enabling AI capabilities w/ LLMs and MLLMs
