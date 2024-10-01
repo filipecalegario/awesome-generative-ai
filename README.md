@@ -216,6 +216,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+* [I Taught for Most of My Career. I Quit Because of ChatGPT | TIME](https://time.com/7026050/chatgpt-quit-teaching-ai-essay/) 
 * [AI Risks that Could Lead to Catastrophe | CAIS](https://www.safe.ai/ai-risk) 
 * [The AI Risk Repository](https://airisk.mit.edu/)
 * [[2406.17864] AI Risk Categorization Decoded (AIR 2024)](https://www.arxiv.org/abs/2406.17864): From Government Regulations to Corporate Policies
