@@ -216,6 +216,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+* [Critique of Generative AI Can Harm Learning Study Design  by Steffi Tan, Vaikunthan Rajaratnam :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4898213) 
 * [I Taught for Most of My Career. I Quit Because of ChatGPT | TIME](https://time.com/7026050/chatgpt-quit-teaching-ai-essay/) 
 * [AI Risks that Could Lead to Catastrophe | CAIS](https://www.safe.ai/ai-risk) 
 * [The AI Risk Repository](https://airisk.mit.edu/)
