@@ -1183,6 +1183,11 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 * [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
 
+## Podcast generators
+
+* [Google NotebookLM](https://notebooklm.google.com/): generate podcast episodes based on your uploaded references
+* [Illuminate](https://illuminate.google.com/home?pli=1): transform your content into engaging AI‑generated audio discussions also by Google
+
 # Games
 
 * [The Generative AI Revolution in Games | Andreessen Horowitz](https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/): this article presents a list of use cases of generative AI in games
