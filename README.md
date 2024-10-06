@@ -216,6 +216,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+* [I am tired of AI | On Test Automation](https://www.ontestautomation.com/i-am-tired-of-ai/) 
 * [Critique of Generative AI Can Harm Learning Study Design  by Steffi Tan, Vaikunthan Rajaratnam :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4898213)
 * [Generative AI Can Harm Learning by Hamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kabakcı, Rei Mariman :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486) 
 * [I Taught for Most of My Career. I Quit Because of ChatGPT | TIME](https://time.com/7026050/chatgpt-quit-teaching-ai-essay/) 
