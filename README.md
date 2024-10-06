@@ -3,7 +3,7 @@
 > A curated list of Generative AI projects, tools, artworks, and models
 
 - [Generative AI Area](#generative-ai-area)
-  - [Generative AI history, maps, and definitions](#generative-ai-history-maps-and-definitions)
+  - [Generative AI history, timelines, maps, and definitions](#generative-ai-history-timelines-maps-and-definitions)
   - [Ethics, Philosophical questions and Discussions about Generative AI](#ethics-philosophical-questions-and-discussions-about-generative-ai)
   - [Critical Views about Generative AI](#critical-views-about-generative-ai)
   - [Generative AI Processes and Artifacts](#generative-ai-processes-and-artifacts)
@@ -13,7 +13,9 @@
   - [Papers Collection](#papers-collection)
   - [Online Tools and Applications](#online-tools-and-applications)
 - [Text](#text)
+  - [Small Language Models](#small-language-models)
   - [Large Language Models (LLMs)](#large-language-models-llms)
+    - [Programming Frameworks for LLMs](#programming-frameworks-for-llms)
     - [Prompt Engineering](#prompt-engineering)
       - [Prompt Optimizers](#prompt-optimizers)
       - [Prompt Engineering for Text-to-text](#prompt-engineering-for-text-to-text)
@@ -54,14 +56,16 @@
 - [Video and Animation](#video-and-animation)
 - [Audio and Music](#audio-and-music)
 - [Speech](#speech)
-  - [Inbox: Text-to-speech (TTS) and avatars](#inbox-text-to-speech-tts-and-avatars)
-  - [Inbox: Speech-to-text (STT) and spoken content analysis](#inbox-speech-to-text-stt-and-spoken-content-analysis)
+  - [Text-to-speech (TTS) and avatars](#text-to-speech-tts-and-avatars)
+    - [Podcast generators](#podcast-generators)
+  - [Speech-to-text (STT) and spoken content analysis](#speech-to-text-stt-and-spoken-content-analysis)
 - [Games](#games)
 - [Code and Programming](#code-and-programming)
 - [Multimodal](#multimodal)
   - [Multimodal Embedding Space](#multimodal-embedding-space)
 - [Datasets](#datasets)
 - [Misc](#misc)
+  - [AI and Education](#ai-and-education)
   - [People and works](#people-and-works)
     - [Interesting Twitter Accounts](#interesting-twitter-accounts)
     - [Interesting Instagram Accounts, Posts and Reels](#interesting-instagram-accounts-posts-and-reels)
@@ -1154,7 +1158,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Speech
 
-## Inbox: Text-to-speech (TTS) and avatars
+## Text-to-speech (TTS) and avatars
 
 * [Parler-TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c): fully open-source high-quality TTS
 * [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook): EPUB to audiobook converter, optimized for Audiobookshelf
@@ -1173,7 +1177,12 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
 * [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
 
-## Inbox: Speech-to-text (STT) and spoken content analysis
+### Podcast generators
+
+* [Google NotebookLM](https://notebooklm.google.com/): generate podcast episodes based on your uploaded references
+* [Illuminate](https://illuminate.google.com/home?pli=1): transform your content into engaging AI‑generated audio discussions also by Google
+
+## Speech-to-text (STT) and spoken content analysis
 
 * [Introducing Universal-1](https://www.assemblyai.com/blog/announcing-universal-1-speech-recognition-model/): multilingual speech-to-text 
 * [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++. It can be executed locally.
@@ -1182,11 +1191,6 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
 * [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 * [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
-
-## Podcast generators
-
-* [Google NotebookLM](https://notebooklm.google.com/): generate podcast episodes based on your uploaded references
-* [Illuminate](https://illuminate.google.com/home?pli=1): transform your content into engaging AI‑generated audio discussions also by Google
 
 # Games
 
