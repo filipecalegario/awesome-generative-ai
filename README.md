@@ -795,7 +795,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Red teaming and model evaluations | Anthropic](https://www.anthropic.com/uk-government-internal-ai-safety-policy-response/red-teaming-and-model-evaluations)
 * [Challenges in evaluating AI systems | Anthropic](https://www.anthropic.com/index/evaluating-ai-systems)
 * [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/): talk by Princeton professor Arvind Narayanan
-* [Indico LLM Leaderboard]: Indico Data runs a monthly benchmarking exercise across providers (LLama, Azure OpenAI, Google, AWS Bedrock, and Indico trained discriminative standard language models RoBERTa and DeBERTa), datasets (e.g. cord and CUAD), and capabilities (text classification, key information extraction, and generative summarization).
+* [Indico LLM Leaderboard](https://indicodata.ai/llm): Indico Data runs a monthly benchmarking exercise across providers (LLama, Azure OpenAI, Google, AWS Bedrock, and Indico trained discriminative standard language models RoBERTa and DeBERTa), datasets (e.g. cord and CUAD), and capabilities (text classification, key information extraction, and generative summarization).
+* [LLM Rankings](https://openrouter.ai/rankings): compare models for all prompts.
 
 ### LLMOps
 
