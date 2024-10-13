@@ -797,6 +797,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/): talk by Princeton professor Arvind Narayanan
 * [Indico LLM Leaderboard](https://indicodata.ai/llm): Indico Data runs a monthly benchmarking exercise across providers (LLama, Azure OpenAI, Google, AWS Bedrock, and Indico trained discriminative standard language models RoBERTa and DeBERTa), datasets (e.g. cord and CUAD), and capabilities (text classification, key information extraction, and generative summarization).
 * [LLM Rankings](https://openrouter.ai/rankings): a leaderboard that compares LLMs for all prompts.
+* [LLM Use Case Leaderboard](https://llmleaderboard.goml.io): a leaderboard that features LLM use cases.
 
 ### LLMOps
 
