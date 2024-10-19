@@ -798,6 +798,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Indico LLM Leaderboard](https://indicodata.ai/llm): Indico Data runs a monthly benchmarking exercise across providers (LLama, Azure OpenAI, Google, AWS Bedrock, and Indico trained discriminative standard language models RoBERTa and DeBERTa), datasets (e.g. cord and CUAD), and capabilities (text classification, key information extraction, and generative summarization).
 * [LLM Rankings](https://openrouter.ai/rankings): a leaderboard that compares LLMs for all prompts.
 * [LLM Use Case Leaderboard](https://llmleaderboard.goml.io): a leaderboard that features LLM use cases.
+* [LMExamQA](https://lmexam.com): a leaderboard that benchmarks foundation models with Language-Model-as-an-Examiner.
 
 ### LLMOps
 
