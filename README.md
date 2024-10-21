@@ -850,6 +850,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Text-related Generative Tools
 
+* [AI for Google Slides](https://www.aiforgoogleslides.com/): AI presentation maker for Google Slides
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere
 * [Jack AI](https://www.usejackai.com): AI Marketing Copywriter tool
 * [aiPDF](https://aipdf.ai): The most advanced AI document assistant
