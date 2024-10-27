@@ -820,6 +820,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Attacks on LLMs
 
+* [ZombAIs](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/): From Prompt Injection to C2 with Claude Computer Use
 * [[2310.04451] AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/abs/2310.04451)
 * [MITRE ATLAS™](https://atlas.mitre.org/): knowledge base of adversary tactics and techniques based on real-world attack observations and realistic demonstrations from AI red teams and security groups, modeled after the MITRE ATT&CK® framework.
 * [OWASP Top 10 for Large Language Model Applications](https://llmtop10.com/): the Open Worldwide Application Security Project's list related to LLMs [[Youtube video]](https://www.youtube.com/watch?v=engR9tYSsug)  
