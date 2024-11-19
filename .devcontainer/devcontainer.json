@@ -1,0 +1,10 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ai-model": {
+      "type": "pytorch",
+      "model-name": "resnet50",
+      "model-version": "1.0"
+    }
+  }
+}
