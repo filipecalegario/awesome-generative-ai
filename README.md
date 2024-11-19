@@ -1346,6 +1346,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ## Jobs in Generative AI
 
 * [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
+* [Latest Jobs and News in AI at trending startups and big companies | AIJobster](https://aijobster.work/)
 
 ## Improving Google Colab experience
 
