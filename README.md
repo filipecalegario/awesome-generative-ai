@@ -1360,6 +1360,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [Kink AI](https://chat.kink.ai/): Best NSFW AI App
 * [Rosie](https://heyrosie.com/): AI Phone Answering Service
 * [MuckBrass](https://www.muckbrass.com): Find & Validate Startup Ideas using AI
 * [ResumeDive](https://resumedive.com): A resume boosting service using AI
