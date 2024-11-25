@@ -248,7 +248,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 * [Five takeaways from UK’s AI safety summit at Bletchley Park | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2023/nov/02/five-takeaways-uk-ai-safety-summit-bletchley-park-rishi-sunak) 
 * [Frontier AI: capabilities and risks – discussion paper - GOV.UK](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper) 
 * [AI Safety Summit Policy Updates | AISS 2023](https://www.aisafetysummit.gov.uk/policy-updates/#company-policies) 
-* [Responsible enterprise decisions with knowledge-enriched generative AI | Deloitte Netherlands](https://www2.deloitte.com/nl/nl/pages/risk/articles/responsible-enterprise-decisions-with-knowledge-enriched-generative-AI.html)
+* [Responsible enterprise decisions with knowledge-enriched generative AI | Deloitte Netherlands](https://www.deloitte.com/nl/en/services/risk-advisory/perspectives/responsible-enterprise-decisions-knowledge-enriched-ai.html)
 * [[2310.13149] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149) 
 * [[2309.12338] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
 * [AI Worship | Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html) 
