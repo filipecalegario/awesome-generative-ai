@@ -890,6 +890,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [AI Story Generator](https://www.aistorygenerator.org): Free and fast online AI-powered story generator that writes short stories for you
 * [AI Story Generate](https://aistorygenerate.com): Generate stories using LLM with custom emotion, genre, and word count.
 * [Composum AI](https://github.com/ist-dresden/composum-AI) Plugin for CMS Adobe Experience Manager (AEM) or Composum Pages helping the editor to create / edit / translate texts
+* [TextCraft](https://github.com/suncloudsmoon/TextCraft) Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 
 ## Research AI Tools
 
