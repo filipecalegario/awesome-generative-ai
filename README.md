@@ -466,6 +466,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Voicesphere](https://www.voicesphere.co/): Chat with your documents to get intelligent, context specific answers.
 * [Tune AI](https://chat.tune.app/): AI chat app powered by open source models
 * [GPT Mobile](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
+* [EchoWave](https://echowave.io/): Online video editor
 
 # Text
 
