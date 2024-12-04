@@ -744,6 +744,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 #### Multi-agents
 
+* [[2411.00114] Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/abs/2411.00114) 
 * [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents): implementation of the paper Generative Agents: Interactive Simulacra of Human Behavior
 * [Generative Agent Simulations of 1,000 People | arxiv](https://arxiv.org/abs/2411.10109) [[GitHub: joonspk-research/genagents]](https://github.com/joonspk-research/genagents) 
 * [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights
