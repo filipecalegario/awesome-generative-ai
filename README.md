@@ -222,6 +222,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 ## Critical Views about Generative AI
 
 * [Collection of "The Most Thoughtful Writing about Generative AI" by Eryk Salvaggio](https://bsky.app/profile/eryk.bsky.social/post/3lccavgstkk2s)
+* [AI Snake Oil: Separating Hype from Reality | TechPolicy.Press](https://www.techpolicy.press/ai-snake-oil-separating-hype-from-reality/) 
 * [Deconstructing the AI Myth: Fallacies and Harms of Algorithmification](https://www.researchgate.net/publication/382802495_Deconstructing_the_AI_Myth_Fallacies_and_Harms_of_Algorithmification) 
 * [Challenging The Myths of Generative AI | TechPolicy.Press](https://www.techpolicy.press/challenging-the-myths-of-generative-ai/) 
 * [I am tired of AI | On Test Automation](https://www.ontestautomation.com/i-am-tired-of-ai/) 
