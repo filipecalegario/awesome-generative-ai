@@ -424,6 +424,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [RabbitHoles AI](https://www.rabbitholes.ai/): Chat with AI on an Infinite Canvas
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
@@ -470,7 +471,6 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Voicesphere](https://www.voicesphere.co/): Chat with your documents to get intelligent, context specific answers.
 * [Tune AI](https://chat.tune.app/): AI chat app powered by open source models
 * [GPT Mobile](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
-* [RabbitHoles AI](https://www.rabbitholes.ai/): Chat with AI on an Infinite Canvas
 
 # Text
 
