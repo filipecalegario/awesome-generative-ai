@@ -1407,6 +1407,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Galichat.com](https://www.galichat.com/?ref=filipecalegario-awesome-generative-ai): AI Support Assistant that helps you grow your business.
 * [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
 * [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
+* [bugfree.ai](https://bugfree.ai/) - AI Guided Practice on System Design and Behavior Problems, just like the way you do at Leetcode.
 
 ### Dimension reduction techniques
 
