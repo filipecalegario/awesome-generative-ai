@@ -912,6 +912,16 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### AI Tools for Research
 
+* [Undermind - AI-Powered Scientific Research Assistant](https://undermind.ai/home/): an AI assistant that reads academic papers.
+* [Scite](https://scite.ai/): AI Assistant or search the literature to transform the way you discover, evaluate, and understand research on any topic.
+* [SciSummary](https://scisummary.com/): AI to summarize scientific articles and research papers in seconds
+* [SciSpace](https://typeset.io/): AI Chat for scientific PDFs
+* [Scholarcy](https://www.scholarcy.com/): Summarize, analyze and organize your research
+* [Research Rabbit](https://researchrabbitapp.com/home) 
+* [Nested Knowledge](https://nested-knowledge.com/): Powerful evidence synthesis tools for medical researchers. Accelerate, collaborate, automate and share.
+* [Litmaps](https://www.litmaps.com/): Literature Review Assistant
+* [Keenious](https://keenious.com/): Find research relevant to any text
+* [Inciteful](https://inciteful.xyz/): Using Citations to Explore Academic Literature
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 * [AI Research Tools | x post](https://x.com/airesearchtools/status/1704031145476648992): Some AI tools that can be used for research/teaching
 * [Unlocking productivity and personalizing learning with AI | Microsoft EDU](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai) 
