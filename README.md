@@ -15,6 +15,7 @@
 - [Text](#text)
   - [Small Language Models](#small-language-models)
   - [Large Language Models (LLMs)](#large-language-models-llms)
+    - [Model Context Protocol](#model-context-protocol)
     - [Programming Frameworks for LLMs](#programming-frameworks-for-llms)
     - [Prompt Engineering](#prompt-engineering)
       - [Prompt Optimizers](#prompt-optimizers)
