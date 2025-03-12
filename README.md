@@ -62,6 +62,7 @@
   - [Speech-to-text (STT) and spoken content analysis](#speech-to-text-stt-and-spoken-content-analysis)
 - [Games](#games)
 - [Code and Programming](#code-and-programming)
+  - [Vibe Coding](#vibe-coding)
 - [Multimodal](#multimodal)
   - [Multimodal Embedding Space](#multimodal-embedding-space)
 - [Datasets](#datasets)
