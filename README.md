@@ -172,6 +172,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Ethics, Philosophical questions and Discussions about Generative AI
 
+* [🔭 The Einstein AI model](https://thomwolf.io/blog/scientific-ai.html)
 * [Machines of Loving Grace - How AI Could Transform the World for the Better by Dario Amodei](https://darioamodei.com/machines-of-loving-grace)
 * [The Five Stages Of AI Grief - NOEMA](https://www.noemamag.com/the-five-stages-of-ai-grief/) 
 * [Generative AI Ethics: 8 Biggest Concerns and Risks](https://www.techtarget.com/searchenterpriseai/tip/Generative-AI-ethics-8-biggest-concerns) 
