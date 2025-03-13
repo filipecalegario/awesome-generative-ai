@@ -12,6 +12,8 @@
   - [Human-AI Interaction](#human-ai-interaction)
   - [Papers Collection](#papers-collection)
   - [Online Tools and Applications](#online-tools-and-applications)
+- [Code and Programming](#code-and-programming)
+  - [Vibe Coding](#vibe-coding)
 - [Text](#text)
   - [Small Language Models](#small-language-models)
   - [Large Language Models (LLMs)](#large-language-models-llms)
@@ -61,8 +63,6 @@
     - [Podcast generators](#podcast-generators)
   - [Speech-to-text (STT) and spoken content analysis](#speech-to-text-stt-and-spoken-content-analysis)
 - [Games](#games)
-- [Code and Programming](#code-and-programming)
-  - [Vibe Coding](#vibe-coding)
 - [Multimodal](#multimodal)
   - [Multimodal Embedding Space](#multimodal-embedding-space)
 - [Datasets](#datasets)
@@ -478,6 +478,46 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [GPT Mobile](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
 * [PageGen](https://pagegen.ai) - An AI Page Generator with Claude AI, React and Shadcn UI. Generate web pages from text, screenshot and templates with one click.
 * [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
+
+# Code and Programming
+
+* [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
+* [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
+* [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
+* [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/) 
+* [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
+* [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
+* [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
+* [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
+* [Cody](https://about.sourcegraph.com/cody): AI coding assistant
+* [Kombai](https://kombai.com/): generate UI code per component from Figma
+* [geekan/MetaGPT](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+* [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
+* [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
+* [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/) 
+* [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/): generates a webapp from a title, description, and other simple parameters
+* [wolfia-app/gpt-code-search](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
+* [Dedicated File for Inbox for GenAI + Dev](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references 
+* [e2b-dev/e2b](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
+* [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
+* [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
+* [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
+* [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
+* [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590) 
+* [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+* [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
+* [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
+* [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
+
+## Vibe Coding
+
+* [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383): "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
+* [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
+* [Bolt.new](https://bolt.new/): Prompt, run, edit, and deploy full-stack web and mobile apps.
+* [Lovable](https://lovable.dev/): "Idea to app in seconds. Lovable is your superhuman full stack engineer."
+* [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
+* [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
+* [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
 
 # Text
 
@@ -1278,46 +1318,6 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 * [The Generative AI Revolution in Games | Andreessen Horowitz](https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/): this article presents a list of use cases of generative AI in games
 * [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
-
-# Code and Programming
-
-* [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
-* [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
-* [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
-* [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/) 
-* [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
-* [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
-* [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
-* [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
-* [Cody](https://about.sourcegraph.com/cody): AI coding assistant
-* [Kombai](https://kombai.com/): generate UI code per component from Figma
-* [geekan/MetaGPT](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
-* [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
-* [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
-* [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/) 
-* [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/): generates a webapp from a title, description, and other simple parameters
-* [wolfia-app/gpt-code-search](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
-* [Dedicated File for Inbox for GenAI + Dev](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references 
-* [e2b-dev/e2b](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
-* [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
-* [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
-* [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
-* [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
-* [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590) 
-* [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
-* [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
-* [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
-* [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
-
-## Vibe Coding
-
-* [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383): "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
-* [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
-* [Bolt.new](https://bolt.new/): Prompt, run, edit, and deploy full-stack web and mobile apps.
-* [Lovable](https://lovable.dev/): "Idea to app in seconds. Lovable is your superhuman full stack engineer."
-* [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
-* [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
-* [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
 
 # Multimodal
 
