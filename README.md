@@ -14,7 +14,9 @@
   - [Online Tools and Applications](#online-tools-and-applications)
 - [Code and Programming](#code-and-programming)
   - [Vibe Coding](#vibe-coding)
+  - [AI-Powered Code Generation](#ai-powered-code-generation)
 - [Text](#text)
+  - [Everything to Markdown to LLMs](#everything-to-markdown-to-llms)
   - [Small Language Models](#small-language-models)
   - [Large Language Models (LLMs)](#large-language-models-llms)
     - [Model Context Protocol](#model-context-protocol)
@@ -481,6 +483,19 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Code and Programming
 
+## Vibe Coding
+
+* [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding): A curated list of vibe coding references, colaborating with AI to write code.
+* [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383): "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
+* [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
+* [Bolt.new](https://bolt.new/): Prompt, run, edit, and deploy full-stack web and mobile apps.
+* [Lovable](https://lovable.dev/): "Idea to app in seconds. Lovable is your superhuman full stack engineer."
+* [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
+* [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
+* [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
+
+## AI-Powered Code Generation
+
 * [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 * [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 * [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
@@ -509,17 +524,17 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
 * [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
-## Vibe Coding
-
-* [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383): "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
-* [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
-* [Bolt.new](https://bolt.new/): Prompt, run, edit, and deploy full-stack web and mobile apps.
-* [Lovable](https://lovable.dev/): "Idea to app in seconds. Lovable is your superhuman full stack engineer."
-* [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
-* [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
-* [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
-
 # Text
+
+## Everything to Markdown to LLMs
+
+* [microsoft/markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
+* [docling-project/docling](https://github.com/docling-project/docling): get your documents ready for gen AI
+* [Firecrawl](https://www.firecrawl.dev/): Turn websites into LLM-ready data
+* [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api): document (PDF, Word, PPTX ...) extraction and parse API using OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown
+* [R Jina](https://r.jina.ai/): convert websites into Markdown by placing the URL in the search bar
+* [Gitingest](https://gitingest.com/): turn any Git repository into a simple text digest of its codebase.
+* [uithub](https://uithub.com/): convert GitHub repositories into Markdown by placing the URL in the search bar
 
 ## Small Language Models
 
