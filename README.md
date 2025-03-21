@@ -768,6 +768,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Retrieval-Augmented Generation (RAG)
 
+* [Benchmarking Hallucination Detection Methods in RAG | Towards Data Science](https://towardsdatascience.com/benchmarking-hallucination-detection-methods-in-rag-6a03c555f063/)
 * [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain): Everything you need to know to build your own RAG application
 * [ragapp/ragapp](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
 * [LlamaParse](https://www.llamaindex.ai/blog/launching-the-first-genai-native-document-parsing-platform): GenAI-native document parsing platform by LlamaIndex
@@ -858,6 +859,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [Cleanlab Trustworthy Language Model: Score the trustworthiness of any LLM response](https://help.cleanlab.ai/tlm/)
 * [PAIR-code/llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
 * [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
 * [LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond - Confident AI](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond) 
