@@ -1238,6 +1238,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
 * [Pyramid Flow](https://pyramid-flow.github.io/) 
 * [Infinity AI](https://infinity.ai/): a video foundation model that allows you to craft characters and animate them
