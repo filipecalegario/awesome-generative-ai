@@ -529,6 +529,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Everything to Markdown to LLMs
 
+* [Mistral OCR / Mistral AI](https://mistral.ai/news/mistral-ocr): A document understanding API
 * [opendatalab/MinerU](https://github.com/opendatalab/MinerU): A high-quality tool for convert PDF to Markdown and JSON
 * [microsoft/markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
 * [docling-project/docling](https://github.com/docling-project/docling): get your documents ready for gen AI
