@@ -1458,6 +1458,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [Velocity](https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min): On-demand feedback for Figma prototypes
 * [Rosie](https://heyrosie.com/): AI Phone Answering Service
 * [MuckBrass](https://www.muckbrass.com): Find & Validate Startup Ideas using AI
 * [ResumeDive](https://resumedive.com): A resume boosting service using AI
