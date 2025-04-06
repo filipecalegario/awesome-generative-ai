@@ -372,6 +372,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Courses and Educational Materials
 
+* [Gemini by Example](https://geminibyexample.com): Learn the Gemini SDK through (annotated) code examples.
 * [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence?tab=readme-ov-file#researchers): Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 * [Generative AI Explained by NVIDIA](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1): A no-coding course by NVIDIA that presents Generative AI concepts and applications, as well as the challenges and opportunities in the field 
 * [Paulescu/hands-on-rl: Free course that takes you from zero to Reinforcement Learning PRO 🦸🏻‍🦸🏽](https://github.com/Paulescu/hands-on-rl) 
@@ -404,7 +405,6 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Implementation/tutorial of stable diffusion with side-by-side notes by labml.ai | Twitter](https://twitter.com/labmlai/status/1571080112459878401)
 * [Practical Deep Learning for Coders 2023 - Part II](https://www.youtube.com/watch?v=_7rMfsA24Ls&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): continuation of the course focusing on the implementation of Stable Diffusion from scratch.
 * [Practical Deep Learning for Coders 2022 - Part I](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU): "free course designed for people with some coding experience who want to learn how to apply deep learning and machine learning to practical problems" by Jeremy Howard
-* [Gemini by Example](https://geminibyexample.com) - Learn the Gemini SDK through (annotated) code examples.
 
 ## Human-AI Interaction
 
