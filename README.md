@@ -530,6 +530,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Everything to Markdown to LLMs
 
+* [LLMSTXT.NEW](https://www.llmstxt.new/): Generate consolidated text files from websites for LLM training and inference – Powered by Firecrawl
 * [Mistral OCR / Mistral AI](https://mistral.ai/news/mistral-ocr): A document understanding API
 * [opendatalab/MinerU](https://github.com/opendatalab/MinerU): A high-quality tool for convert PDF to Markdown and JSON
 * [microsoft/markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
