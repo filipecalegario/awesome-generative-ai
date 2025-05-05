@@ -1473,7 +1473,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Interviews Chat](https://www.interviews.chat/): Your Personal Interview Prep & Copilot
 * [Inline Help](https://inlinehelp.com): Answer customer questions before they ask
 * [LinkActions](https://linkactions.com): AI Internal Links Assistant 
-* [Marblism](https://marblism.com): Generate a SaaS boilerplate from a prompt
+* [Marblism](https://marblism.com): AI Employees for your business
 * [SiteSpeakAI](https://sitespeak.ai): Automate your customer support with AI
 * [Room Reinvented](https://roomreinvented.com): Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 * [FairyTailAI](https://fairytailai.com/): Personalized bedtime story generator
