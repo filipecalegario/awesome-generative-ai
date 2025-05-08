@@ -1324,6 +1324,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
 * [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
 * [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
+* [AI Japanese Tutor](https://www.aijapanesetutor.org): Free AI voice chat bot for Japanese conversation practice in a variety of role-play scenarios. Learn JLPT vocabulary, grammar and Japanese verb conjugations with our voice-based exercises.
 
 ### Podcast generators
 
