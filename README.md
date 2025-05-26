@@ -228,6 +228,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+* [The case against AI-generated users - IDEO](https://www.ideo.com/journal/the-case-against-ai-generated-users)
 * [Why handing over total control to AI agents would be a huge mistake | MIT Technology Review](https://www.technologyreview.com/2025/03/24/1113647/why-handing-over-total-control-to-ai-agents-would-be-a-huge-mistake)
 * [Collection of "The Most Thoughtful Writing about Generative AI" by Eryk Salvaggio](https://bsky.app/profile/eryk.bsky.social/post/3lccavgstkk2s)
 * [AI Snake Oil: Separating Hype from Reality | TechPolicy.Press](https://www.techpolicy.press/ai-snake-oil-separating-hype-from-reality/) 
