@@ -667,6 +667,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Prompt Engineering
 
+* [Magic Potion](https://www.magicpotion.app): Visual AI Prompt Editor
 * [Narrow AI](https://www.getnarrow.ai/): Automated Prompt Engineering and Optimization Platform
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) 
 * [ncwilson78/System-Prompt-Library](https://github.com/ncwilson78/System-Prompt-Library): A library of shared system prompts for creating customized educational GPT agents.
