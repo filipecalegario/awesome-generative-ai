@@ -556,6 +556,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [oumi-ai/oumi](https://github.com/oumi-ai/oumi): open universal machine intelligence, open-source platform that streamlines the entire lifecycle of foundation models - from data preparation and training to evaluation and deployment
 * [🔥] [Transformer Explainer](https://poloclub.github.io/transformer-explainer/): LLM Transformer Model Visually Explained [YouTube Video](https://www.youtube.com/watch?v=ECR4oAwocjs) 
 * [comet-ml/opik](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+* [Maxim AI](https://getmaxim.ai): Simulate, evaluate, and observe your AI agents. Maxim is an end-to-end evaluation and observability platform, helping teams ship their AI agents reliably and >5x faster!
 * [mendableai/firecrawl](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 * [QuivrHQ/MegaParse](https://github.com/quivrhq/megaparse): File Parser optimised for LLM Ingestion with no loss. Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 * [LiteLLM](https://www.litellm.ai/): a proxy server to manage auth, loadbalancing, and spend tracking across 100+ LLMs, all in the OpenAI format
