@@ -923,6 +923,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [LLM Use Case Leaderboard](https://llmleaderboard.goml.io): a leaderboard that features LLM use cases.
 * [LMExamQA](https://lmexam.com): a leaderboard that benchmarks foundation models with Language-Model-as-an-Examiner.
 * [The Pile](https://pile.eleuther.ai): a leaderboard of The Pile benchmark.
+* [Langfa.st](https://langfa.st/new): AI Prompt Testing Platform. Test and share AI prompts instantly. No signup
 
 ### LLMOps
 
