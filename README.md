@@ -532,6 +532,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Everything to Markdown to LLMs
 
+* [NuExtract 2.0 by NuMind](https://numind.ai/blog/outclassing-frontier-llms----nuextract-2-0-takes-the-lead-in-information-extraction): "Outclassing Frontier LLMs in Information Extraction"
 * [unclecode/crawl4ai: 🚀🤖 Crawl4AI](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scraper
 * [LLMSTXT.NEW](https://www.llmstxt.new/): Generate consolidated text files from websites for LLM training and inference – Powered by Firecrawl
 * [Mistral OCR / Mistral AI](https://mistral.ai/news/mistral-ocr): A document understanding API
