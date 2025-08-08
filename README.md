@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/filipecalegario-awesome-generative-ai-badge.png)](https://mseep.ai/app/filipecalegario-awesome-generative-ai)
+
 # Awesome Generative AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/) <!-- omit in toc -->
 
 > A curated list of Generative AI projects, tools, artworks, and models
