@@ -652,6 +652,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
   * [modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
   * [Awesome MCP Servers](https://mcpservers.org/)
   * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
+  * [Roundtable](https://github.com/askbudi/roundtable): Zero-configuration unified AI assistant management built on the FastMCP framework. Provides seamless integration with Claude, ChatGPT, and other AI assistants through a single MCP interface with session management, logging, and production-ready operations.
   * [Composio MCP Server](https://mcp.composio.dev/): Connect Cursor, Windsurf, and Claude to 100+ fully managed MCP Servers with built-in auth
     * These servers are built by the community and are hosted by Composio
 * [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients)
