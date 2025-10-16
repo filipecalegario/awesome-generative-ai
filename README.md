@@ -494,6 +494,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
 * [Bolt.new](https://bolt.new/): Prompt, run, edit, and deploy full-stack web and mobile apps.
 * [Lovable](https://lovable.dev/): "Idea to app in seconds. Lovable is your superhuman full stack engineer."
+* [blank-space](https://www.blankspace.build/): Open-source AI app builder. Alternative to v0, Lovable, and Bolt.
 * [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 * [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
 * [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
