@@ -1100,6 +1100,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [neural-dream Alternatives and Similar Photos & Graphics Apps | AlternativeTo](https://alternativeto.net/software/neural-dream/) 
 * [CoG 21](https://www.ea.com/seed/news/cog2021-adversarial-rl-content-generation): Adversarial Reinforcement Learning for Procedural Content Generation
 * [GitHub Repositories of Hugging Face](https://github.com/huggingface)
+* [Gempix2 (Nano Banana 2)](https://gempix2.site) - Free AI image generation and editing. Text-to-image, style transformation, and video generation support.
 
 ### Inbox: Stable Diffusion
 
@@ -1236,6 +1237,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): paid AI image upscaler delivering enhanced detail and resolution
 * [Image Super-Resolution](https://idealo.github.io/image-super-resolution/) 
 * [Upscale to huge sizes and add detail with SD Upscale : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xkjjf9/upscale_to_huge_sizes_and_add_detail_with_sd/): tutorial on Reddit
+* 
 
 ## Image Restoration
 
