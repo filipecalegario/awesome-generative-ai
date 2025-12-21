@@ -497,6 +497,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 * [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
 * [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
+* [Blank Space](https://www.blankspace.build/): Open-source AI app builder. Alternative to v0, Lovable, and Bolt.
 
 ## AI-Powered Code Generation
 
