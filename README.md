@@ -371,6 +371,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
 * [Maxim AI](https://www.getmaxim.ai): a generative AI evaluation and observability platform
 * [AI Tool List](https://www.aitoollist.org): An awesome directory of AI tools
+* [God Tier Prompts](https://www.godtierprompts.com): Discover the best prompts. A community-driven leaderboard where the best prompts rise to the top.
 
 ## Courses and Educational Materials
 
