@@ -628,6 +628,10 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 * [Godly](https://godly.ai): Instant context for GPT3
 * [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
+* [MyDetector](https://mydetector.ai/): "Free AI Detector and Humanizer"
+* [AIImagetoText](https://aiimagetotext.com/): "Free AI Image to Text Converter | Fast & Highly Accurate"
+* [AIPlagiarismChecker](https://aiplagiarismchecker.io/): "Plagiarism Checker ensures fast, accurate, and original content verification."
+* [AIGrammarChecker](https://aigrammarchecker.io/): "Free AI Grammar Checker | Instant Grammar & Spelling Check"
 * [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)
 * [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
 * [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 
