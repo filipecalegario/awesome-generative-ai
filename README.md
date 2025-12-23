@@ -872,6 +872,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Cleanlab Trustworthy Language Model: Score the trustworthiness of any LLM response](https://help.cleanlab.ai/tlm/)
 * [PAIR-code/llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
 * [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
+* [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): Test and evaluate LLM applications. Compare prompts, models, and RAG systems. Red team with adversarial attacks and integrate into CI/CD.
 * [LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond - Confident AI](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond) 
 * [LLM Leaderboards](https://llm.extractum.io/static/llm-leaderboards/) 
 * [Reward Bench Leaderboard - a Hugging Face Space by allenai](https://huggingface.co/spaces/allenai/reward-bench) 
