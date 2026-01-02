@@ -866,6 +866,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 * [[2308.10848] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
 * [BrainSoup](https://www.nurgo-software.com/products/brainsoup): multi-agent & multi-LLM client with RAG, multi-modality, automation, code interpreter, and sandboxed file system
+* [Vedika](https://vedika.io): AI-powered Vedic astrology API using multi-agent swarm architecture (6 specialized AI agents) for natural language queries, supporting 22 languages
 
 ### LLM Evaluation
 
