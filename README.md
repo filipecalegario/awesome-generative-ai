@@ -1223,6 +1223,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [GitHub - Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 * [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 * [Wilco Sierra](https://trywilco.com/sierra): A platform that generates engineering challenges for software engineers using GPT.
+* [String Art](https://stringartgenerator.tech): Transform any image into stunning string art patterns with innovative online tools.
 
 ## Image Upscaling
 
