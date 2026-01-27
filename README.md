@@ -751,6 +751,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [[2206.00169] Discovering the Hidden Vocabulary of DALLE-2](https://arxiv.org/abs/2206.00169)
 * [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/) 
 * [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
+* [NanoBanana Trending Prompts](https://github.com/jau123/nanobanana-trending-prompts): 1000+ curated AI image prompts from X/Twitter, ranked by engagement. Works with GPT Image, Midjourney, and more.
 
 ### Mamba
 
