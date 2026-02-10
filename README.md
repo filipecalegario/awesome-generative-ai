@@ -88,6 +88,8 @@
   - [Contribute](#contribute)
   - [License](#license)
 
+- [HeyVid AI](https://heyvid.ai) - Free AI video & image generator. Text-to-video, image-to-video.
+
 ## Repository Introduction
 
 Welcome to our Awesome List of Generative AI resources! This repository is a curated collection of references in the dynamic field of Generative AI, equipped with various sources such as academic papers, technical articles, online courses, tutorials, and software.
