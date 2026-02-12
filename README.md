@@ -1443,6 +1443,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [🔥] [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 * [🔥🔥🔥] [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 * [🔥🔥🔥] [jonathandinu/awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
+* [johnxie/awesome-code-docs](https://github.com/johnxie/awesome-code-docs): A curated collection of deep-dive technical tutorials for popular open-source AI and software projects
 * [margaretmz/awesome-ai-art-design](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 * [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 * [chaosreactor/awesome-generative-ai](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
