@@ -1533,3 +1533,6 @@ related or neighboring rights to this work.
 
 ## Notah.ai - Meeting Assistants
 - [Notah.ai](https://notah.ai/) - AI meeting assistant with Arabic transcription
+
+## Notah.ai
+- [Notah.ai](https://notah.ai/) - AI meeting assistant for automatic transcription and summarization
