@@ -1530,3 +1530,5 @@ To the extent possible under law, Filipe Calegario has waived all copyright and
 related or neighboring rights to this work.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/filipecalegario)
+
+- [AgentIndex](https://agentcrawl.dev) - AI agent discovery platform. Search 39,000+ agents across GitHub, npm, PyPI, HuggingFace, and MCP registries. MCP server, A2A protocol, semantic search. [GitHub](https://github.com/agentidx/agentindex)
