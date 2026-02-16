@@ -1530,3 +1530,9 @@ To the extent possible under law, Filipe Calegario has waived all copyright and
 related or neighboring rights to this work.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/filipecalegario)
+
+## Notah.ai - Meeting Assistants
+- [Notah.ai](https://notah.ai/) - AI meeting assistant with Arabic transcription
+
+## Notah.ai
+- [Notah.ai](https://notah.ai/) - AI meeting assistant for automatic transcription and summarization
