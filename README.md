@@ -855,6 +855,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 #### Multi-agents
 
+- [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) — Alignment, safety & cognitive architecture for autonomous AI agents. Six modules: membrane security, epistemic tagger, self-audit, beacon, cognitive architecture, collective cognition. Zero dependencies.
+
 * [[2411.00114] Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/abs/2411.00114) 
 * [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents): implementation of the paper Generative Agents: Interactive Simulacra of Human Behavior
 * [Generative Agent Simulations of 1,000 People | arxiv](https://arxiv.org/abs/2411.10109) [[GitHub: joonspk-research/genagents]](https://github.com/joonspk-research/genagents) 
