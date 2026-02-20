@@ -527,6 +527,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
 * [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
 * [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
+* [Mantra](https://mantra.gonewx.com): a local-first session time-machine for AI coding tools (Claude Code, Cursor, Windsurf, Augment Code) that automatically snapshots sessions and lets you browse/restore any previous conversation state.
 
 # Text
 
