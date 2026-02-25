@@ -853,6 +853,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 * [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
 
+* [Agent OS](https://github.com/imran-siddique/agent-os): A kernel architecture for governing autonomous AI agents with policy enforcement, trust scoring, circuit breakers, and audit trails. Integrates with LangGraph, LlamaIndex, Dify, and OpenAI Agents SDK.
+
 #### Multi-agents
 
 * [[2411.00114] Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/abs/2411.00114) 
