@@ -664,6 +664,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Programming Frameworks for LLMs
 
+* [juspay/neurolink](https://github.com/juspay/neurolink): TypeScript-first AI SDK with provider-agnostic routing across 13 providers (OpenAI, Anthropic, Gemini, and more), built-in RAG pipelines, MCP client integration, and OpenTelemetry observability.
 * [DSPy: Not Your Average Prompt Engineering](https://jina.ai/news/dspy-not-your-average-prompt-engineering/): a post about the DSPy, a framework developed by the Stanford NLP group aimed at algorithmically optimizing language model prompts
 * [🔥🔥🔥] [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
 
