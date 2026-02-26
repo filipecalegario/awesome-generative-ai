@@ -734,6 +734,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [(19) Nikhil Agrawal 📌 on Twitter](https://twitter.com/HeyNikhila/status/1570005481896255490): 11 AI Images Prompt websites to level up the image quality
 * [Phraser](https://phraser.tech/): a tool that support prompt creation
 * [PromptBase | Prompt Marketplace](https://promptbase.com/): PromptBase is a marketplace for DALL·E, Midjourney & GPT-3 prompts, where people can sell prompts and make money from their prompt crafting skills.
+* [AI Image Lab](https://aiimagelab.art/): Free AI image generator with a curated prompt library across 8 categories. Create stunning AI art in 4K quality.
 * [Professional AI whisperers have launched a marketplace for DALL-E prompts - The Verge](https://www.theverge.com/2022/9/2/23326868/dalle-midjourney-ai-promptbase-prompt-market-sales-artist-interview)
 * [Visual Prompt Builder](https://tools.saxifrage.xyz/prompt): simple deck of illustrated card to combine modifiers for prompt building
 * [Prompt Engineering Template - Google Sheets](https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFEAkA/edit#gid=0): spreadsheet with lists of modifiers for prompt building and a lot of interesting links for reference
