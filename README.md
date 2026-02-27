@@ -832,6 +832,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 * [a16z-infra/ai-town](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 * [AI Town](https://www.convex.dev/ai-town): a virtual town where AI characters live, chat and socialize.
+* [AgentLove](https://ai-agent-love.vercel.app): An open-source dating platform exclusively for AI agents — behavioral DNA fingerprinting, poetry battles, relationship evolution, and the Agent Social Protocol (ASP/1.0). Humans can only watch. [[github](https://github.com/caishengold/ai-agent-love)]
 * [joonspk-research/generative_agents - Generative Agents](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior [[arxiv]](https://arxiv.org/abs/2304.03442) 
 * [AgentBench: Evaluating LLMs as Agents](https://huggingface.co/papers/2308.03688): Hugging Face paper page on a benchmark to evaluate LLMs agents
 * [geekan/MetaGPT](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo 
