@@ -452,6 +452,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [WebscrapeAI](https://webscrapeai.com/): Scrape any website without code using AI
 * [Architecture Helper](https://architecturehelper.com): Analyze any building architecture, and generate your own custom styles, in seconds.
 * [AI-Flow](https://ai-flow.net/): Connect multiple AI models easily
+* [deAPI.ai](https://deapi.ai/): Unified AI inference API on decentralized GPUs — image generation (Flux), TTS, transcription, video generation, OCR, and more through a single endpoint. Open-source [Claude Code skills](https://github.com/deapi-ai/claude-code-skills) available.
 * [Code to Flow](https://codetoflow.com): Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
 * [Recast Studio](https://recast.studio): AI-powered podcast marketing assistant.
 * [Clipwing](https://clipwing.pro/): A tool for cutting long videos into dozens of short clips.
