@@ -229,6 +229,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+* [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Open dataset tracking 97 AI-attributed layoff events affecting 462,725 workers across 13 countries, with source URLs and attribution methodology
 * [The case against AI-generated users - IDEO](https://www.ideo.com/journal/the-case-against-ai-generated-users)
 * [Why handing over total control to AI agents would be a huge mistake | MIT Technology Review](https://www.technologyreview.com/2025/03/24/1113647/why-handing-over-total-control-to-ai-agents-would-be-a-huge-mistake)
 * [Collection of "The Most Thoughtful Writing about Generative AI" by Eryk Salvaggio](https://bsky.app/profile/eryk.bsky.social/post/3lccavgstkk2s)
