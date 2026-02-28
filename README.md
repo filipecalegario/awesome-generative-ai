@@ -1452,6 +1452,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ## Bio experiments
 
 * [fMRI-to-image](https://twitter.com/danberridge/status/1631489991435243520): tweet by [danberridge](https://twitter.com/danberridge) "The 'presented images' were shown to a group of humans. The 'reconstructed images' were the result of an fMRI output to Stable Diffusion. In other words, Stable Diffusion literally read people's minds."
+* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis): personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (ancestry, health risks, nutrition, longevity, pharmacogenomics, and more) and generating a terminal-style HTML visualization.
 
 ## Jobs in Generative AI
 
