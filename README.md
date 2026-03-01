@@ -1,6 +1,7 @@
 # Awesome Generative AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/) <!-- omit in toc -->
 
 > A curated list of Generative AI projects, tools, artworks, and models
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 
 - [Generative AI Area](#generative-ai-area)
   - [Generative AI history, timelines, maps, and definitions](#generative-ai-history-timelines-maps-and-definitions)
