@@ -1050,6 +1050,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Synthesis
 
+* [Shortodella](https://shortodella.com/): AI image generator with a canvas editor, AI chat commands for editing, and background removal. Free tier available.
 * [TokenVerse](https://token-verse.github.io/): Versatile Multi-concept Personalization in Token Modulation Space
 * [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux) 
 * [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment](https://github.com/ToTheBeginning/PuLID)
@@ -1248,6 +1249,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [Shortodella](https://shortodella.com/): AI video generator that creates videos from images or text with a built-in canvas editor. Free tier available.
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
