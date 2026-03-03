@@ -482,6 +482,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Voicesphere](https://www.voicesphere.co/): Chat with your documents to get intelligent, context specific answers.
 * [Tune AI](https://chat.tune.app/): AI chat app powered by open source models
 * [GPT Mobile](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
+* [Paula](https://trypaula.com/): Free AI mental health companion using CBT and DBT techniques. Features voice sessions, mood tracking, journaling, and 24/7 availability.
 * [PageGen](https://pagegen.ai) - An AI Page Generator with Claude AI, React and Shadcn UI. Generate web pages from text, screenshot and templates with one click.
 * [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
 
