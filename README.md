@@ -1312,6 +1312,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Text-to-speech (TTS) and avatars
 
+* [DoaCam](https://doacam.com): 3D AI avatar you can video call in the browser with real-time voice, camera vision, 97 facial expressions, and persistent memory
 * [COVAL](https://app.coval.dev/the-ultimate-voice-ai-stack): architecture of voice AI, from speech recognition to emotional intelligence, and learn how to build, scale, and evaluate them
 * [Parler-TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c): fully open-source high-quality TTS
 * [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook): EPUB to audiobook converter, optimized for Audiobookshelf
