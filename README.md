@@ -790,6 +790,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Rerankers and Two-Stage Retrieval | Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
 * [Retrieval Augmented Generation | Pinecone](https://www.pinecone.io/learn/series/rag/)
 * [dssjon/biblos: biblos.app](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+* [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) – taxonomy of common RAG pipeline failures and debugging patterns (hallucination, retrieval drift, grounding errors)
 
 ### Embeddings and Semantic Search
 
