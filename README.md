@@ -927,6 +927,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [The Pile](https://pile.eleuther.ai): a leaderboard of The Pile benchmark.
 
 ### LLMOps
+* [smigolsmigol/llmkit](https://github.com/smigolsmigol/llmkit): open-source AI API gateway with cost tracking, budget enforcement, and rate limiting for 11 providers. TypeScript SDK, Vercel AI SDK provider, CLI, and MCP server
 
 * [Lunary](https://lunary.ai): Open-source platform for LLM chatbots and agents: observability, prompt management, testing & more
 * [Eden AI](https://www.edenai.co/?referral=partner-producthunt8&ref=producthunt): provides a unique API connected to the AI engines 
