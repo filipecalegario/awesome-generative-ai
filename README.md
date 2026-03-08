@@ -944,6 +944,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Attacks on LLMs
 
+* [Sentinel AI](https://github.com/MaxwellCalkin/sentinel-ai): real-time safety guardrails SDK for LLM applications with sub-millisecond scanning for prompt injection, PII leakage, harmful content, and more
 * [Constitutional Classifiers](https://arxiv.org/abs/2501.18837): Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming
 * [briland/LLM-security-and-privacy](https://github.com/briland/LLM-security-and-privacy): LLM security and privacy
 * [ZombAIs](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/): From Prompt Injection to C2 with Claude Computer Use
