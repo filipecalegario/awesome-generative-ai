@@ -855,6 +855,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 #### Multi-agents
 
+* [agents-squads/squads-cli](https://github.com/agents-squads/squads-cli): open-source CLI for managing autonomous AI agent squads with persistent memory, goals, and learning. Agents organize into domain-aligned squads that coordinate and get smarter over time. Built on Claude API.
 * [[2411.00114] Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/abs/2411.00114) 
 * [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents): implementation of the paper Generative Agents: Interactive Simulacra of Human Behavior
 * [Generative Agent Simulations of 1,000 People | arxiv](https://arxiv.org/abs/2411.10109) [[GitHub: joonspk-research/genagents]](https://github.com/joonspk-research/genagents) 
