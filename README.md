@@ -516,6 +516,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/) 
 * [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/): generates a webapp from a title, description, and other simple parameters
 * [wolfia-app/gpt-code-search](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
+* [BurnRate](https://github.com/burnrate-dev/burnrate): AI coding cost analytics CLI that tracks usage and costs across 7 providers (Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, Codex)
 * [Dedicated File for Inbox for GenAI + Dev](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references 
 * [e2b-dev/e2b](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
 * [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
