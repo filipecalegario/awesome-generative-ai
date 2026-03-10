@@ -695,6 +695,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 #### Prompt Engineering for Text-to-text
 
+* [Awesome AI Prompts for Developers](https://github.com/dohko04/awesome-ai-prompts-for-devs): a curated collection of production-ready prompts, frameworks, and configs specifically for software developers. Includes vibe coding setups, AGENTS.md configs, multi-agent workflows, and architecture prompts that work with Claude, ChatGPT, Cursor, and other LLM tools. #opensource
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 * [ChatGPT for designers](https://tibidavid.gumroad.com/l/ChatGPT-Cheat-Sheet-V2?ref=filipecalegario-awesome-generative-ai): ChatGPT Cheat Sheet V2 to craft better prompts
 * [🔥] [[2307.11760] Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760) 
