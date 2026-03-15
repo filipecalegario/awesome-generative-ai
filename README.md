@@ -670,6 +670,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ### Prompt Engineering
 
 * [Narrow AI](https://www.getnarrow.ai/): Automated Prompt Engineering and Optimization Platform
+* [WEDGE Method](https://thewedgemethodai.com) - Templates, tools, and frameworks for AI consultants and freelancers. Includes proposal templates, ROI calculators, rate cards, and 300+ AI prompts.
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) 
 * [ncwilson78/System-Prompt-Library](https://github.com/ncwilson78/System-Prompt-Library): A library of shared system prompts for creating customized educational GPT agents.
 * [Promptstacks](https://www.promptstacks.com/): a prompt engineering community
