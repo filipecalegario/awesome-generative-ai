@@ -662,6 +662,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
 * [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
 
+* [Arch Tools](https://archtools.dev) - 58 API tools behind one key. MCP native + x402 USDC payments on 15 chains. Web scraping, AI generation, crypto, voice, email, and more.
+
 ### Programming Frameworks for LLMs
 
 * [DSPy: Not Your Average Prompt Engineering](https://jina.ai/news/dspy-not-your-average-prompt-engineering/): a post about the DSPy, a framework developed by the Stanford NLP group aimed at algorithmically optimizing language model prompts
