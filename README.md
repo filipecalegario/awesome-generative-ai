@@ -1529,4 +1529,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 To the extent possible under law, Filipe Calegario has waived all copyright and
 related or neighboring rights to this work.
 
+- [HolySheep](https://holysheep.ai) - OpenAI/Anthropic/Gemini API relay for China developers. Supports GPT-5, Claude, Gemini 2.5 Pro, DeepSeek. Pay-as-you-go, no VPN required.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/filipecalegario)
