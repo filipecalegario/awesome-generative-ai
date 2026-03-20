@@ -438,6 +438,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
+* [Suriya](https://suriya.ai): AI-powered no-code app builder for Thai SMEs — describe your business app in Thai or English and get a working loyalty program, booking, or CRM in minutes.
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
 * [StartKit.AI](https://startkit.ai): Boilerplate for quickly building AI products
 * [No-Code Scraper](https://www.nocodescraper.com/): Data Scraping without Code - Seamlessly extract data from any website with just a few simple inputs.
