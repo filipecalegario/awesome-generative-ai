@@ -1050,6 +1050,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Synthesis
 
+* [PolyGlyph](https://polyglyph.io/): AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics
 * [TokenVerse](https://token-verse.github.io/): Versatile Multi-concept Personalization in Token Modulation Space
 * [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux) 
 * [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment](https://github.com/ToTheBeginning/PuLID)
