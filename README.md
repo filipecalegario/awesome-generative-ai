@@ -654,6 +654,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
   * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
   * [Composio MCP Server](https://mcp.composio.dev/): Connect Cursor, Windsurf, and Claude to 100+ fully managed MCP Servers with built-in auth
     * These servers are built by the community and are hosted by Composio
+  * [Global Chat](https://global-chat.io): cross-protocol AI agent discovery platform that aggregates 18K+ MCP servers across 6+ registries. Features a searchable directory, free agents.txt validator, and an MCP server for programmatic access.
 * [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients)
 * [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
 * [Add Supabase to Cursor via MCP](https://x.com/dshukertjr/status/1896531501514109056)
