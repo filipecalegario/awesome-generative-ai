@@ -1379,7 +1379,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## AI and Education
 
-* [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788) 
+* [Plot Ark](https://github.com/Schlaflied/Plot-Ark) - Self-hosted agentic curriculum engine for higher education with Bloom's Taxonomy alignment, LightRAG knowledge graph, and xAPI learning analytics pipeline.
+* [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788)
 
 ## People and works
 
