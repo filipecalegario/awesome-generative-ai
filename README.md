@@ -812,6 +812,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [🔥] [Building effective agents by Anthropic](https://www.anthropic.com/research/building-effective-agents): this article introduces basic concepts related to agents and didactically presents agent architectures.
 * [Complete Guide to LLM Agents (2025)](https://botpress.com/blog/llm-agents): summarization of terms related to LLM agents
 * [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs
+* [vinaybhosle/agentstamp](https://github.com/vinaybhosle/agentstamp): trust intelligence platform for AI agents — identity certification, trust scoring (0-100), forensic audit trails, x402 micropayments, and MCP server.
 * [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 * [Hexabot](https://github.com/hexastack/hexabot) Open-Source AI Chatbot / Agent builder with support for LLMs as well as social media channels integration.
 * [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. 
