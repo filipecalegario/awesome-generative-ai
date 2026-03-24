@@ -509,6 +509,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 * [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 * [Cody](https://about.sourcegraph.com/cody): AI coding assistant
+* [claw-army/claude-node](https://github.com/claw-army/claude-node): Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 * [Kombai](https://kombai.com/): generate UI code per component from Figma
 * [geekan/MetaGPT](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 * [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
