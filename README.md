@@ -500,6 +500,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## AI-Powered Code Generation
 
+* [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 * [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 * [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 * [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
