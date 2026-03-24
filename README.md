@@ -1518,6 +1518,11 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 [![Stargazers over time](https://starchart.cc/filipecalegario/awesome-generative-ai.svg)](https://starchart.cc/filipecalegario/awesome-generative-ai)
 ![](https://vbr.wocr.tk/badge?page_id=filipecalegario.awesome-generative-ai&color=55acb7&style=for-the-badge&logo=Github)
 
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
