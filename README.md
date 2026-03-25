@@ -793,6 +793,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Embeddings and Semantic Search
 
+* [yuvrajangadsingh/vemb](https://github.com/yuvrajangadsingh/vemb): CLI tool for generating embeddings from text, images, audio, video, and PDFs using Google's Gemini Embedding API
 * [🪆 Introduction to Matryoshka Embedding Models](https://huggingface.co/blog/matryoshka) 
 * [Getting creative with embeddings by Amelia Wattenberger](https://wattenberger.com/thoughts/yay-embeddings-math) 
 * [The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI) 
