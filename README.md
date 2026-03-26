@@ -1,5 +1,6 @@
 # Awesome Generative AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/) <!-- omit in toc -->
 
+* [Prefactor](https://prefactor.tech/) - AI agent runtime control plane with observability, governance, and integration with agent frameworks.
 > A curated list of Generative AI projects, tools, artworks, and models
 
 - [Generative AI Area](#generative-ai-area)
