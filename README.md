@@ -766,6 +766,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet is required.
 * [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
 * [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+* [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored): All-in-one local AI app for uncensored chat (Ollama), image generation (ComfyUI), and video generation in a single UI
 
 ### Function Calling
 
