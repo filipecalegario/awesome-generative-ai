@@ -1365,6 +1365,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Datasets
 
+* [TabGAN](https://github.com/Diyago/Tabular-data-generation): a Python library for generating synthetic tabular data using GANs (CTGAN), Diffusion Models, and LLMs. Features adversarial filtering, privacy metrics, constraints system, HTML quality reports, and sklearn Pipeline integration. [arXiv paper](https://arxiv.org/abs/2010.00638)
 * [Ego-Exo4D](https://ai.meta.com/blog/ego-exo4d-video-learning-perception/): a foundational dataset by Meta for research on video learning and multimodal perception [Dataset Download](https://ego-exo4d-data.org/) 
 * [Carolina](https://sites.usp.br/corpuscarolina/corpus/): General Corpus of Contemporary Brazilian Portuguese with provenance and typology information - Corpus Geral do Português Brasileiro Contemporâneo
 * [RedPajama-Data-v2 by Together AI](https://together.ai/blog/redpajama-data-v2): an open dataset with 30 trillion tokens for training Large Language Models 
