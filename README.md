@@ -866,6 +866,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 * [[2308.10848] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
 * [BrainSoup](https://www.nurgo-software.com/products/brainsoup): multi-agent & multi-LLM client with RAG, multi-modality, automation, code interpreter, and sandboxed file system
+* [chernistry/bernstein](https://github.com/chernistry/bernstein): parallel multi-agent coding orchestrator that spawns Claude Code, Codex CLI, and Gemini CLI simultaneously on isolated git worktrees; a deterministic Python scheduler with zero LLM tokens on coordination dispatches tasks, verifies results with your test suite, and auto-commits passing code
 
 ### LLM Evaluation
 
