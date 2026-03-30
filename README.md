@@ -500,6 +500,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## AI-Powered Code Generation
 
+* [CodeCosts](https://codecosts.pages.dev): Side-by-side pricing comparison for AI coding tools (GitHub Copilot, Cursor, Windsurf, Claude Code, Gemini Code Assist) with plan details, model access info, and a free public API
 * [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 * [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 * [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
