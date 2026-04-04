@@ -666,6 +666,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 * [DSPy: Not Your Average Prompt Engineering](https://jina.ai/news/dspy-not-your-average-prompt-engineering/): a post about the DSPy, a framework developed by the Stanford NLP group aimed at algorithmically optimizing language model prompts
 * [🔥🔥🔥] [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
+* [🔥🔥🔥] [ENDEVSOLS/Long-Trainer](https://github.com/ENDEVSOLS/Long-Trainer): A production-ready RAG framework built on top of LangChain that abstracts multi-bot isolation, memory, and streaming capabilities.
 
 ### Prompt Engineering
 
