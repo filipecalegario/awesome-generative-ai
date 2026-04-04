@@ -1050,6 +1050,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Synthesis
 
+* [Oniichan](https://oniichan.app): AI manga generator and OC maker that creates illustrated manga pages and original characters from text prompts using a custom finetuned model, with panel editing and a reusable character library
 * [TokenVerse](https://token-verse.github.io/): Versatile Multi-concept Personalization in Token Modulation Space
 * [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux) 
 * [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment](https://github.com/ToTheBeginning/PuLID)
