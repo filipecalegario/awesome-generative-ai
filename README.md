@@ -835,6 +835,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [joonspk-research/generative_agents - Generative Agents](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior [[arxiv]](https://arxiv.org/abs/2304.03442) 
 * [AgentBench: Evaluating LLMs as Agents](https://huggingface.co/papers/2308.03688): Hugging Face paper page on a benchmark to evaluate LLMs agents
 * [geekan/MetaGPT](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo 
+* [Overloop CLI](https://github.com/sortlist/overloop-cli): AI-powered outbound engine that sources contacts (450M+), runs multi-channel campaigns (email + LinkedIn), and enrolls prospects via CLI with JSON output
+* [Signals CLI](https://github.com/sortlist/signals-cli): AI-driven B2B intent signal monitoring that tracks LinkedIn engagement, job changers, funding events, and keyword posters via CLI with JSON output
 * [GPT Researcher](https://app.tavily.com/): AI agents for insights and research
 * [Multi-agent Simulation by Jim Fan on Twitter](https://twitter.com/DrJimFan/status/1682086586593443841): "The next frontier of emergent intelligence will be multi-agent simulation: a crowd of AI characters carry out their daily lives through complex social interactions"
 * [Introducing AACP | SuperAGI](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/): agent to agent communication protocol
