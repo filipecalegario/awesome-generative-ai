@@ -838,6 +838,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [GPT Researcher](https://app.tavily.com/): AI agents for insights and research
 * [Multi-agent Simulation by Jim Fan on Twitter](https://twitter.com/DrJimFan/status/1682086586593443841): "The next frontier of emergent intelligence will be multi-agent simulation: a crowd of AI characters carry out their daily lives through complex social interactions"
 * [Introducing AACP | SuperAGI](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/): agent to agent communication protocol
+* [Hashgraph Online (HOL)](https://hol.org): Trust engine for the agentic internet — provides verifiable agent identity via Universal Agent IDs (UAIDs), trustless P2P communication (HCS-10), and a registry of 187K+ verified AI agents. Built on Hedera Consensus Service with open-source SDKs in TypeScript, Go, and Python.
 * [BrainstormGPT](https://brainstormgpt.ai/#/): AI multi-agent problem solving
 * [ChatArena](https://www.chatarena.org/): building multi-agent environments for LLMs
 * [🔥🔥🔥] [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/): the LLM agents learning notes by Lilian Weng
