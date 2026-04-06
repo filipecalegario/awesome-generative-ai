@@ -820,6 +820,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [[2406.04692] Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692) 
 * [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration. 
 * [Practices for Governing Agentic AI Systems](https://openai.com/research/practices-for-governing-agentic-ai-systems): paper by OpenAI that offers a set of practices for keeping agents’ operations safe and accountable.
+* [Asqav](https://github.com/jagmarques/asqav-sdk): open-source Python SDK for validating AI agent compliance against EU AI Act and OWASP Agentic Top 10 standards. Available via `pip install asqav`.
 * [[2312.05230] Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning](https://arxiv.org/abs/2312.05230) 
 * [[2309.02427] Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427): "we draw on the rich history of cognitive science and symbolic artificial intelligence to propose Cognitive Architectures for Language Agents (CoALA)" 
 * [[2309.07864] The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
