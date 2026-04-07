@@ -25,6 +25,7 @@
       - [Prompt Optimizers](#prompt-optimizers)
       - [Prompt Engineering for Text-to-text](#prompt-engineering-for-text-to-text)
       - [Prompt Engineering for Text-to-image](#prompt-engineering-for-text-to-image)
+- [Alt Audit](https://altaudit.com) — AI-powered WordPress plugin and SaaS for bulk alt text generation and WCAG image accessibility compliance. Uses Google Gemini. Free tier available.
     - [Mamba](#mamba)
     - [Running LLMs Locally](#running-llms-locally)
     - [Function Calling](#function-calling)
