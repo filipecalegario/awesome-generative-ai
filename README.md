@@ -1448,7 +1448,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [chaosreactor/awesome-generative-ai](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 * [🔥] [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * [justinpinkney/awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
-
+* [RemoteOpenClaw](https://remoteopenclaw.com): Open marketplace for AI skills and personas built on OpenClaw
 ## Bio experiments
 
 * [fMRI-to-image](https://twitter.com/danberridge/status/1631489991435243520): tweet by [danberridge](https://twitter.com/danberridge) "The 'presented images' were shown to a group of humans. The 'reconstructed images' were the result of an fMRI output to Stable Diffusion. In other words, Stable Diffusion literally read people's minds."
