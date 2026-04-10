@@ -497,6 +497,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 * [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
 * [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
+* [Forge](https://forge-web.rebaselabs.online): AI-powered full-stack app creator with BYOK (Bring Your Own Key). Generate Next.js apps from text prompts using your own LLM API key.
 
 ## AI-Powered Code Generation
 
