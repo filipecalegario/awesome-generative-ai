@@ -1457,6 +1457,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 * [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
 * [Latest Jobs and News in AI at trending startups and big companies | AIJobster](https://aijobster.work/)
+* [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 
 ## Improving Google Colab experience
 
