@@ -1224,6 +1224,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 * [Wilco Sierra](https://trywilco.com/sierra): A platform that generates engineering challenges for software engineers using GPT.
 
+- [Pixnova](https://www.pixnova.app) - AI photo & video editing platform. Face swap, avatar generation, baby prediction, background removal. Free web and iOS app.
 ## Image Upscaling
 
 * [Leonardo AI Upscaler](https://leonadoai.com/upscaler/): free image upscaler
