@@ -527,6 +527,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
 * [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
 * [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
+* [GrugBot420](https://github.com/grug-group420/grugbot420) - Zero-dependency AI-powered CLI assistant built with Bun, featuring server mode, pipeline-native shell integration, and a "Grug Brain Developer" philosophy.
 
 # Text
 
