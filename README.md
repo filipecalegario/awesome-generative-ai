@@ -358,6 +358,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Technologies in LabLab](https://lablab.ai/tech): list of AI tools suggested by [lablab.ai](https://lablab.ai) for their hackathons
 * [Vondy - Next Generation AI Apps](https://www.vondy.com/): collection of AI tools organized by tasks 
 * [AI Tool Master List](https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207): directory maintained by ClickUp
+* [Formatho Tools](https://formatho.com/Tools): 100+ privacy-first developer utilities. All client-side processing, no signup. Also maintains [awesome-ai-tools](https://github.com/formatho/awesome-ai-tools).
 * [AI Valley](https://aivalley.ai/): "The Newest AI Tools And Prompts"
 * [AI Finder](https://ai-finder.net/): repository with more than 1500 AI tools 
 * [BestWebbs](https://bestwebbs.com/): "one-stop destination for all AI Tools"
