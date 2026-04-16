@@ -869,6 +869,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer): CLI tool that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) against multiple LLMs, measures whether models call the right tools with the right arguments, and runs an iterative optimizer to improve docs until all configured models pass a score floor.
 * [Cleanlab Trustworthy Language Model: Score the trustworthiness of any LLM response](https://help.cleanlab.ai/tlm/)
 * [PAIR-code/llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
 * [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
