@@ -661,6 +661,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
 * [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
 * [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
+* [Not Human Search](https://nothumansearch.ai/): search engine and directory for 1,750+ AI agent tools and MCP servers, with agentic readiness scoring. Also provides its own MCP server for tool discovery.
 
 ### Programming Frameworks for LLMs
 
@@ -1455,6 +1456,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Jobs in Generative AI
 
+* [AI Dev Jobs](https://aidevboard.com/): AI/ML-focused job board with 5,500+ curated jobs from 289+ companies. Public REST API and MCP server for programmatic job search by AI agents.
 * [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
 * [Latest Jobs and News in AI at trending startups and big companies | AIJobster](https://aijobster.work/)
 
