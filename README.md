@@ -773,6 +773,10 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### GPTs and Assistant API
 
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+- [FutureAGI futureagi-sdk](https://github.com/future-agi/futureagi-sdk)
+
 * [Featured GPTs](https://www.featuredgpts.com/):  curated custom GPTs list for daily tasks
 * [AllGPTs](https://allgpts.co/): a directory to find GPTs
 
