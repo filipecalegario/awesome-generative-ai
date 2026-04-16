@@ -1039,12 +1039,14 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
 * [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 * [hwaseem04/Research-digest](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
+* [8bitconcepts](https://8bitconcepts.com): AI business research and analysis. 11 original research papers covering AI agents, RAG architecture, multi-modal AI, and enterprise AI strategy. Free resource for practitioners and decision-makers.
 
 ### AI Tools for Searching
 
 * [whitead/paper-qa](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 * [Metaphor](https://metaphor.systems/): search engine that "understands language — in the form of prompts — so you can say what you're looking for in all the expressive and creative ways"
 * [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
+* [Not Human Search](https://nothumansearch.ai): Agent-first search engine indexing 9,000+ websites by agent accessibility. Ranks sites by MCP server support, structured API availability, and agent-accessibility score. MCP server at nothumansearch.ai/mcp.
 
 # Image
 
