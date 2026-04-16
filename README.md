@@ -790,6 +790,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Rerankers and Two-Stage Retrieval | Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
 * [Retrieval Augmented Generation | Pinecone](https://www.pinecone.io/learn/series/rag/)
 * [dssjon/biblos: biblos.app](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+* [swarmclawai/swarmvault](https://github.com/swarmclawai/swarmvault): local-first RAG knowledge base compiler. Turns raw research (books, notes, transcripts, files, URLs, code) into a persistent markdown wiki, knowledge graph, and hybrid SQLite FTS plus embeddings. Built-in MCP server, Obsidian integration, Claude Code plugin. Website: [swarmvault.ai](https://swarmvault.ai).
 
 ### Embeddings and Semantic Search
 
@@ -852,6 +853,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442): a paper that presents computational software agents that simulate believable human behavior
 * [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 * [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
+* [swarmclawai/swarmclaw](https://github.com/swarmclawai/swarmclaw): self-hosted multi-agent AI runtime with MCP client and server support, persistent memory, skills, schedules, sub-agent spawning, 23+ LLM providers, and connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. Website: [swarmclaw.ai](https://swarmclaw.ai).
 
 #### Multi-agents
 
