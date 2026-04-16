@@ -371,6 +371,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
 * [Maxim AI](https://www.getmaxim.ai): a generative AI evaluation and observability platform
 * [AI Tool List](https://www.aitoollist.org): An awesome directory of AI tools
+* [Not Human Search](https://nothumansearch.ai/): AI tool discovery engine with agentic scoring. Indexes 8,600+ AI tools and MCP servers with REST API and MCP server for programmatic access.
 
 ## Courses and Educational Materials
 
