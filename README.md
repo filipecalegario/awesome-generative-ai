@@ -364,6 +364,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/): list of AI tools
 * [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/): directory of AI tools
 * [There's An AI For That](https://theresanaiforthat.com/): AI database
+* [AISTackPicks](https://aistackpicks.com/): verified AI tool reviews, pricing comparisons, alternatives, and buyer guides
 * [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 * [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
 * [Altern](https://altern.ai) - The place to discover new AI tools and products.
