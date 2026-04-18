@@ -371,6 +371,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
 * [Maxim AI](https://www.getmaxim.ai): a generative AI evaluation and observability platform
 * [AI Tool List](https://www.aitoollist.org): An awesome directory of AI tools
+- [Which AI Model](https://tools.modologystudios.com/which-model/) - Free browser tool: 4 questions → one specific AI model recommendation with reasoning (Claude, GPT-4o, Gemini, Llama 4, DeepSeek). No account required.
 
 ## Courses and Educational Materials
 
