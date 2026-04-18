@@ -436,6 +436,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [Lumi Tarot](https://createdbyaicreator.cloud/creations/tarot): Free AI tarot card readings with Lumi the cat guide. 78-card full deck, no signup needed, 15+ languages supported.
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
