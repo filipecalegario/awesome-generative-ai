@@ -483,7 +483,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Tune AI](https://chat.tune.app/): AI chat app powered by open source models
 * [GPT Mobile](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
 * [PageGen](https://pagegen.ai) - An AI Page Generator with Claude AI, React and Shadcn UI. Generate web pages from text, screenshot and templates with one click.
-* [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
+* [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input.
+* [Netwrck](https://netwrck.com): AI character chat with voice, art generation, chatbots, gallery, and API
 
 # Code and Programming
 
@@ -978,6 +979,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Text-related Generative Tools
 
+* [Text-Generator.io](https://text-generator.io): Privacy-first text, vision, and speech API
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere
 * [Jack AI](https://www.usejackai.com): AI Marketing Copywriter tool
 * [aiPDF](https://aipdf.ai): The most advanced AI document assistant
