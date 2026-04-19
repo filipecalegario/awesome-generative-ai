@@ -1282,6 +1282,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Mustango](https://huggingface.co/spaces/declare-lab/mustango): "Toward Controllable Text-to-Music Generation"
 * [Lyria by Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/): "transforming the future of music creation" 
 * [Suno AI](https://www.suno.ai/): "make any song you can imagine"
+* [AceTagGen](https://acetaggen.com): free structured prompt builder for Suno AI — 3,000+ tested tags, 12-step questionnaire, built-in quality score, respects Suno's 200-character Style limit. Includes a free public scoring API at `https://acetaggen.com/api/suno-score` and an open-source [npm/JS library](https://github.com/shaizadok92/suno-prompt-scorer).
 * [Riffusion](https://www.riffusion.com/): this AI system generates singing voice for literally any text as input
 * [Stable Audio - Generative AI for music & sound fx](https://www.stableaudio.com/) 
 * [An early look our AI Music experiment - YouTube Blog](https://blog.youtube/inside-youtube/ai-and-music-experiment/) 
