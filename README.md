@@ -1530,3 +1530,4 @@ To the extent possible under law, Filipe Calegario has waived all copyright and
 related or neighboring rights to this work.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/filipecalegario)
+- [BenchGecko](https://benchgecko.ai) - AI model benchmark tracking, cross-provider pricing, and economy dashboard with free API.
