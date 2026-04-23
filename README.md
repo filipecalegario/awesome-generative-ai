@@ -436,6 +436,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [GenHorizon](https://genhorizon.ai): All-in-one AI creative studio for image generation, video creation, AI image editing, and watermark removal. Access 20+ frontier models including FLUX, Kling, and WAN — free to start with 300 tokens.
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
@@ -1050,6 +1051,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Synthesis
 
+* [GenHorizon](https://genhorizon.ai): Text-to-image AI platform with 20+ models including FLUX Schnell, FLUX Dev, Kling Image O3, and Google Nano Banana Pro. Also supports image editing, video generation, and watermark removal.
 * [TokenVerse](https://token-verse.github.io/): Versatile Multi-concept Personalization in Token Modulation Space
 * [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux) 
 * [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment](https://github.com/ToTheBeginning/PuLID)
