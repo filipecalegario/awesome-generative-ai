@@ -1344,6 +1344,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
 * [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 * [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
+* [TranscribeText](https://transcribetext.com): AI-powered transcription supporting 41+ languages with speaker diarization, subtitle translation, and direct YouTube URL input. Processes a 2-hour audio file in under 2 minutes. Strong on under-served languages like Chinese, Tamil, Vietnamese, Japanese, and Korean.
 
 # Games
 
