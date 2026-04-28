@@ -1281,7 +1281,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [StemGen: A music generation model that listens](https://julian-parker.github.io/stemgen/) 
 * [Mustango](https://huggingface.co/spaces/declare-lab/mustango): "Toward Controllable Text-to-Music Generation"
 * [Lyria by Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/): "transforming the future of music creation" 
-* [Suede](https://suedeai.ai): AI music and video generation with automatic on-chain ownership — every track is registered, licensable, and earnable from the moment of creation. Create. Own. Earn.
+* [Suede](https://suedeai.ai): AI music and video generation with automatic on-chain ownership and licensing/royalty routing.
 * [Suno AI](https://www.suno.ai/): "make any song you can imagine"
 * [Riffusion](https://www.riffusion.com/): this AI system generates singing voice for literally any text as input
 * [Stable Audio - Generative AI for music & sound fx](https://www.stableaudio.com/) 
