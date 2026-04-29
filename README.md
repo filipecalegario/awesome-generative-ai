@@ -500,6 +500,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## AI-Powered Code Generation
 
+* [Bernstein](https://github.com/sipyourdrink-ltd/bernstein): open-source multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, and 33 other CLI coding agents in parallel git worktrees with a deterministic Python scheduler.
 * [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 * [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 * [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
