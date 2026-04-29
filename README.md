@@ -658,6 +658,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
 * [Add Supabase to Cursor via MCP](https://x.com/dshukertjr/status/1896531501514109056)
 * [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg): AI Engineer Summit workshop
+* [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx): Open-source context runtime for AI coding agents. MCP server + shell hook reducing token costs by 60-99%. Apache-2.0. [leanctx.com](https://leanctx.com)
 * [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
 * [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
 * [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
