@@ -1307,6 +1307,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound)
 * [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
 * [MuseGen](https://musegen.org): An AI music studio for lyric writing and song generation, built for creators
+* [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
 
 # Speech
 
