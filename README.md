@@ -436,6 +436,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [ThreeDee AI 3D Generator](https://www.threedee.design/products/ai-3d-generator/): Generate 3D models from text prompts or a single image.
+* [ThreeDee AI 3D Bust Maker](https://www.threedee.design/products/3d-bust-maker/): Generate printable 3D bust models from one portrait photo.
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
