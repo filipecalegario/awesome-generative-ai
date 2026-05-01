@@ -1244,6 +1244,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Segmentation
 
+* [AI background remover (browser-based)](https://free-background-remover.com): runs entirely in the browser using an AI segmentation model, with no upload, sign-up, or watermark
 * [Segment Anything | Meta AI](https://segment-anything.com/): "a new AI model from Meta AI that can "cut out" any object, in any image, with a single click"
 
 # Video and Animation
