@@ -436,6 +436,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [NotFair](https://notfair.co): Hosted Google Ads MCP server connecting Claude and other AI agents to your Google Ads account. Diagnose campaign performance, recommend optimizations, and execute approved changes (bids, budgets, negative keywords, ad copy) via the Google Ads API with a built-in human-approval gate. Free tier available.
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
