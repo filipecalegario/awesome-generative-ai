@@ -367,6 +367,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 * [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
 * [Altern](https://altern.ai) - The place to discover new AI tools and products.
+* [Brainiall](https://chat.brainiall.com): managed AI gateway with 104+ models (GPT-5, Claude 4.7, Gemini 3, Llama 4, Seedance) at flat $5.99/mo. OpenAI-compatible API, EU-hosted (GDPR/AI Act compliant), Brazilian-founded. Includes [savings calculator](https://chat.brainiall.com/savings-calculator) and [free tier](https://chat.brainiall.com/free).
 * [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
 * [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
 * [Maxim AI](https://www.getmaxim.ai): a generative AI evaluation and observability platform
