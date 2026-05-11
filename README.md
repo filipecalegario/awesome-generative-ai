@@ -692,6 +692,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [vaibkumr/prompt-optimizer](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
 * [PromptPerfect](https://promptperfect.jina.ai/): "Optimize Your Prompts to Perfection"
 * [🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
+* [future-agi/agent-opt](https://github.com/future-agi/agent-opt): open-source library for automated optimization of AI agent workflows. Evaluation-driven prompt and config tuning with six algorithms (Random, Bayesian, ProTeGi, Meta-Prompt, PromptWizard, GEPA).
 
 #### Prompt Engineering for Text-to-text
 
