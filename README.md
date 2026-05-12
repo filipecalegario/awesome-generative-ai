@@ -976,7 +976,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
 * [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT 
 
-### Text-related Generative Tools
+### Text
+- [Qonspekt](https://github.com/Qonspekt/qonspekt) - Article to atomic Obsidian notes via Claude AI. BYOK, no backend. [Live](https://qonspekt.github.io/qonspekt/)-related Generative Tools
 
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere
 * [Jack AI](https://www.usejackai.com): AI Marketing Copywriter tool
