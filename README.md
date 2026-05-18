@@ -81,7 +81,7 @@
   - [Bio experiments](#bio-experiments)
   - [Jobs in Generative AI](#jobs-in-generative-ai)
   - [Improving Google Colab experience](#improving-google-colab-experience)
-  - [Auxiliary tools and concepts](#auxiliary-tools-and-concepts)
+  - [](#auxiliary-tools-and-concepts)
     - [Dimension reduction techniques](#dimension-reduction-techniques)
   - [Roadmaps, Tracks, Rails](#roadmaps-tracks-rails)
   - [Stargazers over time](#stargazers-over-time)
@@ -1496,6 +1496,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Galichat.com](https://www.galichat.com/?ref=filipecalegario-awesome-generative-ai): AI Support Assistant that helps you grow your business.
 * [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
 * [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
+* [BulkPicTools](https://bulkpictools.com): free browser-based bulk image processing suite with tool chaining and local AI (background removal and face blur via WebGPU/WASM, no upload, works offline)
 
 ### Dimension reduction techniques
 
