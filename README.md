@@ -815,6 +815,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 * [Hexabot](https://github.com/hexastack/hexabot) Open-Source AI Chatbot / Agent builder with support for LLMs as well as social media channels integration.
 * [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. 
+* [Atendente24h](https://atendente24h.com) - AI-powered WhatsApp chatbot for Brazilian SMBs. Automates customer service, scheduling, and sales 24/7 using Claude (Anthropic). Production-ready agent serving real businesses.
 * [TailorTask](https://www.tailortask.ai) - Automate any boring task, without code and without having to learn a new tool
 * [[2406.04784] SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals](https://arxiv.org/abs/2406.04784) 
 * [[2406.04692] Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692) 
