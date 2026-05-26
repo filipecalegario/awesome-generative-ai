@@ -760,6 +760,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Running LLMs Locally
 
+* [Prompter](https://github.com/whonixnetworks/prompter): Terminal-based multi-model comparison and benchmarking for Ollama. Zero dependencies, single file.
 * [llama.cpp guide](https://steelph0enix.github.io/posts/llama-cpp-guide/): Running LLMs locally, on any hardware, from scratch
 * [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer): a high-speed inference engine for deploying LLMs locally 
 * [🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
