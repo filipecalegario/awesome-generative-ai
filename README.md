@@ -1050,6 +1050,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Synthesis
 
+* [Comicory](https://www.comicory.com/): AI comic generator that turns a story paragraph into a multi-panel comic strip with consistent characters across panels via FLUX.1-Kontext image-to-image conditioning. 8 art styles (manga, western, superhero, watercolor, B&W, cartoon, pixel, ink) and per-panel regeneration.
 * [TokenVerse](https://token-verse.github.io/): Versatile Multi-concept Personalization in Token Modulation Space
 * [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux) 
 * [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment](https://github.com/ToTheBeginning/PuLID)
