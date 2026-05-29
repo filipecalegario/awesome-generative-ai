@@ -545,6 +545,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [R Jina](https://r.jina.ai/): convert websites into Markdown by placing the URL in the search bar
 * [Gitingest](https://gitingest.com/): turn any Git repository into a simple text digest of its codebase.
 * [uithub](https://uithub.com/): convert GitHub repositories into Markdown by placing the URL in the search bar
+* [chat-takeout-md](https://github.com/patrickschiller/chat-takeout-md): CLI tool to convert Claude and Gemini data exports into portable Markdown archives with attachments. Fully offline, zero dependencies.
 
 ## Small Language Models
 
