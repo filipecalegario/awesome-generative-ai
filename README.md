@@ -1012,6 +1012,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [AI Story Generate](https://aistorygenerate.com): Generate stories using LLM with custom emotion, genre, and word count.
 * [Composum AI](https://github.com/ist-dresden/composum-AI) Plugin for CMS Adobe Experience Manager (AEM) or Composum Pages helping the editor to create / edit / translate texts
 * [TextCraft](https://github.com/suncloudsmoon/TextCraft) Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
+* [Extypis](https://extypis.app): All-in-one AI writing studio for novelists, essayists, and poets with project-aware AI (rewrite, continue, ghost completion), native French- and English-language analysis, and multi-format export (PDF, DOCX, EPUB, LaTeX).
 
 ## Research AI Tools
 
