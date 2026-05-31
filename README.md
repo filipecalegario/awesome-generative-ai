@@ -486,6 +486,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
 
 # Code and Programming
+* [Clipy](https://clipy.online/?ref=filipecalegario-awesome-generative-ai) - free AI screen recorder: record your screen and share an instant link, with an AI summary, searchable transcript, and auto-chapters on every recording (no signup to watch)
 
 ## Vibe Coding
 
