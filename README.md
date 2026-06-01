@@ -459,6 +459,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 * [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 * [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
+* [igly.ai](https://igly.ai): AI image editor for background removal, inpainting, upscaling, and generative fill workflows.
 * [Scenario AI](https://www.scenario.gg/): AI-generated game assets
 * [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
 * [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
