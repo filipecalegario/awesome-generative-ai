@@ -443,6 +443,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [No-Code Scraper](https://www.nocodescraper.com/): Data Scraping without Code - Seamlessly extract data from any website with just a few simple inputs.
 * [BacklinkGPT](https://www.backlinkgpt.com/): AI-powered link-building platform that helps you generate personalized outreach messages for faster link building.
 * [VocalReplica](https://vocalreplica.com/): AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks
+* [RunAPI MCP Server](https://github.com/runapi-ai/mcp): Unified AI model API with 130+ models for image, video, music, audio, and LLM generation. MCP server for Claude Code, Cursor, Codex. Free catalog tools, no API key required.
 * [LangMagic](https://easytolearn.io): Learn languages from native content.
 * [Persuva](https://persuva.ai): Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 * [Dittto.ai](https://dittto.ai): Fix your hero copy with an AI trained on top SaaS websites.
