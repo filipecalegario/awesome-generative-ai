@@ -930,6 +930,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 * [Lunary](https://lunary.ai): Open-source platform for LLM chatbots and agents: observability, prompt management, testing & more
 * [Eden AI](https://www.edenai.co/?referral=partner-producthunt8&ref=producthunt): provides a unique API connected to the AI engines 
+* [CoderPlan](https://coderplan.ai): LLM API Gateway with OpenAI-compatible interface, pay-per-use access to GPT-4, Claude, Gemini, and more with built-in monitoring and analytics
 * [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
 * [LLM App](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
