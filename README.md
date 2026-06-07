@@ -780,6 +780,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 * [Benchmarking Hallucination Detection Methods in RAG | Towards Data Science](https://towardsdatascience.com/benchmarking-hallucination-detection-methods-in-rag-6a03c555f063/)
 * [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain): Everything you need to know to build your own RAG application
+* [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques): advanced RAG techniques, each presented as a runnable notebook tutorial, covering retrieval, chunking, reranking, query transformations, and evaluation
 * [ragapp/ragapp](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
 * [LlamaParse](https://www.llamaindex.ai/blog/launching-the-first-genai-native-document-parsing-platform): GenAI-native document parsing platform by LlamaIndex
 * [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) 
