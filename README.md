@@ -809,7 +809,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Autonomous LLM Agents
 
-* [futuresearch/futuresearch-python](https://github.com/futuresearch/futuresearch-python): Python library that uses AI web research agents to perform data operations: deduplication, merging, ranking, screening and more using natural language.
+* [futuresearch/futuresearch-python](https://github.com/futuresearch/futuresearch-python): Python library that dispatches parallel web-research agents across table rows, synthesizing multi-agent findings into structured columns.
 * [🔥] [Building effective agents by Anthropic](https://www.anthropic.com/research/building-effective-agents): this article introduces basic concepts related to agents and didactically presents agent architectures.
 * [Complete Guide to LLM Agents (2025)](https://botpress.com/blog/llm-agents): summarization of terms related to LLM agents
 * [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs
