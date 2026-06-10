@@ -1448,6 +1448,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [chaosreactor/awesome-generative-ai](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 * [🔥] [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * [justinpinkney/awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
+* [AI Logo Collection](https://ailogocollection.com): Free SVG & PNG logos for 300+ AI companies including OpenAI, Anthropic, Midjourney, and many more.
 
 ## Bio experiments
 
