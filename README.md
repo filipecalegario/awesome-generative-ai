@@ -1275,6 +1275,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Content Studio AI](https://contentstudioai.com/): Faceless Video Generator
+* [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit): renders 4-6s animated b-roll overlay mp4s for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok). AI-driven via MCP: paste your script into Claude Code / Cursor / Codex, the model writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. npm: `@alichherawalla/video-overlay-kit`. Free, MIT, local.
 
 # Audio and Music
 
