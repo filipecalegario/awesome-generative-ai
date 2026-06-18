@@ -489,6 +489,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Vibe Coding
 
+* [Roblox GUI Maker](https://robloxguimaker.dev/): AI-assisted tool for planning Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter code.
 * [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding): A curated list of vibe coding references, colaborating with AI to write code.
 * [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383): "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
 * [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
