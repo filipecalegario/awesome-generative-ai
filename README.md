@@ -808,6 +808,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
 
 ### Autonomous LLM Agents
+- [AgentCourt](https://github.com/vbkotecha/agentcourt-api) - policy-driven dispute resolution API for AI agent commerce: when agents transact and things go wrong, AgentCourt evaluates structured evidence and returns deterministic rulings
 
 * [🔥] [Building effective agents by Anthropic](https://www.anthropic.com/research/building-effective-agents): this article introduces basic concepts related to agents and didactically presents agent architectures.
 * [Complete Guide to LLM Agents (2025)](https://botpress.com/blog/llm-agents): summarization of terms related to LLM agents
