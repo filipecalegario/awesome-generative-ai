@@ -649,6 +649,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
   * [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
   * [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
 * List of Servers
+  * [BuyWhere/buywhere-mcp-server](https://github.com/BuyWhere/buywhere-mcp): Real-time cross-border e-commerce product search MCP server with 11M+ products across SEA marketplaces.
   * [modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
   * [Awesome MCP Servers](https://mcpservers.org/)
   * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
