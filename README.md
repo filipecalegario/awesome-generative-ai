@@ -555,6 +555,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ## Large Language Models (LLMs)
 
 * [lunary-ai/abso](https://github.com/lunary-ai/abso): TypeScript SDK to easily call 100+ LLMs using OpenAI's format
+* [SuperCompress](https://supercompress.vercel.app): Learned prompt compression that reduces LLM token costs by ~65% using a ~5K-param CPU policy (~60ms latency). Open-source (MIT). `pip install supercompress`
 * [oumi-ai/oumi](https://github.com/oumi-ai/oumi): open universal machine intelligence, open-source platform that streamlines the entire lifecycle of foundation models - from data preparation and training to evaluation and deployment
 * [🔥] [Transformer Explainer](https://poloclub.github.io/transformer-explainer/): LLM Transformer Model Visually Explained [YouTube Video](https://www.youtube.com/watch?v=ECR4oAwocjs) 
 * [comet-ml/opik](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
