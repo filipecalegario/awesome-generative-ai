@@ -2,6 +2,7 @@
 
 > A curated list of Generative AI projects, tools, artworks, and models
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): structured Markdown templates + Claude Code skills for giving AI agents deep personal context. Used in a real 28-agent autonomous system. Open-source, MIT licensed.
 - [Generative AI Area](#generative-ai-area)
   - [Generative AI history, timelines, maps, and definitions](#generative-ai-history-timelines-maps-and-definitions)
   - [Ethics, Philosophical questions and Discussions about Generative AI](#ethics-philosophical-questions-and-discussions-about-generative-ai)
