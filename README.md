@@ -3,6 +3,8 @@
 > A curated list of Generative AI projects, tools, artworks, and models
 
 - [Generative AI Area](#generative-ai-area)
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
   - [Generative AI history, timelines, maps, and definitions](#generative-ai-history-timelines-maps-and-definitions)
   - [Ethics, Philosophical questions and Discussions about Generative AI](#ethics-philosophical-questions-and-discussions-about-generative-ai)
   - [Critical Views about Generative AI](#critical-views-about-generative-ai)
