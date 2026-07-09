@@ -1063,6 +1063,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 * [openai/point-e](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 * [[arxiv/2211.11319] VectorFusion](https://arxiv.org/abs/2211.11319): Text-to-SVG by Abstracting Pixel-Based Diffusion Models
+* [MergeFrame](https://mergeframe.com) — Free browser-based tool to combine AI-generated images into clean, customizable comparison grids. No signup, no watermark, all processing happens locally. 4K PNG/JPG export.
 * [Parrot Zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205): a database of image synthesis references
 * [Image Synth Link List](https://proximacentaurib.notion.site/39805c50735849cfa54b5d688587e12e?v=b9ea748623e342fdae02d07c86c668bf): a collection of links organized by the collective parrot zone
 * [🔥🔥🔥] [Ai generative art tools](https://pharmapsychotic.com/tools.html): a massive list of shared Google Colab notebooks and tools organized by [@pharampsychotic](https://twitter.com/pharmapsychotic)
