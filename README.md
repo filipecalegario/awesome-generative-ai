@@ -1248,6 +1248,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [YumCut](https://github.com/IgorShadurin/app.yumcut.com): source-available, self-hosted workflow for generating finished vertical videos with scripts, voiceovers, visuals, captions, and an automation API
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
