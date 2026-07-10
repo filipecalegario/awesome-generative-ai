@@ -765,6 +765,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
 * [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet is required.
 * [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
+* [Off Grid AI Desktop](https://getoffgridai.co/desktop): private, local-first macOS AI app - local LLM chat, on-device image generation, dictation, and memory search, fully offline (AGPL-3.0)
 * [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
 
 ### Function Calling
