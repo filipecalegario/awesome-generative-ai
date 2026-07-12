@@ -486,6 +486,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
 
 # Code and Programming
+* [Sparkiz](https://sparkiz.ai/): turn a product link or photo into a UGC-style video ad with an AI presenter, script, voiceover, and captions (Hebrew, English, Russian)
 
 ## Vibe Coding
 
