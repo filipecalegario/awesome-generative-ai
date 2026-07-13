@@ -437,6 +437,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ## Online Tools and Applications
 
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
+* [ImagineClip](https://imagineclip.com/ai-video-to-video): Browser-based AI video workflow for prompts, images, transformations, and creative effects.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
 * [StartKit.AI](https://startkit.ai): Boilerplate for quickly building AI products
