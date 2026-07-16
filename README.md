@@ -770,6 +770,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ### Function Calling
 
 * [Nexusflow/NexusRaven-V2-13B · Hugging Face](https://huggingface.co/Nexusflow/NexusRaven-V2-13B): "surpassing GPT-4 for Zero-shot Function Calling"
+* [Avelina AI](https://avelina.ai): Self-hosted personal AI assistant that lives in your Telegram and runs on your own server, with persistent memory, a voice and an emotional core.
 
 ### GPTs and Assistant API
 
