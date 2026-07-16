@@ -809,6 +809,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Autonomous LLM Agents
 
+* [heymrun/heym](https://github.com/heymrun/heym): source-available, self-hosted visual platform for building multi-agent workflows with RAG, MCP, human-in-the-loop controls, evals, and tracing
 * [🔥] [Building effective agents by Anthropic](https://www.anthropic.com/research/building-effective-agents): this article introduces basic concepts related to agents and didactically presents agent architectures.
 * [Complete Guide to LLM Agents (2025)](https://botpress.com/blog/llm-agents): summarization of terms related to LLM agents
 * [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs
