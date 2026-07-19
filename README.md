@@ -1312,6 +1312,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Text-to-speech (TTS) and avatars
 
+* [VibeVoice Studio](https://voicestudio.msrbuilds.com): self-hosted web studio for the VibeVoice text-to-speech model, for multi-speaker podcasts and voiceovers with voice cloning, running fully offline
 * [COVAL](https://app.coval.dev/the-ultimate-voice-ai-stack): architecture of voice AI, from speech recognition to emotional intelligence, and learn how to build, scale, and evaluate them
 * [Parler-TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c): fully open-source high-quality TTS
 * [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook): EPUB to audiobook converter, optimized for Audiobookshelf
