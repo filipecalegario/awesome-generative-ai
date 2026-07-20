@@ -646,6 +646,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
   * Think of MCP like a USB-C port for AI applications.
   * MCP helps you build agents and complex workflows on top of LLMs.
 * Examples
+  * [Xquik MCP](https://xquik.com/mcp): remote MCP server for searching and retrieving X data through 2 tools, with OAuth 2.1 or API key authentication.
   * [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
   * [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
 * List of Servers
@@ -659,7 +660,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Add Supabase to Cursor via MCP](https://x.com/dshukertjr/status/1896531501514109056)
 * [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg): AI Engineer Summit workshop
 * [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
-* [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
+* [TurboMCP](https://turbomcp.ai/): platform for building and deploying MCP servers.
 * [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
 
 ### Programming Frameworks for LLMs
