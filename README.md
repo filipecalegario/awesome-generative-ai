@@ -664,6 +664,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Programming Frameworks for LLMs
 
+* [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue): MIT-licensed streaming Markdown renderer for AI chat interfaces, with support for incomplete Markdown, Mermaid, KaTeX, streaming code blocks, SSR, and Vue, React, Svelte, and Angular integrations.
 * [DSPy: Not Your Average Prompt Engineering](https://jina.ai/news/dspy-not-your-average-prompt-engineering/): a post about the DSPy, a framework developed by the Stanford NLP group aimed at algorithmically optimizing language model prompts
 * [🔥🔥🔥] [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
 
