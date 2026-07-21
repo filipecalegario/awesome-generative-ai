@@ -111,6 +111,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 ## Generative AI history, timelines, maps, and definitions
 
 * [AI Timeline](https://nhlocal.github.io/AiTimeline/)
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI pentest platform and MCP host, covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [Agents Marketplace](https://marketplace.agen.cy/agents)
 * [🔥] [2024 AI Timeline](https://huggingface.co/spaces/reach-vb/2024-ai-timeline): a Hugging Face Space by reach-vb
 * [Cartography of generative AI](https://cartography-of-generative-ai.net/): "What set of extractions, agencies, and resources allow us to converse online with a text-generating tool or to obtain images in a matter of seconds?"
