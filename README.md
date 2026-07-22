@@ -1031,6 +1031,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [AI Research Tools | x post](https://x.com/airesearchtools/status/1704031145476648992): Some AI tools that can be used for research/teaching
 * [Unlocking productivity and personalizing learning with AI | Microsoft EDU](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai) 
 * [Sourcely](https://www.sourcely.net/): Academic Citation Finding Tool with AI
+* [CiteMe](https://citeme.app/): academic citation generator using LLM-based term extraction and result ranking. Searches 10+ databases (OpenAlex, PubMed, Semantic Scholar, CrossRef, etc.) and formats references in 60 curated styles (APA, ABNT, MLA, Chicago, Harvard, IEEE, etc.). Available as a web app and Chrome extension.
 * [GummySearch](https://gummysearch.com/?ref=filipecalegario-awesome-generative-ai): AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 * [[2310.17143] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143) 
 * [Elicit](https://elicit.org/): automate research workflow for literature review
