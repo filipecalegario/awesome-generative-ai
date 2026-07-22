@@ -648,6 +648,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * Examples
   * [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
   * [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
+  * [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server): Glif's hosted media-generation MCP server — generate images, video, and audio from Claude or any MCP client
 * List of Servers
   * [modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
   * [Awesome MCP Servers](https://mcpservers.org/)
