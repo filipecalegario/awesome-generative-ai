@@ -484,6 +484,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [GPT Mobile](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
 * [PageGen](https://pagegen.ai) - An AI Page Generator with Claude AI, React and Shadcn UI. Generate web pages from text, screenshot and templates with one click.
 * [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
+* [STIL.AI](https://stil.gracestack.se): AI-driven fashion design platform — generate unique clothing designs from text descriptions. Free tier available.
+* [STIL.AI Outfit Generator](https://stil.gracestack.se/outfit): Free AI tool to generate unique clothing designs in seconds. Describe your dream outfit and get a custom AI-generated design instantly.
 
 # Code and Programming
 
