@@ -436,6 +436,10 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [Blur Background](https://blurbackground.vip): automatically blurs photo backgrounds in the browser.
+* [Image Describer](https://imagedescriber.dev): generates descriptions of uploaded images.
+* [Video Upscaler](https://videoupscaler.video): upscales and enhances video resolution in the browser.
+* [Vedic Astrology Chart](https://vedicastrologychart.net): generates Vedic birth charts and chart interpretations.
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
