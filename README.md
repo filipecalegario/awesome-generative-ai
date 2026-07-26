@@ -435,6 +435,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [[PDF] Automating Generative Deep Learning for Artistic Purposes: Challenges and Opportunities | Semantic Scholar](https://www.semanticscholar.org/paper/Automating-Generative-Deep-Learning-for-Artistic-Berns-Broad/f3479740d4ec7f91b6d7a01167e9c875a72d386e)
 
 ## Online Tools and Applications
+* [Gpt](https://trygrokai.asia/): A browser-based AI chat entry for quick writing, research, summaries, translation, brainstorming, and productivity questions.
+
 
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
