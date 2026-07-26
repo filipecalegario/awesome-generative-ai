@@ -869,6 +869,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [StructEval](https://tiger-ai-lab.github.io/StructEval/): a TMLR benchmark for LLM generation and conversion across 2,035 examples, 18 text and visual structured-output formats, and 44 task types. [Paper](https://openreview.net/forum?id=buDwV7LUA7) · [Code](https://github.com/TIGER-AI-Lab/StructEval).
 * [Cleanlab Trustworthy Language Model: Score the trustworthiness of any LLM response](https://help.cleanlab.ai/tlm/)
 * [PAIR-code/llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
 * [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
