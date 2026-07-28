@@ -1101,6 +1101,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [CoG 21](https://www.ea.com/seed/news/cog2021-adversarial-rl-content-generation): Adversarial Reinforcement Learning for Procedural Content Generation
 * [GitHub Repositories of Hugging Face](https://github.com/huggingface)
 
+* [GPT Image 2](https://gptimage2.asia/): Generate and edit high-quality AI images for marketing, ecommerce, social media, and branded content.
+
 ### Inbox: Stable Diffusion
 
 * [Complete guide to samplers in Stable Diffusion - Félix Sanz](https://www.felixsanz.dev/articles/complete-guide-to-samplers-in-stable-diffusion)
