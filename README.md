@@ -459,6 +459,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 * [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 * [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
+* [GPT Image 2](https://gptimage2.asia/): AI image generator and editor for marketing visuals, ecommerce, social media, and branded content.
 * [Scenario AI](https://www.scenario.gg/): AI-generated game assets
 * [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
 * [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
@@ -1050,6 +1051,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Synthesis
 
+* [GPT Image 2](https://gptimage2.asia/): GPT-style AI image generation and editing workflow for marketing visuals, ecommerce assets, social posts, and branded content.
 * [TokenVerse](https://token-verse.github.io/): Versatile Multi-concept Personalization in Token Modulation Space
 * [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux) 
 * [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment](https://github.com/ToTheBeginning/PuLID)
