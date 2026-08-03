@@ -453,6 +453,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Architecture Helper](https://architecturehelper.com): Analyze any building architecture, and generate your own custom styles, in seconds.
 * [AI-Flow](https://ai-flow.net/): Connect multiple AI models easily
 * [Code to Flow](https://codetoflow.com): Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
+* [flow-chart.io](https://flow-chart.io): AI diagram generator that produces fully editable scene graphs from plain language — C4 model, BPMN, cloud architecture, ERD, and 17+ diagram types. Every node and connector stays editable after AI generation. Freemium.
 * [Recast Studio](https://recast.studio): AI-powered podcast marketing assistant.
 * [Clipwing](https://clipwing.pro/): A tool for cutting long videos into dozens of short clips.
 * [Tailor](https://www.usetailor.com): Get a daily podcast and newsletter, created for you by an AI
