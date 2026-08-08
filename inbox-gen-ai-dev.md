@@ -1,3 +1,4 @@
+* [Bifrost](https://github.com/maximhq/bifrost): AI gateway providing a single OpenAI-compatible API across 23+ LLM providers, with automatic fallbacks, load balancing, semantic caching, budget governance, MCP gateway support, and Prometheus metrics. `[llms plugins & tools]` `[github]`
 * [GitHub Copilot](https://github.com/features/copilot): assistente de código desenvolvido pelo GitHub baseado em modelos da OpenAI `[assistant co-pilots]` `[page]`
 * [Cursor](https://www.cursor.so/): Chat and edit in an editor built for pair-programming with AI `[assistant co-pilots]` `[page]`
 * [Metabob](https://metabob.com/): Generative AI for refactoring and debugging code `[assistant co-pilots]` `[page]`
