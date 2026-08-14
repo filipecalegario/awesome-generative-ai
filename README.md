@@ -466,6 +466,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [ProsePainter: Image + Sketching Interface + CLIP! - YouTube](https://www.youtube.com/watch?v=mK4F32xNrdw&t=429s)
 * [Cocreator AI](https://cocreator.ai/): creative computer agent (in wait list)
 * [Runway ML](http://runwayml.com/): AI video creation suite
+* [Seele TV](https://seele.tv): controllable AI video studio for reference-led cinematic sequences, shot-level camera direction, and scene continuity
 * [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
 * [Toonify yourself by Justin Pinkney](https://www.justinpinkney.com/toonify-yourself/): turn a human face into a cartoon
 * [deepart.io](https://deepart.io/): a online tool for applying style transfer
