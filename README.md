@@ -1482,6 +1482,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [SiteSpeakAI](https://sitespeak.ai): Automate your customer support with AI
 * [Room Reinvented](https://roomreinvented.com): Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 * [FairyTailAI](https://fairytailai.com/): Personalized bedtime story generator
+* [Resume Roaster](https://resume.roastlabai.com): AI-powered resume critique with ATS scoring and keyword gap analysis - upload your resume, get brutally honest feedback and identify gaps against any job description.
 * [PromptPal](https://promptpal.net): Search for prompts and bots, then use them with your favourite AI. All in one place.
 * [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=filipecalegario-awesome-generative-ai): Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
 * [Aispect](https://aispect.io/?ref=filipecalegario-awesome-generative-ai): New way to experience events.
