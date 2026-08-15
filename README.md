@@ -525,7 +525,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590) 
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
-* [Entroly](https://github.com/juyterman1000/entroly): Local context compression engine for AI coding agents. Reduces input tokens by 70-95% using knapsack optimization, entropy scoring, and cache alignment. Works with Claude, Cursor, Codex, Aider, and 34 more tools.
+* [Entroly](https://github.com/juyterman1000/entroly): Local-first MCP server for explicit-budget context selection, content-addressed exact recovery, and auditable Context Receipts.
 * [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
 * [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
