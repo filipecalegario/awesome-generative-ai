@@ -638,6 +638,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Model Context Protocol
 
+* [sandbaseai/cli](https://github.com/sandbaseai/cli): agent-first CLI and local MCP bridge for 2,000+ AI models, with multimodal generation and structured output
 * [Introducing the Model Context Protocol \ Anthropic](https://www.anthropic.com/news/model-context-protocol)
   * an open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools.
   * developers can either expose their data through MCP servers or build AI applications (MCP clients) that connect to these servers.
