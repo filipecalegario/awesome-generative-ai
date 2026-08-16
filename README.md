@@ -1248,6 +1248,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [videos.social](https://videos.social/?utm_source=filipe-awesome-genai&utm_medium=directory&utm_campaign=listing-wave-d): editable faceless videos from blogs, PDFs, and prompts
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
