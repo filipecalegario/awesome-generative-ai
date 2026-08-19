@@ -436,6 +436,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [tokensto.cash](https://tokensto.cash): Sell unused LLM API capacity on Surplus Intelligence. Paid USDC per request on Base; cash out to Revolut, Monzo, Chime, Zelle, Venmo, Cash App, Wise, or PayPal (the last four need a one-time USDCtoFiat Verify registration).
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
