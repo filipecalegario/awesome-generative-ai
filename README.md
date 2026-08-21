@@ -485,6 +485,10 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [PageGen](https://pagegen.ai) - An AI Page Generator with Claude AI, React and Shadcn UI. Generate web pages from text, screenshot and templates with one click.
 * [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
 
+
+* [LeadBot 24h](https://planificador7.gumroad.com/l/leadbot-24h): n8n-based AI workflow for WhatsApp lead qualification — captures leads, scores intent with AI, and routes hot prospects to CRM, 24/7 without paid APIs.
+
+
 # Code and Programming
 
 ## Vibe Coding
