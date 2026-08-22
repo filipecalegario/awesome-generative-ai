@@ -647,6 +647,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
   * MCP helps you build agents and complex workflows on top of LLMs.
 * Examples
   * [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
+  * [Magic Hour MCP](https://magichour.ai/mcp): hosted remote MCP server for generating images, video and audio from Claude, Cursor or any MCP client
   * [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
 * List of Servers
   * [modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
@@ -1248,6 +1249,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [Magic Hour](https://docs.magichour.ai/): one API (plus Python/Node SDKs and a hosted MCP server) for AI video generation with Sora 2, Veo 3.1, Kling 3.0, Seedance and WAN, plus face swap, lip sync and talking photo; free tier available
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
