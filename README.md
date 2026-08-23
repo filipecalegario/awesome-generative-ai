@@ -819,6 +819,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [[2406.04784] SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals](https://arxiv.org/abs/2406.04784) 
 * [[2406.04692] Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692) 
 * [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration. 
+* [jayamitkatariya/personacli](https://github.com/jayamitkatariya/personacli): Persona is a local-first personal workspace — notes and tasks as plain Markdown on your machine, with an AI chat grounded in your own files. Runs with Ollama or any OpenAI-compatible API. 
 * [Practices for Governing Agentic AI Systems](https://openai.com/research/practices-for-governing-agentic-ai-systems): paper by OpenAI that offers a set of practices for keeping agents’ operations safe and accountable.
 * [[2312.05230] Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning](https://arxiv.org/abs/2312.05230) 
 * [[2309.02427] Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427): "we draw on the rich history of cognitive science and symbolic artificial intelligence to propose Cognitive Architectures for Language Agents (CoALA)" 
