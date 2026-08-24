@@ -561,6 +561,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [mendableai/firecrawl](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 * [QuivrHQ/MegaParse](https://github.com/quivrhq/megaparse): File Parser optimised for LLM Ingestion with no loss. Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 * [LiteLLM](https://www.litellm.ai/): a proxy server to manage auth, loadbalancing, and spend tracking across 100+ LLMs, all in the OpenAI format
+* [OrcaRouter Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite): a self-hosted, OpenAI-compatible LLM router that takes your own provider keys and routes across 100+ models with automatic failover, streaming, and cost/latency-based model selection.
 * [youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development](https://github.com/youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development): Practical LangChain tutorials for LLM applications development
 * [unclecode/crawl4ai: Crawl4AI](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scrapper
 * [microsoft/LMOps](https://github.com/microsoft/LMOps): General technology for enabling AI capabilities w/ LLMs and MLLMs
