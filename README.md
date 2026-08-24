@@ -1050,6 +1050,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Synthesis
 
+* [Lucidpic](https://lucidpic.com/): AI person generator that creates realistic people and then generates consistent photos and videos of the same person
 * [TokenVerse](https://token-verse.github.io/): Versatile Multi-concept Personalization in Token Modulation Space
 * [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux) 
 * [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment](https://github.com/ToTheBeginning/PuLID)
