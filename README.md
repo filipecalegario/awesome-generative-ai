@@ -499,6 +499,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
 
 ## AI-Powered Code Generation
+- **[Coworker](https://github.com/leonjackman/coworker)** – Local-first AI coding assistant desktop app. Multi-provider (OpenAI, Ollama), MCP integration, skills marketplace. MIT licensed.
+
 
 * [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 * [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
