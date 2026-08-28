@@ -932,6 +932,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Eden AI](https://www.edenai.co/?referral=partner-producthunt8&ref=producthunt): provides a unique API connected to the AI engines 
 * [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
 * [LLM App](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+* [SandBase CLI](https://github.com/sandbaseai/cli): local MCP gateway CLI for discovering and invoking 2,000+ AI models through a single interface.
 
 ### AI Engineering
 
