@@ -1248,6 +1248,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [HelloGen](https://hellogen.ai/): one studio over many image and video models, where you describe the shot in plain language and an assistant chooses the model and prices the render before it runs
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
