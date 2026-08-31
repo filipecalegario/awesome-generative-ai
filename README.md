@@ -1276,6 +1276,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Content Studio AI](https://contentstudioai.com/): Faceless Video Generator
 
+* [AiMovieFinder](https://www.aimoviefinder.com/): a free AI movie finder that identifies films from screenshots, scenes, quotes, plots, actors, songs, posters, or video clips.
 # Audio and Music
 
 * [StemGen: A music generation model that listens](https://julian-parker.github.io/stemgen/) 
