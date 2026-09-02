@@ -874,6 +874,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
 * [LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond - Confident AI](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond) 
 * [LLM Leaderboards](https://llm.extractum.io/static/llm-leaderboards/) 
+* [ModelBenchmark](https://modelbenchmark.io) - Specs, prices, benchmarks and lifecycle for 2,000+ AI models.
 * [Reward Bench Leaderboard - a Hugging Face Space by allenai](https://huggingface.co/spaces/allenai/reward-bench) 
 * [LiveBench](https://livebench.ai/): A Challenging, Contamination-Free LLM Benchmark
 * [Evaluating Large Language Models](https://www.lakera.ai/blog/large-language-model-evaluation): Methods, Best Practices & Tools | Lakera – Protecting AI teams that disrupt the world
