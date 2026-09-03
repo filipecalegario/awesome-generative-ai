@@ -532,7 +532,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Everything to Markdown to LLMs
 
-* [Avazbek22/DevProjex](https://github.com/Avazbek22/DevProjex): open-source GUI and CLI for selecting project files and exporting folder trees, file contents, and token-counted context for LLM workflows, with Smart Ignore and output preview.
+* [Avazbek22/DevProjex](https://github.com/Avazbek22/DevProjex): Builds controlled, redacted, token-efficient repository context for LLM workflows through GUI, TUI, CLI, and a read-only MCP server.
 * [bytedance/Dolphin](https://github.com/bytedance/Dolphin): The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 * [NuExtract 2.0 by NuMind](https://numind.ai/blog/outclassing-frontier-llms----nuextract-2-0-takes-the-lead-in-information-extraction): "Outclassing Frontier LLMs in Information Extraction"
 * [unclecode/crawl4ai: 🚀🤖 Crawl4AI](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scraper
