@@ -809,6 +809,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Autonomous LLM Agents
 
+* [Orkas](https://github.com/Orkas-AI/Orkas): open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 * [🔥] [Building effective agents by Anthropic](https://www.anthropic.com/research/building-effective-agents): this article introduces basic concepts related to agents and didactically presents agent architectures.
 * [Complete Guide to LLM Agents (2025)](https://botpress.com/blog/llm-agents): summarization of terms related to LLM agents
 * [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs
