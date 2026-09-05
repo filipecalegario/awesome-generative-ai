@@ -992,6 +992,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Boring Report](https://www.boringreport.org/): "an app that uses AI to remove sensationalism from the news and makes it boring to read"
 * [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch 
 * [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
+* [WSUP AI: Free AI Character Chat](https://wsupai.app/): Free AI character chat in the browser with no sign up.
 * [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
 * [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
 * [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
