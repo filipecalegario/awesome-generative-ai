@@ -1471,6 +1471,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Rosie](https://heyrosie.com/): AI Phone Answering Service
 * [MuckBrass](https://www.muckbrass.com): Find & Validate Startup Ideas using AI
 * [ResumeDive](https://resumedive.com): A resume boosting service using AI
+* [ResumeAI](https://withresumeai.com/): Free ATS checker + AI resume builder; State of ATS 2026 open dataset
 * [Owlbot](https://www.owlbot.ai/): AI Support Agent
 * [fynk](https://fynk.com/): AI powered contract management software   
 * [Taskbase](https://www.taskbase.co.uk): Virtual assistants packaged with AI powered software.
