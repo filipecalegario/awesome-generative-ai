@@ -1056,6 +1056,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Edit Your Image](https://huggingface.co/collections/ysharma/edit-your-image-662be093bf97b697957c3c3f): Find all the trending and useful Gradio demos that you can use to edit your images
 * [OutfitAnyone - a Hugging Face Space by HumanAIGC](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone): Ultra-high quality virtual try-on for Any Clothing and Any Person
 * [StockPhotoAI.net](https://www.stockphotoai.net/?ref=filipecalegario-awesome-generative-ai): Great stock photos, made for you.
+* [Veida](https://veida.ai/): text-to-image generator with a free tier that needs no account or API key
 * [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
 * [deep-floyd/IF](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
 * [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
