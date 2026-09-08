@@ -545,6 +545,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [R Jina](https://r.jina.ai/): convert websites into Markdown by placing the URL in the search bar
 * [Gitingest](https://gitingest.com/): turn any Git repository into a simple text digest of its codebase.
 * [uithub](https://uithub.com/): convert GitHub repositories into Markdown by placing the URL in the search bar
+* [GEOKit](https://geokit.site/): Free Generative Engine Optimization (GEO) & AI SEO toolkit for llms.txt generation & validation, AI crawler rule building, and AI search readiness auditing. Open source at [gstar-byte/geokit-cli](https://github.com/gstar-byte/geokit-cli).
 
 ## Small Language Models
 
