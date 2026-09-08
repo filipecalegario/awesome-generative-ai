@@ -928,6 +928,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLMOps
 
+* [ModelRush](https://modelrush.ai/): an OpenAI-compatible API platform for text, image, video, and audio models, with regional routing and request-level usage tracking.
 * [Lunary](https://lunary.ai): Open-source platform for LLM chatbots and agents: observability, prompt management, testing & more
 * [Eden AI](https://www.edenai.co/?referral=partner-producthunt8&ref=producthunt): provides a unique API connected to the AI engines 
 * [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
