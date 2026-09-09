@@ -1312,6 +1312,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Text-to-speech (TTS) and avatars
 
+* [Milo](https://github.com/michaelegbo/milo): Three.js voice companion with audio-driven gestures, Whisper transcription and Kokoro speech fallback; free for personal, noncommercial use.
 * [COVAL](https://app.coval.dev/the-ultimate-voice-ai-stack): architecture of voice AI, from speech recognition to emotional intelligence, and learn how to build, scale, and evaluate them
 * [Parler-TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c): fully open-source high-quality TTS
 * [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook): EPUB to audiobook converter, optimized for Audiobookshelf
