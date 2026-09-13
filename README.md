@@ -467,6 +467,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Cocreator AI](https://cocreator.ai/): creative computer agent (in wait list)
 * [Runway ML](http://runwayml.com/): AI video creation suite
 * [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
+* [Crevisto](https://crevisto.com/): 100 curated AI image tools, each tuned for a specific use case. Action figures, Ghibli style, LinkedIn avatars, logo maker, photo restoration, and 95 more. CLI-first with BYOK.
 * [Toonify yourself by Justin Pinkney](https://www.justinpinkney.com/toonify-yourself/): turn a human face into a cartoon
 * [deepart.io](https://deepart.io/): a online tool for applying style transfer
 * [Artbreeder](https://www.artbreeder.com/): web-based tool to generate images by breeding existing images
