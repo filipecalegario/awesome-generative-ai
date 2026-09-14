@@ -500,6 +500,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## AI-Powered Code Generation
 
+* [Superagent](https://github.com/pungme/superagent-desktop): open-source macOS desktop app that gives Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring
 * [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 * [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 * [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
