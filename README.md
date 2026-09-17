@@ -486,6 +486,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
 
 # Code and Programming
+* [GeoBuddy](https://geobuddy.co): Checks whether ChatGPT, Claude, Gemini and Perplexity mention your brand and tracks AI visibility over time; free check without signup.
 
 ## Vibe Coding
 
