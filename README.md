@@ -1248,6 +1248,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio): MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose, edit and generate videos from editable plan.json timelines.
+
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
