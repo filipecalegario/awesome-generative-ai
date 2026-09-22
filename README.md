@@ -1247,6 +1247,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Segment Anything | Meta AI](https://segment-anything.com/): "a new AI model from Meta AI that can "cut out" any object, in any image, with a single click"
 
 # Video and Animation
+* [shortshort](https://www.shortshort.io/): turns one long talk, podcast or webinar into vertical 9:16 shorts with word-level captions
 
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
