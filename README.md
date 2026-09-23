@@ -2,6 +2,7 @@
 
 > A curated list of Generative AI projects, tools, artworks, and models
 
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 - [Generative AI Area](#generative-ai-area)
   - [Generative AI history, timelines, maps, and definitions](#generative-ai-history-timelines-maps-and-definitions)
   - [Ethics, Philosophical questions and Discussions about Generative AI](#ethics-philosophical-questions-and-discussions-about-generative-ai)
