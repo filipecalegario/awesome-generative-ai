@@ -1226,6 +1226,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Upscaling
 
+* [UpRes](https://upres.ai): AI image and video upscaler supporting resolutions up to 8K with 14 neural models, developer REST API, batch processing, and MCP server
 * [Leonardo AI Upscaler](https://leonadoai.com/upscaler/): free image upscaler
 * [Remini - AI Photo Enhancer](https://remini.ai/): photo and video enhancer
 * [AI Image Upscaler - Enlarge & Enhance Your Photos for Free - Upscale.media](https://www.upscale.media/): simple free alternative for image upscaling
