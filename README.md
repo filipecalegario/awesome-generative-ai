@@ -944,6 +944,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Attacks on LLMs
 
+* [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive): open database of real-world attacks on and by LLM agents (indirect prompt injection, agent supply chain, MCP, sandbox escapes), one sourced record per event, flagged for confirmed victims and confirmed AI involvement
 * [Constitutional Classifiers](https://arxiv.org/abs/2501.18837): Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming
 * [briland/LLM-security-and-privacy](https://github.com/briland/LLM-security-and-privacy): LLM security and privacy
 * [ZombAIs](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/): From Prompt Injection to C2 with Claude Computer Use
