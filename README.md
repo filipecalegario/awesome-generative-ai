@@ -1036,6 +1036,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Elicit](https://elicit.org/): automate research workflow for literature review
 * [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 * [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
+* [Nujan](https://nujan.app/): A dual-pane paper reader that helps researchers understand complex papers side-by-side with AI. Free to use
 * [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
 * [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 * [hwaseem04/Research-digest](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
