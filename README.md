@@ -1278,6 +1278,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Audio and Music
 
+* [MUSAI Song](https://musaisong.app/en?ref=filipecalegario-awesome-generative-ai): tell your story, pick one of 564 styles, edit the lyrics word by word, and get your sung song with an illustrated plate and a numbered public certificate. $5 one-time (1 song)
 * [StemGen: A music generation model that listens](https://julian-parker.github.io/stemgen/) 
 * [Mustango](https://huggingface.co/spaces/declare-lab/mustango): "Toward Controllable Text-to-Music Generation"
 * [Lyria by Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/): "transforming the future of music creation" 
