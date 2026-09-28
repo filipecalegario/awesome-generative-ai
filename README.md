@@ -500,6 +500,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## AI-Powered Code Generation
 
+* [MySpec](https://myspec.dev): Interactive spec-driven development platform compiling guided developer discovery interviews into deterministic 4-file specification bundles (`constitution.md`, `requirements.md`, `solution.md`, `tasks.md`) with Model Context Protocol (MCP) server integration.
 * [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 * [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 * [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
