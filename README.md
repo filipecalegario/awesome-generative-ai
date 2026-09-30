@@ -1379,7 +1379,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## AI and Education
 
-* [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788) 
+* [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788)
+* [OffLadder](https://offladder.com) - Free career exploration tool that suggests career directions and small real-world experiments to test them. Ages 13+.
 
 ## People and works
 
