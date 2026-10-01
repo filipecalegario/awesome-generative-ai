@@ -486,6 +486,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
 
 # Code and Programming
+* [RoomMaker AI](https://roommakerai.org/): AI room designer that redesigns a room from a photo, previews renovation changes, stages furniture, and drafts floor plan concepts while keeping the original layout.
 
 ## Vibe Coding
 
