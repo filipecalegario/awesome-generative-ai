@@ -1017,6 +1017,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### AI Tools for Research
 
+* [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899): Base mainnet research API. Free x402 discovery; external USDC payers can buy a short research report ($2) or OpenAI-compatible chat ($0.001).
 * [Undermind - AI-Powered Scientific Research Assistant](https://undermind.ai/home/): an AI assistant that reads academic papers.
 * [Scite](https://scite.ai/): AI Assistant or search the literature to transform the way you discover, evaluate, and understand research on any topic.
 * [SciSummary](https://scisummary.com/): AI to summarize scientific articles and research papers in seconds
