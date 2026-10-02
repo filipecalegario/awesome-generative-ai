@@ -1275,6 +1275,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Content Studio AI](https://contentstudioai.com/): Faceless Video Generator
+* [Faceless.so](https://faceless.so/): AI faceless video generator that writes, voices, edits and auto-posts a video every day to YouTube, TikTok and Instagram
 
 # Audio and Music
 
