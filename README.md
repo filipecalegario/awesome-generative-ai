@@ -646,6 +646,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
   * Think of MCP like a USB-C port for AI applications.
   * MCP helps you build agents and complex workflows on top of LLMs.
 * Examples
+  * [Screenpipe](https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp): MCP server for searching locally captured screen text and audio history as context for AI assistants. Source-available under the Screenpipe Commercial License; retrieved context is sent to the connected assistant's model.
   * [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
   * [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
 * List of Servers
