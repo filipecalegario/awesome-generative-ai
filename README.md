@@ -448,6 +448,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Dittto.ai](https://dittto.ai): Fix your hero copy with an AI trained on top SaaS websites.
 * [SEOByAI](https://seoby.ai): Rank Faster on Google with FREE AI SEO Tools
 * [SinglebaseCloud](https://singlebase.cloud): AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
+* [LivePair AI](https://livepairai.com): Multimodal image and video generation studio + API (x402 pay-per-call or prepaid credits), with CLI, MCP server, and n8n node.
 * [TrollyAI](https://trolly.ai/): Create professional SEO articles, 2x faster
 * [WebscrapeAI](https://webscrapeai.com/): Scrape any website without code using AI
 * [Architecture Helper](https://architecturehelper.com): Analyze any building architecture, and generate your own custom styles, in seconds.
