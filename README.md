@@ -978,6 +978,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Text-related Generative Tools
 
+* [Lynote Humanize Text](https://github.com/lynote-ai/humanize-text): MIT-licensed text rewriting toolkit with a multilingual rewrite reference and an auditable structure-first SFT and KTO training-data pipeline.
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere
 * [Jack AI](https://www.usejackai.com): AI Marketing Copywriter tool
 * [aiPDF](https://aipdf.ai): The most advanced AI document assistant
