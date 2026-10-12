@@ -853,6 +853,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 * [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
 
+* [Kortix](https://opensourceclaudecowork.com): the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work — agents, skills, memory and connectors in one git repo you own
+
 #### Multi-agents
 
 * [[2411.00114] Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/abs/2411.00114) 
