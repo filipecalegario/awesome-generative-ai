@@ -1379,6 +1379,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## AI and Education
 
+* [AskePub](https://github.com/GeiserX/AskePub): self-hosted Telegram bot that uses GPT-4o to generate AI study notes from ePub books. Open source, MIT licensed, built with Python and Docker
 * [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788) 
 
 ## People and works
