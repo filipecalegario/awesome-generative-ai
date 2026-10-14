@@ -436,6 +436,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [DishVivid](https://dishvivid.com/): Food-photo editing with free local adjustments and optional AI generation requiring sign-in and an allowance.
 * [LogoMovo](https://logomovo.com/): AI-assisted logo directions with editable symbols, typography, colors and SVG/PNG exports; Studio requires an account and active paid plan.
 * [NailMoodLab](https://nailmoodlab.com/): AI nail-art concept images and virtual hand-photo previews for manicure planning; sign-in and an available AI allowance required.
 * [PackScena](https://packscena.com/): AI product-background and lifestyle-image workspace with original-image comparisons and square/portrait PNG exports; free invitation trial.
