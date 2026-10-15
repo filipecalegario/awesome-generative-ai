@@ -343,6 +343,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Generative AI Tools Directories
 
+* [AI Tools Radar](https://aitoolsradar.com/): multilingual directory for discovering and comparing AI tools, models, agent skills, and prompts, with editorial coverage.
 * [AI Presentation Makers](https://www.aipresentationmakers.com/): In-depth reviews of dozens of AI presentation makers
 * [A.I. Productivity Tools](https://www.aiproductivitytoolkit.com/) 
 * [ToolList.ai](https://toollist.ai/): AI Tools Aggregator
