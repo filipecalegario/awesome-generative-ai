@@ -343,6 +343,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Generative AI Tools Directories
 
+* [forkalt](https://forkalt.com): Directory of open-source and free alternatives to paid AI and pro software, with side-by-side model comparisons.
 * [AI Presentation Makers](https://www.aipresentationmakers.com/): In-depth reviews of dozens of AI presentation makers
 * [A.I. Productivity Tools](https://www.aiproductivitytoolkit.com/) 
 * [ToolList.ai](https://toollist.ai/): AI Tools Aggregator
