@@ -1017,6 +1017,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### AI Tools for Research
 
+* [Pulse](https://pulsecorp.co): AI-moderated market research platform that runs customer interviews at scale.
 * [Undermind - AI-Powered Scientific Research Assistant](https://undermind.ai/home/): an AI assistant that reads academic papers.
 * [Scite](https://scite.ai/): AI Assistant or search the literature to transform the way you discover, evaluate, and understand research on any topic.
 * [SciSummary](https://scisummary.com/): AI to summarize scientific articles and research papers in seconds
