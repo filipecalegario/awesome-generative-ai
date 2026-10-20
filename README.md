@@ -651,6 +651,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * List of Servers
   * [modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
   * [Awesome MCP Servers](https://mcpservers.org/)
+  * [Mode VC Radar](https://modevc.com/api/mcp): Real-time venture capital intelligence, 5,193 investor theses, SEC Form D private offering radar, and 38 interactive market valuation benchmarks via Model Context Protocol.
   * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
   * [Composio MCP Server](https://mcp.composio.dev/): Connect Cursor, Windsurf, and Claude to 100+ fully managed MCP Servers with built-in auth
     * These servers are built by the community and are hosted by Composio
