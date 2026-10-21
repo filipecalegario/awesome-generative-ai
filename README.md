@@ -1330,6 +1330,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
 * [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
 
+* [British Accent Generator](https://britishaccent.pro/): AI British/UK accent TTS with 262 regional voices (RP, Scottish, Welsh, Northern Irish), plus voice clone/design and lip sync.
 ### Podcast generators
 
 * [Google NotebookLM](https://notebooklm.google.com/): generate podcast episodes based on your uploaded references
