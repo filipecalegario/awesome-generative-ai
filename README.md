@@ -436,6 +436,12 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [DishVivid](https://dishvivid.com/): Food-photo editing with free local adjustments and optional AI generation requiring sign-in and an allowance.
+* [LogoMovo](https://logomovo.com/): AI-assisted logo directions with editable symbols, typography, colors and SVG/PNG exports; Studio requires an account and active paid plan.
+* [NailMoodLab](https://nailmoodlab.com/): AI nail-art concept images and virtual hand-photo previews for manicure planning; sign-in and an available AI allowance required.
+* [PackScena](https://packscena.com/): AI product-background and lifestyle-image workspace with original-image comparisons and square/portrait PNG exports; free invitation trial.
+* [LookScene](https://lookscene.packscena.com/): AI hairstyle, outfit and portrait-setting previews from a personal photo; sign-in, consent and free invitation access required.
+* [ResumePlot](https://resumeplot.com/): AI-assisted resume bullet rewriting and job tailoring with local-first editing and searchable PDF export; suggestions require review.
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
@@ -778,6 +784,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Retrieval-Augmented Generation (RAG)
 
+* [Ajun Industry — RAG versus fine-tuning (Chinese guide)](https://ajun-industry.packscena.com/guides/rag-vs-fine-tuning/): Introductory reading comparing retrieval-time context with parameter updates, with hypothetical scenarios and checks for permissions, sources and evaluation.
 * [Benchmarking Hallucination Detection Methods in RAG | Towards Data Science](https://towardsdatascience.com/benchmarking-hallucination-detection-methods-in-rag-6a03c555f063/)
 * [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain): Everything you need to know to build your own RAG application
 * [ragapp/ragapp](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
@@ -1248,6 +1255,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [NEON DUO — Two-person dance role and identity checklist](https://a2oliteneon.xyz/guides/two-person-dance-role-mapping): Public explanatory guide distinguishing identity drift from intended dancer crossings, with a hypothetical diagnostic workflow and output-review limits; real generation and purchases are currently closed. Operator-affiliated, AI-assisted reference.
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
