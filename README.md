@@ -1248,6 +1248,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [Corpse Bride AI](https://corpsebride.cc): One photo to ~10s 9:16 ghost bride/groom cemetery dance video. From $8.88
+* [White Chicks AI](https://whitechicks.cc): 1–2 photos to ~10–12s 9:16 night convertible sing video (duo or pet). From $8.88
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
