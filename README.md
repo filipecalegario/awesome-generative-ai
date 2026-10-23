@@ -651,7 +651,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * List of Servers
   * [modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
   * [Awesome MCP Servers](https://mcpservers.org/)
-  * [Mode VC Radar](https://modevc.com/api/mcp): Read-only venture capital research MCP server: 3,650 investor firms and 13,039 partners, daily SEC Form D new-raise filings, 38 sourced AI market charts and 8 founder calculators. Hosted Streamable HTTP at https://modevc.com/api/mcp (free, no auth). Official MCP Registry id com.modevc/radar.
+  * [Mode VC Radar](https://modevc.com/api/mcp): Read-only venture capital research MCP server: 3,650 investor firms and 13,039 partners, daily SEC Form D new-raise filings, 42 sourced AI market charts and 8 founder calculators. Hosted Streamable HTTP at https://modevc.com/api/mcp (free, no auth). Official MCP Registry id com.modevc/radar.
   * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
   * [Composio MCP Server](https://mcp.composio.dev/): Connect Cursor, Windsurf, and Claude to 100+ fully managed MCP Servers with built-in auth
     * These servers are built by the community and are hosted by Composio
