@@ -1278,6 +1278,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Audio and Music
 
+* [MusicGo](https://musicgo.net/): Browser-based AI song maker with a personal music library and new song versions from saved lyrics or descriptions.
 * [StemGen: A music generation model that listens](https://julian-parker.github.io/stemgen/) 
 * [Mustango](https://huggingface.co/spaces/declare-lab/mustango): "Toward Controllable Text-to-Music Generation"
 * [Lyria by Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/): "transforming the future of music creation" 
