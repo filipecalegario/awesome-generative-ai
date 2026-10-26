@@ -110,6 +110,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, timelines, maps, and definitions
 
+* [AI Release Tracker](https://aireleasetracker.com): Timeline of major frontier LLM releases since Nov 2022 (~268 models), with specs, published benchmarks, and release-cadence analytics.
 * [AI Timeline](https://nhlocal.github.io/AiTimeline/)
 * [Agents Marketplace](https://marketplace.agen.cy/agents)
 * [🔥] [2024 AI Timeline](https://huggingface.co/spaces/reach-vb/2024-ai-timeline): a Hugging Face Space by reach-vb
