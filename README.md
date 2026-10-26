@@ -473,6 +473,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Ostagram.ru](https://www.ostagram.me/): image style transfer plataform
 * [cleanup.pictures](https://cleanup.pictures/): remove objects, people, text and defects from any picture for free
 * [remove.bg](https://www.remove.bg/): remove background from images
+* [RemoveShadow](https://removeshadow.com/): online AI tool that removes unwanted shadows from photos, portraits and document scans
 * [Quick, Draw!](https://quickdraw.withgoogle.com/): can a neural network learn to recognize doodling? A game to help NL by adding users drawing
 * [Nekton.ai](https://nekton.ai/): automate your workflows with AI
 * [Documind.chat](https://documind.chat): Chat with PDF using AI. Documind is a powerful chat with pdf tool that lets you ask questions from your pdf documents.
