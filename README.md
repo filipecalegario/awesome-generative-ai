@@ -462,10 +462,18 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Scenario AI](https://www.scenario.gg/): AI-generated game assets
 * [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
 * [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
+* [PromptImage](https://promptimage.cloud): Free AI image & video studio with a prompt library; freemium signup credits, no card required.
 * [ProsePainter](https://www.prosepainter.com/): an interactive tool to "paint with words." It incorporates guidable text-to-image generation into a traditional digital painting interface
 * [ProsePainter: Image + Sketching Interface + CLIP! - YouTube](https://www.youtube.com/watch?v=mK4F32xNrdw&t=429s)
 * [Cocreator AI](https://cocreator.ai/): creative computer agent (in wait list)
 * [Runway ML](http://runwayml.com/): AI video creation suite
+* [GrokVideo Studio](https://grokvideogenerator.dev): Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial credits.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev): Independent unofficial AI: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org): Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99). Unofficial
+- [dime dime baby ai](https://dimedimebabyai.dev): Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 * [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
 * [Toonify yourself by Justin Pinkney](https://www.justinpinkney.com/toonify-yourself/): turn a human face into a cartoon
 * [deepart.io](https://deepart.io/): a online tool for applying style transfer
