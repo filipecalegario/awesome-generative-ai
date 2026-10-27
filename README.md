@@ -728,6 +728,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [PromptHero](https://prompthero.com/): Search the best prompts for Stable Diffusion, DALL-E and Midjourney
 * [promptoMANIA](https://promptomania.com/): AI art community with prompt generator
 * [Lexica](https://lexica.art/): search over 10M+ Stable Diffusion images and prompts
+* [PicGens](https://www.picgens.com/): Free gallery of AI image and photo prompts paired with results, models, and creator sources.
 * [list of artists for SD v1.4 A-C / D-I / J-N / O-Z](https://rentry.org/artists_sd-v1-4) 
 * [succinctly/text2image-prompt-generator · Hugging Face](https://huggingface.co/succinctly/text2image-prompt-generator): a GPT-2 model fine-tuned on the succinctly/midjourney-prompts dataset, which contains 250k text prompts that users issued to the Midjourney text-to-image service over a month period
 * [The Prompter | vicc | Substack](https://theprompter.substack.com/): a newsletter about news, tips and thoughts around prompt engineering
