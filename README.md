@@ -1435,6 +1435,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Related Awesome Lists
 
+* [Daniyal-Khatri/ai-tools-graveyard](https://github.com/Daniyal-Khatri/ai-tools-graveyard): A hand-verified list of 55 dead AI tools with death dates, causes, sources and an open dataset ($4.24B in funding buried)
 * [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
 * [Hannibal046/Awesome-LLM: Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 * [AlexChalakov/awesome-generative-ai-companies](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
