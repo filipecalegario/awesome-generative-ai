@@ -347,6 +347,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [A.I. Productivity Tools](https://www.aiproductivitytoolkit.com/) 
 * [ToolList.ai](https://toollist.ai/): AI Tools Aggregator
 * [Toolify](https://www.toolify.ai/): AI Tools Directory & AI Tools List
+* [Creati.ai](https://creati.ai/): Multilingual directory of 28,000+ AI tools and agents, with daily AI news and monthly rankings
 * [LLM Explorer](https://llm.extractum.io/): A Curated LLM List. Explore LLM List of the Open-Source LLM Models
 * [OrbicAI](https://orbic.ai/): "The Larget AI Directory, GPT Stores, AWS PartyRocks Apps and Lots of Free AI Tools"
 * [Altern](https://altern.ai/): "Gateway to AI Discoveries"
