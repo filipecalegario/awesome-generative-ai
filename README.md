@@ -110,6 +110,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, timelines, maps, and definitions
 
+* [DisconfirmAI Company Directory](https://disconfirmai.com/en/ai-industry-map/companies): AI companies grouped by industry, with selected business-source links and visible source-coverage gaps.
 * [AI Timeline](https://nhlocal.github.io/AiTimeline/)
 * [Agents Marketplace](https://marketplace.agen.cy/agents)
 * [🔥] [2024 AI Timeline](https://huggingface.co/spaces/reach-vb/2024-ai-timeline): a Hugging Face Space by reach-vb
