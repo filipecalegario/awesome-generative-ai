@@ -1241,6 +1241,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 * [sczhou/codeformer](https://replicate.com/sczhou/codeformer): face restoration algorithm for old photos and AI-generated faces
 * [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration
+* [SparkPix](https://sparkpix.ai/): AI photo editor that makes AI-generated photos look more real
 
 ## Image Segmentation
 
