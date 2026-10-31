@@ -345,6 +345,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 * [AI Presentation Makers](https://www.aipresentationmakers.com/): In-depth reviews of dozens of AI presentation makers
 * [A.I. Productivity Tools](https://www.aiproductivitytoolkit.com/) 
+* [MeetNewAI](https://meetnewai.com/): Free bilingual directory of AI tools, AI games, MCP servers and agent skills, sorted by the job you need done
 * [ToolList.ai](https://toollist.ai/): AI Tools Aggregator
 * [Toolify](https://www.toolify.ai/): AI Tools Directory & AI Tools List
 * [LLM Explorer](https://llm.extractum.io/): A Curated LLM List. Explore LLM List of the Open-Source LLM Models
