@@ -485,6 +485,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [PageGen](https://pagegen.ai) - An AI Page Generator with Claude AI, React and Shadcn UI. Generate web pages from text, screenshot and templates with one click.
 * [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
 
+* [Vaneform](https://vaneform.com/): Free website traffic checker — monthly visits, trends, sources, and growth leaderboards.
 # Code and Programming
 
 ## Vibe Coding
