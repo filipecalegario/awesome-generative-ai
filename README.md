@@ -371,6 +371,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
 * [Maxim AI](https://www.getmaxim.ai): a generative AI evaluation and observability platform
 * [AI Tool List](https://www.aitoollist.org): An awesome directory of AI tools
+* [ListAIHub](https://listaihub.com/): Curated directory of AI agents and autonomous tools with machine-readable OpenAPI specifications
 
 ## Courses and Educational Materials
 
@@ -447,6 +448,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Persuva](https://persuva.ai): Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 * [Dittto.ai](https://dittto.ai): Fix your hero copy with an AI trained on top SaaS websites.
 * [SEOByAI](https://seoby.ai): Rank Faster on Google with FREE AI SEO Tools
+* [SEOCheck-AI](https://seocheck-ai.com/): AI-powered website SEO auditor analyzing Core Web Vitals, JSON-LD structured data, and search engine readiness
 * [SinglebaseCloud](https://singlebase.cloud): AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
 * [TrollyAI](https://trolly.ai/): Create professional SEO articles, 2x faster
 * [WebscrapeAI](https://webscrapeai.com/): Scrape any website without code using AI
