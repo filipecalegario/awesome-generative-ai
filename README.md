@@ -661,6 +661,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
 * [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
 * [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
+* [verma6uc/mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp): Open-source MCP server for B2B outbound sales — build ICPs, score leads, draft personalised cold emails, and build multi-touch sequences, all inside Claude or ChatGPT
 
 ### Programming Frameworks for LLMs
 
