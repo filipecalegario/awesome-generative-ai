@@ -1328,6 +1328,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 * [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool [#avatar]
 * [Synthesia](https://www.synthesia.io/): AI Video Generation Platform [#avatar]
+* [TalkPix](https://www.talkpix.ai/): turn one photo and a typed script or an uploaded audio file into a lip-synced talking video [#avatar]
 * [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
 
 ### Podcast generators
