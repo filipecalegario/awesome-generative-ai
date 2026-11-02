@@ -436,6 +436,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [Revenue Scout](https://revenuescout.ai/): AI finds leads on seven social sites and drafts replies you review and post yourself; free tier and paid plans.
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
@@ -978,6 +979,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Text-related Generative Tools
 
+* [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer): Free MIT-licensed Claude Code plugin for SEO audits, content plans, schema markup and link checks.
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere
 * [Jack AI](https://www.usejackai.com): AI Marketing Copywriter tool
 * [aiPDF](https://aipdf.ai): The most advanced AI document assistant
