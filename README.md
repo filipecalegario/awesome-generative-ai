@@ -646,6 +646,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
   * Think of MCP like a USB-C port for AI applications.
   * MCP helps you build agents and complex workflows on top of LLMs.
 * Examples
+  * [seifip/kilobat-cli](https://github.com/seifip/kilobat-cli): Local stdio MCP server and CLI for macOS network, DNS, proxy and connection diagnostics.
   * [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
   * [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
 * List of Servers
