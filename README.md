@@ -1248,6 +1248,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [VideoUpscaler](https://videoupscaler.co): Online AI video upscaler and REST/MCP API for enhancing videos up to 4K 60fps with denoising, stabilization, and frame interpolation [[integrations]](https://videoupscaler.co/integrations) [[code]](https://github.com/arkyu2077/ai-video-upscaler)
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
