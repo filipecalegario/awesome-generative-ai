@@ -1277,8 +1277,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Content Studio AI](https://contentstudioai.com/): Faceless Video Generator
 
 # Audio and Music
-* [LyricsGift](https://lyricsgift.com/): paid AI service that writes a personalised song from a typed story, with lyrics approved line by line.
 
+* [LyricsGift](https://lyricsgift.com/): paid AI service that writes a personalised song from a typed story, with lyrics approved line by line.
 * [StemGen: A music generation model that listens](https://julian-parker.github.io/stemgen/) 
 * [Mustango](https://huggingface.co/spaces/declare-lab/mustango): "Toward Controllable Text-to-Music Generation"
 * [Lyria by Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/): "transforming the future of music creation" 
