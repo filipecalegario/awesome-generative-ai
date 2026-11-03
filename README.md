@@ -531,6 +531,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 # Text
 
 ## Everything to Markdown to LLMs
+* [Keenable](https://keenable.ai): independent web search index for AI agents; search the web and fetch any page as clean markdown over API, CLI or MCP
 
 * [bytedance/Dolphin](https://github.com/bytedance/Dolphin): The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 * [NuExtract 2.0 by NuMind](https://numind.ai/blog/outclassing-frontier-llms----nuextract-2-0-takes-the-lead-in-information-extraction): "Outclassing Frontier LLMs in Information Extraction"
