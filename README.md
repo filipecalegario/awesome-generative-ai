@@ -1100,6 +1100,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [neural-dream Alternatives and Similar Photos & Graphics Apps | AlternativeTo](https://alternativeto.net/software/neural-dream/) 
 * [CoG 21](https://www.ea.com/seed/news/cog2021-adversarial-rl-content-generation): Adversarial Reinforcement Learning for Procedural Content Generation
 * [GitHub Repositories of Hugging Face](https://github.com/huggingface)
+* [MakeImg](https://makeimg.ai/): browser AI photo generator that turns a text prompt or reference photo into a new image, with 11 selectable models and free daily credits
 
 ### Inbox: Stable Diffusion
 
