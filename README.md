@@ -869,6 +869,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [Argus](https://github.com/gy15901580825/Argus): Open-source red-team testing for AI agents. Selected probes use recorded browser requests, MCP tool calls, or mock payments, with SARIF output and a GitHub Action.
 * [Cleanlab Trustworthy Language Model: Score the trustworthiness of any LLM response](https://help.cleanlab.ai/tlm/)
 * [PAIR-code/llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
 * [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
