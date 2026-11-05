@@ -436,6 +436,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [Joshu](https://joshu.me): AI assistant with its own computer, phone number, email and memory. Text it, call it, or share its desktop — it schedules meetings, runs research reports, and keeps a durable knowledge base. Open source (AGPL).
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
