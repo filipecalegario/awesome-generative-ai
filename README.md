@@ -1476,6 +1476,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Taskbase](https://www.taskbase.co.uk): Virtual assistants packaged with AI powered software.
 * [AI Wedding Toast](https://aiweddingtoast.com): Generate a personalized wedding speech with AI
 * [Interviews Chat](https://www.interviews.chat/): Your Personal Interview Prep & Copilot
+* [Meetini](https://meetini.net/): paid meeting and interview assistant for Apple Silicon Macs with local live transcripts, meeting notes, and cloud AI answer suggestions and follow-up.
 * [Inline Help](https://inlinehelp.com): Answer customer questions before they ask
 * [LinkActions](https://linkactions.com): AI Internal Links Assistant 
 * [Marblism](https://marblism.com): Generate a SaaS boilerplate from a prompt
