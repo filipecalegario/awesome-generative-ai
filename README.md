@@ -374,6 +374,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Courses and Educational Materials
 
+* [100 AI Engineer Interview Questions](https://johnnnmai.github.io/ai-engineer-interview-questions/): Free graded AI engineer interview question bank (Entry/Mid/Senior) with full model answers on LLMs, RAG, agents, fine-tuning, system design, and production.
+
 * [Gemini by Example](https://geminibyexample.com): Learn the Gemini SDK through (annotated) code examples.
 * [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence?tab=readme-ov-file#researchers): Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 * [Generative AI Explained by NVIDIA](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1): A no-coding course by NVIDIA that presents Generative AI concepts and applications, as well as the challenges and opportunities in the field 
