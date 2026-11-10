@@ -709,6 +709,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 #### Prompt Engineering for Text-to-image
 
+* [Prompt Generator](https://trypromptgenerator.com/image-prompt-generator): writes image prompts for Midjourney, FLUX, Nano Banana, GPT Image, Seedream and Stable Diffusion from a description or an uploaded picture (image to prompt); free daily allowance, no sign-up
 * [USP AI Prompt Book](https://app.usp.ai/static/Stable%20Diffusion%202.1%20Prompt%20Book%20by%20USP.ai.pdf): Stable Diffusion v2.1 Prompt Book
 * [daspartho/prompt-extend](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation 
 * [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
