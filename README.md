@@ -1050,6 +1050,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Synthesis
 
+* [Photoshoot](https://photoshoot.app/?utm_source=github_com&utm_medium=backlink&utm_campaign=202609_w7_backlinks): AI commercial photography platform — turn product, fashion, and portrait references into studio-grade product shots, OOTD, and campaign visuals.
 * [TokenVerse](https://token-verse.github.io/): Versatile Multi-concept Personalization in Token Modulation Space
 * [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux) 
 * [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment](https://github.com/ToTheBeginning/PuLID)
