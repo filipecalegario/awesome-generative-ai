@@ -1248,6 +1248,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [Vidmoat](https://vidmoat.com/): an agent-first AI video editor you can chat with, or drive from Claude, Cursor, or ChatGPT over MCP, to import footage, edit a real timeline, and render MP4s
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
