@@ -343,6 +343,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Generative AI Tools Directories
 
+* [Free LLM API Tokens Tracker](https://freellmapi.link): weekday-updated list of 100+ free and free-tier LLM APIs with tokens per day, OpenAI-compatible base URLs, and official vs relay flags.
 * [AI Presentation Makers](https://www.aipresentationmakers.com/): In-depth reviews of dozens of AI presentation makers
 * [A.I. Productivity Tools](https://www.aiproductivitytoolkit.com/) 
 * [ToolList.ai](https://toollist.ai/): AI Tools Aggregator
