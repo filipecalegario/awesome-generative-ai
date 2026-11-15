@@ -1017,6 +1017,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### AI Tools for Research
 
+* [HumanPen](https://humanpen.net/): Credit-based document translation, condensation, citation-format correction, and AI-text rewriting.
+
 * [Undermind - AI-Powered Scientific Research Assistant](https://undermind.ai/home/): an AI assistant that reads academic papers.
 * [Scite](https://scite.ai/): AI Assistant or search the literature to transform the way you discover, evaluate, and understand research on any topic.
 * [SciSummary](https://scisummary.com/): AI to summarize scientific articles and research papers in seconds
