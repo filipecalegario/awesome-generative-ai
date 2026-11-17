@@ -1337,6 +1337,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Speech-to-text (STT) and spoken content analysis
 
+* [Hey Interpreter](https://heyinterpreter.com): live two-way voice translator and room subtitles across 60 languages for phone and smartwatch
 * [Introducing Universal-1](https://www.assemblyai.com/blog/announcing-universal-1-speech-recognition-model/): multilingual speech-to-text 
 * [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++. It can be executed locally.
 * [Good Tape](https://goodtape.io/): paid service for transcription
