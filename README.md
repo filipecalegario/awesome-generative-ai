@@ -869,6 +869,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+* [Litmiq](https://litmiq.com): A free browser-based prompt evaluator. Run a system prompt against your own test cases on multiple OpenAI models, compare outputs side by side, and collect per-metric LLM-judge scores. Bring your own OpenAI key; no account.
 * [Cleanlab Trustworthy Language Model: Score the trustworthiness of any LLM response](https://help.cleanlab.ai/tlm/)
 * [PAIR-code/llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
 * [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
