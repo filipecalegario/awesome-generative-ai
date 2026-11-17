@@ -1468,6 +1468,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+* [Room Meadow](https://roommeadow.com/ai-room-redesign): Restyle room photos with AI; a separate tool draws dimensioned 2D floor plans.
 * [Rosie](https://heyrosie.com/): AI Phone Answering Service
 * [MuckBrass](https://www.muckbrass.com): Find & Validate Startup Ideas using AI
 * [ResumeDive](https://resumedive.com): A resume boosting service using AI
