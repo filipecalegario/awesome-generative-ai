@@ -436,6 +436,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+* [Liveify](https://videolivephoto.com/photo-to-live-photo): Animate a still photo into a Live Photo with AI; sign-in and credits are required, and there is no verified way to import the web .livp download into iPhone Photos.
 * [Lunroo](https://lunroo.com): 45+ Free AI Tools for Social Media Marketing. Save your time on routine tasks using AI.
 * [COUNT](https://getcount.com): AI-powered accounting for small businesses
 * [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
