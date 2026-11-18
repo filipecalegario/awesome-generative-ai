@@ -343,6 +343,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Generative AI Tools Directories
 
+* [Tooldex](https://tooldex.app/): Compare AI tools by task, with official pricing sources, free-plan limits, and dates when details were checked.
 * [AI Presentation Makers](https://www.aipresentationmakers.com/): In-depth reviews of dozens of AI presentation makers
 * [A.I. Productivity Tools](https://www.aiproductivitytoolkit.com/) 
 * [ToolList.ai](https://toollist.ai/): AI Tools Aggregator
