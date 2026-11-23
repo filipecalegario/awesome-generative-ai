@@ -1401,6 +1401,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Interesting GitHub Repositories
 
+- [ViralForge](https://github.com/fendouai/ViralForge): CLI and MCP tools for local video structure analysis and editable video projects.
+- [Whiteboard AI Tutor](https://github.com/molly554/whiteboard-ai-tutor): Open-source animated whiteboard lessons and model-comparison benchmarks; generating new lessons requires model API keys.
+
 * [dvschultz](https://github.com/dvschultz): Derrick Schultz's GitHub
 * [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs): collection of Google Colab Notebooks for ML Arts
 * [🔥] [Structured State Space for Sequence Modeling (S4)](https://github.com/state-spaces/s4): Stole generation from the gods
