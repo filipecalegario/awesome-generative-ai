@@ -1258,6 +1258,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [[Emu Video | Meta](https://emu-video.metademolab.com/) ](https://emu-video.metademolab.com/demo#/demo): state-of-the-art text-to-video generation
 * [AILab-CVC/VideoCrafter](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
 * [Ssemble](https://www.ssemble.com/): collaborative video editor with a collection of AI plugins
+* [Kavel](https://www.kavel.ai/): Kavel is a free AI video generator and AI image generator — 4K clips with sound, and images you can run without an account or a card.
 * [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
 * [Nathan Lands on Twitter: "AI video has started to produce mindblowing results and could eventually disrupt Hollywood / Twitter](https://twitter.com/NathanLands/status/1659195191591596033): Twitter thread with examples of Generative AI tools for video
 * [Stable Animation SDK](https://stability.ai/blog/stable-animation-sdk): a text-to-animation tool for developers by Stability AI [[dev platform]](https://platform.stability.ai/docs/features/animation)
