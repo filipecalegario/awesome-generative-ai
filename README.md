@@ -484,6 +484,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [GPT Mobile](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
 * [PageGen](https://pagegen.ai) - An AI Page Generator with Claude AI, React and Shadcn UI. Generate web pages from text, screenshot and templates with one click.
 * [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
+* [CreoArt](https://creoart.app/) - Pay-as-you-go private AI image and video studio uniting 45 models (GPT Image 2.6, Seedream 5.5, Nano Banana 2.1, FLUX 3, Kling 4.0, Seedance 2.5, Veo 3.1) under one never-expiring wallet with zero public gallery.
 
 # Code and Programming
 
