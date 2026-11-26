@@ -374,6 +374,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Courses and Educational Materials
 
+* [AshuTeacher](https://ashuteacher.vercel.app): Interactive AI Voice Blackboard, 195-country cascading syllabus academy (KG to Doctoral), PDF/photo exam solver, and 6-milestone Thesis & Research Studio with live AI Viva Defense in 100+ languages.
 * [Gemini by Example](https://geminibyexample.com): Learn the Gemini SDK through (annotated) code examples.
 * [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence?tab=readme-ov-file#researchers): Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 * [Generative AI Explained by NVIDIA](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1): A no-coding course by NVIDIA that presents Generative AI concepts and applications, as well as the challenges and opportunities in the field 
