@@ -669,6 +669,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Prompt Engineering
 
+* [Smelt.works Prompt Library](https://smelt.works/examples): 54 free, copy-ready workplace prompts for sales, marketing, HR, managers, customer support and teachers
 * [Narrow AI](https://www.getnarrow.ai/): Automated Prompt Engineering and Optimization Platform
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) 
 * [ncwilson78/System-Prompt-Library](https://github.com/ncwilson78/System-Prompt-Library): A library of shared system prompts for creating customized educational GPT agents.
