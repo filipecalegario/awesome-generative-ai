@@ -343,6 +343,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Generative AI Tools Directories
 
+* [Comparison of AI Agent Data & MCP Tools (2026)](https://geminigeorge22.github.io/publicrecords-comparisons/ai-tools-comparison.html): CC0 comparison of AI agent data tools and MCP servers, with [Hugging Face](https://huggingface.co/datasets/Publicrecords/apify-ai-tools-comparisons) and [Zenodo](https://doi.org/10.5281/zenodo.24596802) dataset releases.
 * [AI Presentation Makers](https://www.aipresentationmakers.com/): In-depth reviews of dozens of AI presentation makers
 * [A.I. Productivity Tools](https://www.aiproductivitytoolkit.com/) 
 * [ToolList.ai](https://toollist.ai/): AI Tools Aggregator
@@ -532,6 +533,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Everything to Markdown to LLMs
 
+* [URL to Markdown](https://apify.com/publicrecords/url-to-markdown): Apify Actor that converts a web page to LLM-ready Markdown, also available as an MCP tool via [Apify MCP](https://mcp.apify.com?tools=publicrecords/url-to-markdown).
 * [bytedance/Dolphin](https://github.com/bytedance/Dolphin): The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 * [NuExtract 2.0 by NuMind](https://numind.ai/blog/outclassing-frontier-llms----nuextract-2-0-takes-the-lead-in-information-extraction): "Outclassing Frontier LLMs in Information Extraction"
 * [unclecode/crawl4ai: 🚀🤖 Crawl4AI](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scraper
@@ -649,6 +651,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
   * [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
   * [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
 * List of Servers
+  * [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp): Hosted MCP servers for public data tools (tech stack detection, phone number validation, Wikipedia search, Crossref DOI lookup, and DNS lookup) on [Apify MCP](https://mcp.apify.com).
   * [modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
   * [Awesome MCP Servers](https://mcpservers.org/)
   * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
