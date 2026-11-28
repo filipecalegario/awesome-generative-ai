@@ -669,6 +669,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Prompt Engineering
 
+* [cn-personas](https://github.com/meiqiu912/cn-personas): Six ready-to-copy Chinese role-play persona prompt packs (demanding client, blunt accountant, small-town relative, pressure interviewer, street vendor, sharp-tongued critic) to practice difficult conversations; MIT licensed.
 * [Narrow AI](https://www.getnarrow.ai/): Automated Prompt Engineering and Optimization Platform
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) 
 * [ncwilson78/System-Prompt-Library](https://github.com/ncwilson78/System-Prompt-Library): A library of shared system prompts for creating customized educational GPT agents.
